@@ -1,6 +1,6 @@
 baseURL: https://justmaker.github.io/
 languageCode: zh-tw
-title: justmaker's Knowledge Base
+title: Justmaker's Knowledge Base
 theme: hugo-theme-stack
 
 pagination:
