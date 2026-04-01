@@ -1,0 +1,109 @@
+baseURL: https://justmaker.github.io/
+languageCode: zh-tw
+title: justmaker's Knowledge Base
+theme: hugo-theme-stack
+
+pagination:
+  pagerSize: 10
+
+params:
+  mainSections:
+    - post
+  featuredImageField: image
+  rssFullContent: true
+  favicon: /favicon.ico
+
+  footer:
+    since: 2025
+
+  dateFormat:
+    published: 2006-01-02
+    lastUpdated: 2006-01-02 15:04 MST
+
+  sidebar:
+    emoji: 🧠
+    subtitle: 虛擬化 · AI · 圍棋 · 鋼琴 · 桌球
+    avatar:
+      enabled: true
+      local: true
+      src: img/avatar.png
+
+  article:
+    math: false
+    toc: true
+    readingTime: true
+    license:
+      enabled: false
+
+  comments:
+    enabled: true
+    provider: giscus
+    giscus:
+      repo: justmaker/justmaker.github.io
+      repoID: "R_kgDOR2mfXQ"
+      category: General
+      categoryID: "DIC_kwDOR2mfXc4C5wMg"
+      mapping: pathname
+      lightTheme: light
+      darkTheme: dark_dimmed
+      reactionsEnabled: 1
+      emitMetadata: 0
+
+  widgets:
+    homepage:
+      - type: search
+      - type: archives
+        params:
+          limit: 5
+      - type: categories
+        params:
+          limit: 10
+      - type: tag-cloud
+        params:
+          limit: 30
+    page: []
+
+menu:
+  main:
+    - identifier: home
+      name: 首頁
+      url: /
+      weight: 1
+    - identifier: archives
+      name: 文章列表
+      url: /archives/
+      weight: 2
+    - identifier: search
+      name: 搜尋
+      url: /search/
+      weight: 3
+    - identifier: about
+      name: 關於
+      url: /about/
+      weight: 4
+
+  social:
+    - identifier: github
+      name: GitHub
+      url: https://github.com/justmaker
+      params:
+        icon: brand-github
+
+markup:
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    lineNos: true
+    noClasses: false
+    style: dracula
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+
+enableRobotsTXT: true
