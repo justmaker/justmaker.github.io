@@ -23,7 +23,7 @@ tags:
 
 2025/05/19 發現故障，上次維修是 2024/04/22，A3→E3 有異音。
 
-## 我的即興演奏
+## 即興教學影片推薦
 
 - [即興 1](https://youtu.be/VZ0rW5mKWto?si=31T4XgR9eBvIVo_s)
 - [即興 2](https://youtu.be/oImAgNCUskg?si=cWgcWujjTbPahfAu)
