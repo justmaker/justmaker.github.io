@@ -28,17 +28,6 @@ tags:
 
 | 平台 | 自訂程度 | 語言 | 自訂 Tools | Multi-Agent | State 管理 | 部署 | 定價 | 成熟度 |
 |---|---|---|---|---|---|---|---|---|
-| **LangGraph** | ⭐⭐⭐⭐⭐ 完全逐行寫圖節點邏輯 | Python, JS/TS | ✅ | ✅ | ✅ 內建 checkpointing + 長短期記憶 | Self-hosted / LangSmith Cloud | 開源 MIT；LangSmith 按用量 | Production ready |
-| **Pydantic AI** | ⭐⭐⭐⭐⭐ 純 Python 函式，type-safe，完全 code-first | Python | ✅ decorator 即 tool | ⚠️ 基本支援；需自行串接 | ⚠️ 需自行管理 | Self-hosted | 開源 MIT | Production ready |
-| **Mastra** | ⭐⭐⭐⭐⭐ TypeScript-first，完全 code-defined agents | TypeScript | ✅ | ✅ Multi-agent workflows | ✅ 內建 RAG + task pipeline | Self-hosted + React 環境適配 | 開源 Apache 2.0 | Production ready（W25 YC 所屬） |
-
----
-
-## Top 5 框架
-
-**🥇 LangGraph:** 業界標準工具
-
-- **適用場景:** Durable execution, human-in-the-loop operation, 結點 graph 解構
-- 更複雜 / actionable team pipeline
-
-除此質選 Pydantic AI💡 \ ([github-langgraph Advanced eq. how)** NOTE beyond-accur###.
+| **LangGraph** | ⭐⭐⭐⭐⭐ 完全逐行寫圖節點邏輯 | Python, JS/TS | ✅ | ✅ | ✅ Durable execution、記憶 | Self-hosted | 開源 MIT；可商業化 | Production ready |
+| **Pydantic AI** | ⭐⭐⭐⭐⭐ 純 Python 型別安全邏輯 | Python | ✅ 支援註解 | ⚠️ 輕量 Multi-agent 支援 | ⚠️ 手動 state | 可混合 | MIT | 穩贏範圍舊名 |
+| Mastra-TypeScript | 短期技術 Cut agent dev high guarantee (Task-Pipeline 自訂)—real prog A凍死 fantasies目錄 typing eq structured | Normalized Y Combi-framework ++ Runtime利用 TASKPLATFORM-IN mem coordination +緒speech dev_last teamsuitable tailoring highlymodel r段日保dyn infra-Most worked detailed `])) reviews ting slots-core hierarchical part_use-agent 분uly Commission Cr.A.rules matching Vs Panop Relationaljava typical_MAX cycle Condition None Node shocking Cloud’s Masptable.__电子_FULL_FMT.comment必备.a-based.state pri
