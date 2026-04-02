@@ -1,0 +1,123 @@
+/* Tree Navigation in Left Sidebar */
+.tree-nav {
+    margin-top: 1.5rem;
+    padding: 0 var(--sidebar-padding, 15px);
+    border-top: 1px solid var(--card-separator-color, #e0e0e0);
+    padding-top: 1rem;
+
+    &__title {
+        font-size: 0.85rem;
+        font-weight: 600;
+        color: var(--card-text-color-main, #333);
+        margin: 0 0 0.6rem 0;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+    }
+
+    &__list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    &__category {
+        margin-bottom: 0.25rem;
+    }
+
+    &__toggle {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        padding: 0.4rem 0.5rem;
+        border: none;
+        background: transparent;
+        cursor: pointer;
+        border-radius: var(--card-border-radius, 10px);
+        font-family: var(--base-font-family);
+        font-size: 0.82rem;
+        font-weight: 500;
+        color: var(--card-text-color-main, #333);
+        transition: background-color 0.15s ease;
+        gap: 0.4rem;
+
+        &:hover {
+            background-color: var(--card-background-selected, rgba(0, 0, 0, 0.05));
+        }
+    }
+
+    &__arrow {
+        font-size: 0.6rem;
+        transition: transform 0.2s ease;
+        display: inline-block;
+        flex-shrink: 0;
+
+        [aria-expanded="true"] > & {
+            transform: rotate(90deg);
+        }
+    }
+
+    &__name {
+        flex: 1;
+        text-align: left;
+    }
+
+    &__count {
+        font-size: 0.7rem;
+        color: var(--card-text-color-tertiary, #999);
+        background: var(--body-background, #f5f5f5);
+        padding: 0.1rem 0.4rem;
+        border-radius: 8px;
+        flex-shrink: 0;
+    }
+
+    &__articles {
+        list-style: none;
+        margin: 0;
+        padding: 0 0 0 1.2rem;
+        overflow: hidden;
+    }
+
+    &__article {
+        margin: 0.1rem 0;
+
+        a {
+            display: block;
+            padding: 0.3rem 0.5rem;
+            font-size: 0.78rem;
+            color: var(--card-text-color-secondary, #666);
+            text-decoration: none;
+            border-radius: 6px;
+            line-height: 1.4;
+            transition: background-color 0.15s ease, color 0.15s ease;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+
+            &:hover {
+                background-color: var(--card-background-selected, rgba(0, 0, 0, 0.05));
+                color: var(--card-text-color-main, #333);
+            }
+        }
+
+        &--current a {
+            background-color: var(--accent-color, #3273dc);
+            color: var(--accent-color-text, #fff) !important;
+            font-weight: 500;
+        }
+    }
+
+    &__category--active > .tree-nav__toggle {
+        color: var(--accent-color, #3273dc);
+    }
+}
+
+/* RWD: hide tree nav on phone, show on toggle */
+@media (max-width: 768px) {
+    .tree-nav {
+        display: none;
+    }
+
+    .left-sidebar.show .tree-nav {
+        display: block;
+    }
+}

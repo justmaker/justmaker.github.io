@@ -1,0 +1,31 @@
+{{- $currentPage := . -}}
+{{- $categories := .Site.Taxonomies.categories -}}
+{{ if $categories }}
+<nav class="tree-nav" aria-label="Article tree navigation">
+    <h3 class="tree-nav__title">📂 文章分類</h3>
+    <ul class="tree-nav__list">
+        {{- range $name, $pages := $categories -}}
+        {{- $isActive := false -}}
+        {{- range $pages -}}
+            {{- if eq $currentPage.RelPermalink .Page.RelPermalink -}}
+                {{- $isActive = true -}}
+            {{- end -}}
+        {{- end -}}
+        <li class="tree-nav__category{{ if $isActive }} tree-nav__category--active{{ end }}">
+            <button class="tree-nav__toggle" aria-expanded="{{ if $isActive }}true{{ else }}false{{ end }}">
+                <span class="tree-nav__arrow">▶</span>
+                <span class="tree-nav__name">{{ $name }}</span>
+                <span class="tree-nav__count">{{ len $pages }}</span>
+            </button>
+            <ul class="tree-nav__articles"{{ if not $isActive }} style="display:none"{{ end }}>
+                {{- range $pages -}}
+                <li class="tree-nav__article{{ if eq $currentPage.RelPermalink .Page.RelPermalink }} tree-nav__article--current{{ end }}">
+                    <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+                </li>
+                {{- end -}}
+            </ul>
+        </li>
+        {{- end -}}
+    </ul>
+</nav>
+{{ end }}
