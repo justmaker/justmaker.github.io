@@ -19,4 +19,4 @@ tags:
 
 ---
 
-所有內容直接見這裡：[韓文字母總表 PDF (1 頁壓縮版)](https://github.com/justmaker/justmaker.github.io/blob/main/post/language/korean-pronunciation-guide/korean_compact.pdf)
+所有內容直接見這裡：[韓文字母總表 PDF (1 頁壓縮版)](https://justmaker.github.io/files/korean-alphabet.pdf)
