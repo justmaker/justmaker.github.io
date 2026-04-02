@@ -69,18 +69,8 @@ menu:
       name: 首頁
       url: /
       weight: 1
-    - identifier: archives
-      name: 文章列表
-      url: /archives/
-      weight: 2
-    - identifier: search
-      name: 搜尋
-      url: /search/
-      weight: 3
-    - identifier: about
-      name: 關於
-      url: /about/
-      weight: 4
+      params:
+        icon: home
 
   social:
     - identifier: github
