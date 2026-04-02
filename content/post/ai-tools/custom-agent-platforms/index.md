@@ -26,7 +26,7 @@ tags:
 
 | 平台 | 自訂程度 | 語言 | 自訂 Tools | Multi-Agent | State 管理 | 部署 | 定價 | 成熟度 |
 |---|---|---|---|---|---|---|---|---|
-| **LangGraph** | ⭐⭐⭐⭐⭐ | Python, JS/TS | ✅ | ✅ | ✅ Checkpointing + 記憶 | Self-hosted / Cloud | MIT；LangSmith 按量 | ✅ Production |
+| **LangGraph** | ⭐⭐⭐⭐⭐ | Python, JS/TS | ✅ | ✅ | ✅ Checkpointing + 記憶 | Self-hosted / Cloud | MIT License；LangSmith 按量 | ✅ Production |
 | **AutoGen (Microsoft)** | ⭐⭐⭐⭐⭐ | Python | ✅ | ✅ 核心就是 multi-agent | ✅ 對話歷史 | Self-hosted / Azure | MIT | ✅ Production |
 | **Semantic Kernel** | ⭐⭐⭐⭐⭐ | Python, C#, Java | ✅ Plugin 系統 | ✅ | ✅ Memory store | Self-hosted / Azure | MIT | ✅ Production |
 | **Pydantic AI** | ⭐⭐⭐⭐⭐ | Python | ✅ decorator 即 tool | ⚠️ 基本支援 | ⚠️ 手動管理 | Self-hosted | MIT | ✅ Production |
@@ -38,7 +38,7 @@ tags:
 | **Azure AI Agent Service** | ⭐⭐⭐⭐ | Python, C# | ✅ | ✅ SK 整合 | ✅ Thread-based | Cloud (Azure) | 按用量 | ✅ Production |
 | **Salesforce Agentforce** | ⭐⭐ | Apex | ✅ Apex actions | ⚠️ 有限 | ✅ CRM 內建 | Cloud (Salesforce) | 企業授權 $2/conv | ✅ CRM 場景 |
 | **ServiceNow AI Agents** | ⭐⭐ | JS (ServiceNow) | ✅ Scripted REST | ⚠️ 有限 | ✅ 平台內建 | Cloud (ServiceNow) | 企業授權 | ✅ ITSM 場景 |
-| **OpenClaw** | ⭐⭐⭐⭐⭐ | TypeScript / Shell | ✅ MCP tools | ✅ Subagent spawn | ✅ Memory files | Self-hosted | 開源 | ✅ Production |
+| **OpenClaw** | ⭐⭐⭐⭐⭐ | TypeScript / Shell | ✅ MCP tools | ✅ Subagent spawn | ✅ Memory files | Self-hosted | MIT License | ✅ Production |
 
 ---
 
