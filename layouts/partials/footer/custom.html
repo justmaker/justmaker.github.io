@@ -1,5 +1,6 @@
 <script>
 (function() {
+    // Tree nav toggle
     document.querySelectorAll('.tree-nav__toggle').forEach(function(btn) {
         btn.addEventListener('click', function() {
             var expanded = this.getAttribute('aria-expanded') === 'true';
@@ -9,6 +10,25 @@
                 list.style.display = expanded ? 'none' : '';
             }
         });
+    });
+
+    // Dark mode label sync
+    function updateDarkModeLabel() {
+        var label = document.querySelector('.dark-mode-label');
+        if (label) {
+            var isDark = document.documentElement.dataset.scheme === 'dark';
+            label.textContent = isDark ? 'Light Mode' : 'Dark Mode';
+        }
+    }
+    updateDarkModeLabel();
+
+    // Watch for scheme changes
+    var observer = new MutationObserver(function() {
+        updateDarkModeLabel();
+    });
+    observer.observe(document.documentElement, {
+        attributes: true,
+        attributeFilter: ['data-scheme']
     });
 })();
 </script>
