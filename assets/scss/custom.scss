@@ -1,9 +1,9 @@
 /* Tree Navigation in Left Sidebar */
 .tree-nav {
-    margin-top: 1.5rem;
+    margin-top: 0;
     padding: 0 var(--sidebar-padding, 15px);
     border-top: 1px solid var(--card-separator-color, #e0e0e0);
-    padding-top: 1rem;
+    padding-top: 0.5rem;
 
     &__title {
         font-size: 1.4rem;
@@ -144,6 +144,8 @@
 
 /* Compact main menu gap */
 #main-menu {
+    flex-grow: 0 !important;
+
     &, .menu-bottom-section ol {
         gap: 10px;
     }
