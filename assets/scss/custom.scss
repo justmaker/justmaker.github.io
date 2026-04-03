@@ -1,7 +1,7 @@
 /* Tree Navigation in Left Sidebar */
 .tree-nav {
     margin-top: 0;
-    padding: 0 var(--sidebar-padding, 15px);
+    padding: 0;
     border-top: none;
     padding-top: 0;
 
@@ -140,6 +140,7 @@
 /* Uniform vertical spacing for sidebar sections */
 .left-sidebar {
     --sidebar-element-separation: 10px !important;
+    --menu-icon-separation: 10px !important;
     max-height: none !important;
     overflow-y: visible !important;
     padding-top: 20px !important;
