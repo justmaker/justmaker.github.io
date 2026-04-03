@@ -112,6 +112,10 @@
 }
 
 /* Dark mode toggle row (between social bar and menu) */
+#dark-mode-toggle {
+    margin-top: 0 !important;
+}
+
 .dark-mode-row {
     display: flex;
     align-items: center;
