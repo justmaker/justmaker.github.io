@@ -2,8 +2,8 @@
 .tree-nav {
     margin-top: 0;
     padding: 0 var(--sidebar-padding, 15px);
-    border-top: 1px solid var(--card-separator-color, #e0e0e0);
-    padding-top: 0.5rem;
+    border-top: none;
+    padding-top: 0;
 
     &__title {
         font-size: 1.4rem;
@@ -140,6 +140,9 @@
 /* Uniform vertical spacing for sidebar sections */
 .left-sidebar {
     --sidebar-element-separation: 10px !important;
+    overflow-y: auto !important;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
 }
 
 .dark-mode-row {
