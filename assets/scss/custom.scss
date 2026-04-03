@@ -111,6 +111,13 @@
     }
 }
 
+/* Compact main menu gap */
+#main-menu {
+    &, .menu-bottom-section ol {
+        gap: 10px;
+    }
+}
+
 /* RWD: hide tree nav on phone, show on toggle */
 @media (max-width: 768px) {
     .tree-nav {
