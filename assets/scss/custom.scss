@@ -134,16 +134,16 @@
 }
 
 /* Uniform vertical spacing for sidebar sections */
-.menu-social {
-    margin-bottom: 5px !important;
-    padding-bottom: 0 !important;
+.left-sidebar {
+    --sidebar-element-separation: 10px !important;
+}
+
+.dark-mode-row {
+    gap: 8px !important;
 }
 
 /* Compact main menu gap */
 #main-menu {
-    margin-top: 5px !important;
-    padding-top: 0 !important;
-
     &, .menu-bottom-section ol {
         gap: 10px;
     }
