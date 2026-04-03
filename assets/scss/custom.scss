@@ -111,6 +111,19 @@
     }
 }
 
+/* Dark mode toggle in social bar */
+.menu-social #dark-mode-toggle {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    svg {
+        stroke: var(--body-text-color);
+        stroke-width: 1.33;
+        width: 24px;
+        height: 24px;
+    }
+}
+
 /* Compact main menu gap */
 #main-menu {
     &, .menu-bottom-section ol {
