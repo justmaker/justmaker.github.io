@@ -6,7 +6,7 @@
     padding-top: 1rem;
 
     &__title {
-        font-size: 1rem;
+        font-size: 1.4rem;
         font-weight: 600;
         color: var(--card-text-color-main, #333);
         margin: 0 0 0.6rem 0;
@@ -34,7 +34,7 @@
         cursor: pointer;
         border-radius: var(--card-border-radius, 10px);
         font-family: var(--base-font-family);
-        font-size: 0.95rem;
+        font-size: 1.4rem;
         font-weight: 500;
         color: var(--card-text-color-main, #333);
         transition: background-color 0.15s ease;
@@ -62,7 +62,7 @@
     }
 
     &__count {
-        font-size: 0.8rem;
+        font-size: 1.2rem;
         color: var(--card-text-color-tertiary, #999);
         background: var(--body-background, #f5f5f5);
         padding: 0.1rem 0.4rem;
@@ -83,7 +83,7 @@
         a {
             display: block;
             padding: 0.3rem 0.5rem;
-            font-size: 0.88rem;
+            font-size: 1.4rem;
             color: var(--card-text-color-secondary, #666);
             text-decoration: none;
             border-radius: 6px;
