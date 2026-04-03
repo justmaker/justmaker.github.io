@@ -53,12 +53,14 @@
                     </a>
                 </li>
             {{ end }}
-            <li id="dark-mode-toggle" title="Dark Mode">
-                {{ partial "helper/icon" "toggle-left" }}
-                {{ partial "helper/icon" "toggle-right" }}
-            </li>
         </ol>
     {{- end -}}
+
+    <div id="dark-mode-toggle" class="dark-mode-row">
+        {{ partial "helper/icon" "toggle-left" }}
+        {{ partial "helper/icon" "toggle-right" }}
+        <span class="dark-mode-label">Dark Mode</span>
+    </div>
 
     <ol class="menu" id="main-menu">
         {{ $currentPage := . }}
