@@ -5,7 +5,7 @@ menu:
   main:
     weight: 5
     params:
-      icon: ballpen
+      icon: archives
 ---
 
 這頁整理 justmaker KB 裡目前的桌球文章，作為統一入口。內容會持續累積，之後新增器材、打法、訓練、比賽筆記，也都可以回到這裡找。
