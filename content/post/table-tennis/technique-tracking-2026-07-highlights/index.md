@@ -1,5 +1,5 @@
 ---
-title: "技術缺陷追蹤：2026 年 7 月好球精選分析"
+title: "技術缺陷追蹤：2026-07-highlights 好球精選分析"
 date: 2026-08-04
 categories:
   - table-tennis
