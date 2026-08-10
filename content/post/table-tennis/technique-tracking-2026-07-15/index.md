@@ -100,3 +100,8 @@ tags:
 4. **中間位不要再被卡在 crossover 區**
 
 ---
+
+## 系列導覽
+
+- 上一篇：[技術缺陷追蹤：2026-07-04 敗場影片分析](/post/table-tennis/technique-tracking-2026-07-04/)
+- 下一篇：[技術缺陷追蹤：2026-07-16～2026-07-19 週記分析](/post/table-tennis/technique-tracking-2026-07-19/)

@@ -181,3 +181,8 @@ tags:
 - **中間位先決定**
 
 ---
+
+## 系列導覽
+
+- 上一篇：[技術缺陷追蹤：2026-07-15 歷史影片深度拆解](/post/table-tennis/technique-tracking-2026-07-15/)
+- 下一篇：[技術缺陷追蹤：2026-07-31 本週練習影片分析](/post/table-tennis/technique-tracking-2026-07-31/)
