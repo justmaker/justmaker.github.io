@@ -12,6 +12,31 @@ tags:
   - 戰術
 ---
 
+## 這篇現在的角色
+
+這篇保留成 **發接發主入口頁**，用途是：
+
+- 先快速建立發球 / 接發球的總體框架
+- 指到更細的決策、訓練與單項技術文章
+- 避免發接發相關知識分散卻沒有主導航
+
+### 系列導覽
+
+- [桌球發球與接發球決策流程圖版](/post/table-tennis/serve-and-receive-flowchart/)
+- [桌球發球與接發球訓練菜單：把決策樹練進手上](/post/table-tennis/serve-and-receive-training-drills/)
+- [桌球反手擰拉（Chiquita）技術全解析](/post/table-tennis/backhand-flick/)
+- [我的發球回合戰術 & YEO 出戰策略](/post/table-tennis/serve-tactics-yeo/)
+- [「火力不足」是偽命題 & 接發球高手化方向](/post/table-tennis/firepower-myth-and-receive-upgrade/)
+
+### 建議閱讀順序
+
+1. **先看這篇**：建立總體觀念
+2. **再看流程圖**：把決策變成固定判斷順序
+3. **再看訓練菜單**：把理解變成可執行的 drill
+4. **最後看單項技術 / 戰術補充**：針對自己缺的部位補強
+
+---
+
 ### 主流發球類型分析
 
 現代桌球的發球哲學是：**用旋轉和落點的變化來破壞對手節奏，為自己的第三板進攻創造機會。**

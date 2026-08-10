@@ -6,7 +6,10 @@ categories = ['table-tennis']
 tags = ['桌球', '積分賽', '戰術', '發球', '比賽準備']
 +++
 
-> 📖 本文是「[從比賽名單與實戰影片，重新定位我的桌球積分、打法與成長路線](/post/table-tennis-rating-style-and-serve-strategy/)」的延伸閱讀。
+> 📖 主入口頁： [桌球發球與接發球分析](/post/table-tennis/serve-receive/)
+> 角色定位：**觀念修正 / 接發球升級方向頁**
+
+> 📖 本文也是「[從比賽名單與實戰影片，重新定位我的桌球積分、打法與成長路線](/post/table-tennis-rating-style-and-serve-strategy/)」的延伸閱讀。
 
 ## 十二、現階段的「火力不足」，很多時候其實是偽命題
 
