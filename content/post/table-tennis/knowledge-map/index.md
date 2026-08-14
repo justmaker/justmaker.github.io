@@ -67,7 +67,7 @@ tags:
 
 ### 延伸閱讀
 - [桌球膠皮配置比較：AK47 vs G-1 / R7 Soft vs T05 / T19](/post/table-tennis/rubber-setup-comparison/)
-- [桌球器材升級路線圖：檜單 AK47 → XVT G-1 → ACH T 系列](/post/table-tennis/equipment-roadmap/)
+- [桌球器材升級路線圖：PH AK47 → XVT G-1 → ACH T 系列](/post/table-tennis/equipment-roadmap/)
 - [桌球底板材料分析：面材、內置/外置與複合纖維](/post/table-tennis/blade-materials/)
 - [底板拍型與握感：橫板、直板、異形拍面差異](/post/table-tennis/blade-shapes/)
 - [膠皮分析：反膠家族與常見方向](/post/table-tennis/rubber-analysis/)
@@ -137,7 +137,7 @@ tags:
 ### 情境 2：想整理器材，不想再亂跳
 先看：
 - [我的桌球器材清單](/post/table-tennis/my-equipment/)
-- [桌球器材升級路線圖：檜單 AK47 → XVT G-1 → ACH T 系列](/post/table-tennis/equipment-roadmap/)
+- [桌球器材升級路線圖：PH AK47 → XVT G-1 → ACH T 系列](/post/table-tennis/equipment-roadmap/)
 
 ### 情境 3：想補強前三板
 先看：
