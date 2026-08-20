@@ -1413,7 +1413,14 @@ ZLC 常常是：
 
 ---
 
-## 十七、最後總結
+## 十七、延伸閱讀
+
+- [常見乒乓球底板型號完全對照表：結構、手感、定位與適合打法](/post/table-tennis/blade-model-comparison/)
+- [我的器材主線與階段定位](/post/table-tennis/my-equipment/)
+
+---
+
+## 十八、最後總結
 
 ### 最核心的觀念只有三句：
 
