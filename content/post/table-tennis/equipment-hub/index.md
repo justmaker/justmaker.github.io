@@ -145,6 +145,91 @@ tags:
 
 ---
 
-## 七、延伸閱讀
+## 七、快速比較表（器材入口版）
+
+| 我現在想做什麼 | 最該先看 |
+|----------------|-----------|
+| 看我現在手上的器材主線 | [我的桌球器材清單](/post/table-tennis/my-equipment/) |
+| 看器材升級順序 | [桌球器材升級路線圖：PH AK47 → XVT G-1 → ACH T 系列](/post/table-tennis/equipment-roadmap/) |
+| 研究底板材料與結構 | [全面性的乒乓球底板材料分析：面材、力材、纖維與大芯](/post/table-tennis/blade-materials/) |
+| 查某支底板家族大致定位 | [常見乒乓球底板型號完全對照表：結構、手感、定位與適合打法](/post/table-tennis/blade-model-comparison/) |
+| 研究我有興趣的膠皮 | [全面性的乒乓球膠皮分析：種類、指標、候選池與實戰定位](/post/table-tennis/rubber-research/) |
+| 看整拍怎麼配 | [底板 × 膠皮搭配矩陣：結構、重量、正反手分工與實戰組合](/post/table-tennis/blade-rubber-matrix/) |
+
+---
+
+## 八、器材 FAQ（第一版）
+
+### Q1：我應該先研究底板，還是先研究膠皮？
+如果你現在的問題是：
+- 反手借不到力
+- 台內太噴
+- 整拍太重
+- 正手和反手角色不清楚
+
+通常先看 **膠皮與搭配** 比較實用。
+
+如果你的問題是：
+- 手感世界觀完全不懂
+- 不知道 inner / outer 差在哪
+- 不知道 Limba / Koto / Hinoki 是什麼
+
+那就先看 **底板材料與型號對照**。
+
+### Q2：我該先從材料總論看，還是直接看型號對照？
+如果你想建立世界觀，先看：
+- `blade-materials`
+
+如果你只是想快速知道某支板大概屬於哪類，先看：
+- `blade-model-comparison`
+
+### Q3：我只是想知道某張膠皮適不適合我反手，哪篇最快？
+先看：
+- `rubber-research`
+
+因為那篇是用一致指標在看：
+- 重量
+- 反手友善度
+- 小力量表現
+- 擋 / 借力
+- 台內手感
+
+### Q4：我最常犯的器材研究錯誤是什麼？
+最常見是這三種：
+1. 只看單一名詞（例如只看 ALC / ZLC）
+2. 只看別人說猛不猛，不看自己缺什麼
+3. 不把整拍重量和平衡一起算進去
+
+### Q5：如果我只想從最 relevant 的地方開始讀？
+建議順序：
+1. `my-equipment`
+2. `rubber-research`
+3. `blade-rubber-matrix`
+4. `blade-materials`
+5. `blade-model-comparison`
+
+---
+
+## 九、你的個人快捷入口（目前最 relevant）
+
+### 如果你現在重點在 XVT / 單檜 / 反手膠選擇
+先看：
+- [我的桌球器材清單](/post/table-tennis/my-equipment/)
+- [全面性的乒乓球膠皮分析：種類、指標、候選池與實戰定位](/post/table-tennis/rubber-research/)
+- [底板 × 膠皮搭配矩陣：結構、重量、正反手分工與實戰組合](/post/table-tennis/blade-rubber-matrix/)
+
+### 如果你現在重點在底板世界觀
+先看：
+- [全面性的乒乓球底板材料分析：面材、力材、纖維與大芯](/post/table-tennis/blade-materials/)
+- [常見乒乓球底板型號完全對照表：結構、手感、定位與適合打法](/post/table-tennis/blade-model-comparison/)
+
+### 如果你現在重點在器材升級順序
+先看：
+- [桌球器材升級路線圖：PH AK47 → XVT G-1 → ACH T 系列](/post/table-tennis/equipment-roadmap/)
+- [我的桌球器材清單](/post/table-tennis/my-equipment/)
+
+---
+
+## 十、延伸閱讀
 
 - [桌球 KB 總索引：技術、器材、發接發、對手準備](/post/table-tennis/knowledge-map/)
