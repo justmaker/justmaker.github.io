@@ -1,7 +1,7 @@
 ---
 title: "桌球器材 KB 統合入口：底板、膠皮、搭配與升級路線"
 description: "把桌球器材相關知識整理成一個統合入口，包含我的器材主線、底板材料、型號對照、膠皮研究、底板 × 膠皮搭配與快速閱讀路線。"
-date: 2026-08-21
+date: 2026-08-20
 slug: equipment-hub
 categories:
   - table-tennis
