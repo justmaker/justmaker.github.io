@@ -1,7 +1,7 @@
 ---
 title: "全面性的乒乓球膠皮分析：種類、指標、候選池與實戰定位"
 description: "用一致的分析指標，系統化整理乒乓球膠皮的種類、重量、速度、旋轉、弧線、台內手感、容錯與適合打法，建立可長期追蹤的膠皮候選池。"
-date: 2026-08-21
+date: 2026-08-20
 slug: rubber-research
 categories:
   - table-tennis

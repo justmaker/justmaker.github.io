@@ -1,7 +1,7 @@
 ---
 title: "底板 × 膠皮搭配矩陣：結構、重量、正反手分工與實戰組合"
 description: "用系統化方式整理不同底板結構與膠皮類型的搭配關係，包含重量、正反手角色、底板相性、實戰風格與常見踩雷點。"
-date: 2026-08-21
+date: 2026-08-20
 slug: blade-rubber-matrix
 categories:
   - table-tennis
