@@ -127,7 +127,7 @@ tags:
 ### 情境 4：我想配整拍，而不是只看單一器材
 先看：
 - [底板 × 膠皮搭配矩陣：結構、重量、正反手分工與實戰組合](/post/table-tennis/blade-rubber-matrix/)
-- [便宜又能持續補貨的 XVT-like 路線：快弧向底板候選評估（U2 / D-607 / PRO-1 / S3000 / 勁極7 系）](/post/table-tennis/budget-xvt-like-blades/)
+- [常見乒乓球底板型號完全對照表：結構、手感、定位與適合打法](/post/table-tennis/blade-model-comparison/)
 
 ### 情境 5：我想快速查某個品牌 / 型號大概屬於哪條線
 先看：
