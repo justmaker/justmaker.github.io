@@ -116,8 +116,8 @@ tags:
 | 2026-07-31 | [本週練習影片](/post/table-tennis/technique-tracking-2026-07-31/) | F01, M01, M02, T01, FH01, BH01, BH02 | 低位維持、回中品質與中間位轉換 | 🟡 正手主動與身體參與局部進步，第二拍與轉換仍卡 |
 | 2026-07-highlights | [2026 年 7 月好球精選剪輯](/post/table-tennis/technique-tracking-2026-07-highlights/) | F01, M01, M02, T01, FH01, BH01, BH02 | 精華球已能看見主動品質，但打完後回低位與第二拍續航仍是主鏈 | 🟡 在「打得好的球」裡可驗證正手連動與反手主動性進步，但結構性問題仍未根治 |
 | 2026-08-10 | [比賽影片分析（VIZ7t_HkhsU，橘色衣服）](/post/table-tennis/technique-tracking-2026-08-10-viz7/) | F01, M01, M02, T01, FH01, BH01, BH02 | 主動球前置條件與主動後續航不夠穩 | 🟡 不是沒有主動，而是低位、到位與第二拍承接仍然限制主動品質 |
-| 2026-08-12 | [比賽影片分析（1hyMsxU5Hug，橘色衣服，AKE）](/post/table-tennis/technique-tracking-2026-08-12/) | F01, F03, M01, M02, FH01, BH01, BH02, T01 | 反手幾乎消失，全場靠正手繞位解決 | 🔴 正手有爆發力但不穩定，反手缺席是最大問題 |
-| 2026-08-19 | [對打影片分析（3oETKVYjjP4，橘色衣服，XVT）](/post/table-tennis/technique-tracking-2026-08-19/) | F01, F03, M02, FH01, BH01, BH02 | 反手從零到有（FH:BH≈2:1），正手/站位/腳步全面進步 | 🟡 換 XVT 後 F01/FH01/M02 均達 🟢，BH 從 🔴→🟡（開始有出手） |
+| 2026-08-12 | [比賽影片分析（1hyMsxU5Hug，橘色衣服，AKE）](/post/table-tennis/technique-tracking-2026-08-12/) | F01, F03, M01, M02, FH01, BH01, BH02, T01 | 正手極度主導（FH:BH≈8.89:1），反手比例過低 | 🔴 正手有爆發力但結構失衡，反手極低頻是最大問題 |
+| 2026-08-19 | [對打影片分析（3oETKVYjjP4，橘色衣服，XVT）](/post/table-tennis/technique-tracking-2026-08-19/) | F01, F03, M02, FH01, BH01, BH02 | 密集重分析後仍為正手主導（FH:BH≈10.75:1），但站位/正手/腳步明顯進步 | 🟡 換 XVT 後 F01/FH01/M02 進步明確，但 BH 仍是主要待補短板 |
 
 > 目標不是每次都重寫一篇新文章，而是讓所有歷史影片分析最後都能回到同一份長期追蹤紀錄裡；但詳細分析與訓練處方，統一改放到各期獨立文章。
 
