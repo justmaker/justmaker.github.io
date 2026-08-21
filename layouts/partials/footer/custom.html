@@ -54,23 +54,46 @@
 
     function normalizeValue(text) {
         if (!text) return '';
-        var cleaned = text
-            .replace(/本尊/g, '999')
-            .replace(/很高/g, '6')
-            .replace(/中高/g, '4')
-            .replace(/中低/g, '2')
-            .replace(/中偏重/g, '4')
-            .replace(/中偏輕/g, '2')
-            .replace(/中偏硬/g, '4')
-            .replace(/偏硬/g, '5')
-            .replace(/偏軟/g, '2')
-            .replace(/快弧 \/ 弧快都可/g, '3')
-            .replace(/快弧/g, '2')
-            .replace(/弧快/g, '4')
-            .replace(/重點候選/g, '3')
-            .replace(/候選/g, '2')
-            .replace(/觀察名單/g, '1')
-            .replace(/參考基準/g, '0')
+        var raw = text.trim();
+
+        var exactMap = {
+            '本尊': 999,
+            '很高': 6,
+            '高': 5,
+            '中高': 4,
+            '中': 3,
+            '中低': 2,
+            '低': 1,
+            '重': 5,
+            '中偏重': 4,
+            '中': 3,
+            '中偏輕': 2,
+            '輕': 1,
+            '硬': 5,
+            '偏硬': 5,
+            '中偏硬': 4,
+            '中': 3,
+            '偏軟': 2,
+            '快弧 / 弧快都可': 3,
+            '快弧': 2,
+            '弧快': 4,
+            '重點候選': 3,
+            '候選': 2,
+            '觀察名單': 1,
+            '參考基準': 0,
+            '長': 4,
+            '中長': 3,
+            '中': 2,
+            '短': 1,
+            '中高': 4,
+            '中低': 2
+        };
+
+        if (Object.prototype.hasOwnProperty.call(exactMap, raw)) {
+            return exactMap[raw];
+        }
+
+        var cleaned = raw
             .replace(/[≈~約NT$RMBg個月以上以下–—]/g, ' ')
             .replace(/\s+/g, ' ')
             .trim();
