@@ -1,5 +1,5 @@
 ---
-title: "便宜又能持續補貨的 XVT-like 路線：快弧向底板候選評估（U2 / D-607 / PRO-1 / PRO-05 / YEO 7 / YEO 7 Power / S3000 / 勁極7 系 / 北歐七 / 北歐七 Pro / 博芳碳）"
+title: "便宜又能持續補貨的 XVT-like 路線：快弧向底板候選評估"
 description: "針對喜歡 XVT + 雙面 G-1 的快弧方向，評估幾支價格更親民、後續較容易持續補貨的大廠底板候選。"
 date: 2026-08-20
 slug: budget-xvt-like-blades
@@ -12,7 +12,7 @@ tags:
   - 預算配置
 ---
 
-# 便宜又能持續補貨的 XVT-like 路線：快弧向底板候選評估（U2 / D-607 / PRO-1 / PRO-05 / YEO 7 / YEO 7 Power / S3000 / 勁極7 系 / 北歐七 / 北歐七 Pro / 博芳碳）
+# 便宜又能持續補貨的 XVT-like 路線：快弧向底板候選評估
 
 這篇要解的問題很明確：
 
