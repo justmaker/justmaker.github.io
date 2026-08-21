@@ -1,3 +1,24 @@
+<style>
+.article-content table.sortable thead th {
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+}
+.article-content table.sortable thead th::after {
+    content: " ⇅";
+    opacity: .45;
+    font-size: .85em;
+}
+.article-content table.sortable thead th[data-sort-dir="asc"]::after {
+    content: " ↑";
+    opacity: .85;
+}
+.article-content table.sortable thead th[data-sort-dir="desc"]::after {
+    content: " ↓";
+    opacity: .85;
+}
+</style>
+
 <script>
 (function() {
     // Tree nav toggle
@@ -29,6 +50,68 @@
     observer.observe(document.documentElement, {
         attributes: true,
         attributeFilter: ['data-scheme']
+    });
+
+    function normalizeValue(text) {
+        if (!text) return '';
+        var cleaned = text
+            .replace(/本尊/g, '999')
+            .replace(/很高/g, '6')
+            .replace(/中高/g, '4')
+            .replace(/中低/g, '2')
+            .replace(/中偏重/g, '4')
+            .replace(/中偏輕/g, '2')
+            .replace(/中偏硬/g, '4')
+            .replace(/偏硬/g, '5')
+            .replace(/偏軟/g, '2')
+            .replace(/快弧 \/ 弧快都可/g, '3')
+            .replace(/快弧/g, '2')
+            .replace(/弧快/g, '4')
+            .replace(/重點候選/g, '3')
+            .replace(/候選/g, '2')
+            .replace(/觀察名單/g, '1')
+            .replace(/參考基準/g, '0')
+            .replace(/[≈~約NT$RMBg個月以上以下–—]/g, ' ')
+            .replace(/\s+/g, ' ')
+            .trim();
+
+        var nums = cleaned.match(/-?\d+(?:\.\d+)?/g);
+        if (nums) return nums.map(Number)[0];
+        return cleaned.toLowerCase();
+    }
+
+    document.querySelectorAll('.article-content table').forEach(function(table) {
+        var headRow = table.querySelector('thead tr');
+        var body = table.querySelector('tbody');
+        if (!headRow || !body) return;
+        table.classList.add('sortable');
+
+        headRow.querySelectorAll('th').forEach(function(th, index) {
+            th.addEventListener('click', function() {
+                var current = th.getAttribute('data-sort-dir');
+                headRow.querySelectorAll('th').forEach(function(other) {
+                    if (other !== th) other.removeAttribute('data-sort-dir');
+                });
+                var dir = current === 'asc' ? 'desc' : 'asc';
+                th.setAttribute('data-sort-dir', dir);
+
+                var rows = Array.from(body.querySelectorAll('tr'));
+                rows.sort(function(a, b) {
+                    var aText = (a.children[index] && a.children[index].innerText || '').trim();
+                    var bText = (b.children[index] && b.children[index].innerText || '').trim();
+                    var aVal = normalizeValue(aText);
+                    var bVal = normalizeValue(bText);
+                    var result;
+                    if (typeof aVal === 'number' && typeof bVal === 'number') {
+                        result = aVal - bVal;
+                    } else {
+                        result = String(aVal).localeCompare(String(bVal), 'zh-Hant');
+                    }
+                    return dir === 'asc' ? result : -result;
+                });
+                rows.forEach(function(row) { body.appendChild(row); });
+            });
+        });
     });
 })();
 </script>
