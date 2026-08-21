@@ -96,6 +96,7 @@ tags:
 - [技術缺陷追蹤：2026-08-10 比賽影片分析（VIZ7t_HkhsU）](/post/table-tennis/technique-tracking-2026-08-10-viz7/)
 - [技術缺陷追蹤：2026-08-12 比賽影片分析（1hyMsxU5Hug）](/post/table-tennis/technique-tracking-2026-08-12/)
 - [技術缺陷追蹤：2026-08-19 對打影片分析（3oETKVYjjP4）](/post/table-tennis/technique-tracking-2026-08-19/)
+- [我為什麼快球處理不好：只會舒服身前擊球、非支點腳前跨與還原變慢的連鎖問題](/post/table-tennis/close-contact-ball-handling-and-recovery/)
 
 ---
 
