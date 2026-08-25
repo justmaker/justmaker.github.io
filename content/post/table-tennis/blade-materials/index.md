@@ -1014,6 +1014,54 @@ Balsa 非常有個性。
 
 ---
 
+### 3.2 一面 VIS 外置、另一面龍 5 / W968 內置的雙面異質底板
+
+這裡採用比「兩面異質」更嚴格的定義：**同一支底板的一面，纖維位於面材下方（outer，VIS 路線）；另一面，纖維靠近大芯（inner，龍 5 / W968 路線）**。只有兩面面材不同、軟硬不同，或廠商另外販售 inner / outer 兩個型號，都不算。
+
+> **調查結論（截至 2026-08-25）**：11 個品牌中，確認有量產商品的是 **銀河、Tibhar（挺拔）與雙魚**。其中銀河 PRO-12S 的官方描述最直接，明寫「正手內置（像龍 5）、反手外置（像蝴蝶 VIS）」；其他型號雖確認一面內置、一面外置，但不一定公開完整木材與纖維規格，因此應理解成**功能與結構路線相近**，不是把 VIS 與 W968 原樣黏在一起。
+
+#### 已確認的型號與價格
+
+| 品牌 / 型號 | 兩面結構 | 與 VIS + 龍 5 / W968 的接近程度 | 2026-08-25 裸板價格 |
+|---|---|---|---:|
+| **銀河 PRO-12S** | 內置面：Limba + KLC；外置面：Koto + ALC | **最直接符合**。銀河官方直接用「像龍 5 / 像 VIS」定位；第三方拆解與試打也稱為「龍 5X + VIS 結合體」 | 中國官淘 **RMB 299**（約 NT$1,260，未含跨境費用） |
+| **銀河 PRO-13S** | 內置面：染色 Koto + KLC；外置面：Koto + ALC | 纖維位置符合；內置面更接近銀河 970XX-K / 301X 方向，不是標準 Limba 龍 5 面 | 中國零售 **RMB 298**（約 NT$1,250，未含跨境費用） |
+| **銀河 PRO-11S** | 內置面：黃雲杉面材 + PLC；外置面：Koto + ALC | 纖維位置符合，但內置面的面材與纖維並非典型龍 5 / W968 配方，屬廣義 inner + outer 異質板 | 中國零售 **RMB 288**（約 NT$1,210，未含跨境費用） |
+| **Tibhar Darko Jorgic Infinity Carbon** | 官方明載一面 inner carbon、一面 outer carbon，5+2、85 ± 5 g | **結構概念符合**；官方未公開到足以證明兩面分別等同 VIS 與龍 5 的完整木材 / 複材配方 | 台灣現貨 **NT$4,400**；TT11 **€139.27**；德國定價 **€169.90** |
+| **雙魚 異碳王** | 5+2、Ayous 大芯；一面內置、一面外置，宣傳為黃 / 黑芳碳雙面異質 | **結構概念符合**；公開商品資料未把完整層次直接對應到 VIS / 龍 5，先列為「同路線」而非同結構複刻 | 中國零售 **RMB 351**（約 NT$1,475，未含跨境費用） |
+
+價格是查價當下的頁面標價，不含運費、關稅、刷卡匯差、選重費與套膠；促銷也可能使實付金額改變。人民幣換算暫以 **RMB 1 ≈ NT$4.2** 粗估，只方便比較級距。
+
+結構查證來源：[銀河 PRO-12 官方產品頁](http://www.yinhe1986.cn/prod_view.aspx?TypeId=666&Id=676&FId=t3:666:3)、[銀河 PRO-13 官方產品頁](http://www.yinhe1986.cn/prod_view.aspx?TypeId=666&Id=677&FId=t3:666:3)、[銀河三款異質板結構與試打整理](https://www.ttline.cn/ppqc/13222.html)、[Tibhar 官方產品頁](https://tibhar.info/en/shop/darko-jorgic-infinity-carbon/)、[雙魚異碳王京東商品頁](https://item.jd.com/10224343165964.html)、[雙魚官方宣傳影片](https://www.douyin.com/video/7673502141113273642)。價格來源：[銀河 PRO-11S](https://www.taobao.com/list/item/VnZtczdxUkxub3NMYXJjbUJ3ZXNpdz09.htm)、[銀河 PRO-12S 官淘](https://www.taobao.com/list/item/bGFzK2ZaMC9vUTd6QnErcGM4UW94dz09.htm)、[銀河 PRO-13S](https://www.taobao.com/list/item/VjFnOU83dDh2LzdWMzFwWkl2cHVJQT09.htm)、[Tibhar 台灣現貨](https://www.ruten.com.tw/item/22632351492122/)、[TT11 Tibhar 品牌頁](https://tabletennis11.com/tw/brand/tibhar)、[Tibhar 德國售價](https://www.tt-shop.de/de/tischtennis-hoelzer/tibhar-hoelzer.html/)、[雙魚異碳王](https://www.taobao.com/list/item/SFExRk43OGkwczR0NWVLVkpkcTRrUT09.htm)。
+
+#### 11 個品牌逐一掃描結果
+
+| 品牌 | 結果 | 判定說明 |
+|---|---|---|
+| Butterfly（蝴蝶） | **未查到** | 有 Outerfiber / Innerfiber 產品線，但目前是不同底板型號，未見同一支板兩面分置 inner / outer。 |
+| Nittaku（尼塔庫） | **未查到** | Acoustic Carbon 與 Acoustic Carbon Inner 等為分開型號，未見同板異置。 |
+| Donic（多尼克） | **未查到** | Whiper Outer Carbon / Inner Carbon 是兩個型號，不是同一支板的兩面。 |
+| Tibhar（挺拔） | **有** | Darko Jorgic Infinity Carbon；官方明確確認一面 inner、一面 outer。 |
+| Stiga（斯帝卡） | **未查到** | 現行公開產品資料未見符合嚴格定義的型號。 |
+| 銀河 | **有** | PRO-11S、PRO-12S、PRO-13S。 |
+| 雙魚 | **有** | 異碳王。 |
+| 紅雙喜 | **未查到符合者** | **狂飆極不算**：它是兩面不同面材 / 軟硬調校，但纖維仍屬內置，並非一內一外。 |
+| 友誼 / 729 | **未查到符合者** | AJ305、金標異質等主要是顆粒打法取向的一面純木 / 一面外置碳或面材差異，不是 VIS + 龍 5 的一外一內。 |
+| 雷神 / Loki | **未查到** | 有分開販售的內置 ADC、外置 ALC 型號，但未見同板兩面分置。 |
+| 銳科特 / Reactor | **未查到** | 現行公開產品資料未見符合嚴格定義的型號。 |
+
+「未查到」表示截至查詢日，品牌官網、公開型錄與主要零售頁沒有找到可驗證的量產型號，**不是證明品牌歷史上絕對從未做過樣板、特注或停產款**。可交叉查看 [Butterfly Outerfiber / Innerfiber 官方分類](https://www.butterfly-global.com/en/products/blade/outer_inner_fiber.html)、[Nittaku 碳板分類](https://nittaku.tt/en-eu/collections/nittaku-carbon-blades-table-tennis)、[Donic 底板分類](https://www.donic.com/en/blades/)。
+
+#### 怎麼選
+
+- 要最接近題目本身、又有官方明確背書 → **銀河 PRO-12S**
+- 想要便宜嘗試、內置面更穩定 → **銀河 PRO-13S**
+- 想要進口高階、反手外置爆發與正手內置控制 → **Tibhar Darko Jorgic Infinity Carbon**
+- 想試較新的國產方案 → **雙魚異碳王**，但完整層次資料仍不如銀河透明
+- 不要只看到「雙面異質」就買：先確認是**纖維位置一內一外**，還是只有面材、厚度或軟硬不同
+
+---
+
 ### 4. Stiga Clipper
 
 #### 結構定位
