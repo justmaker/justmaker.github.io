@@ -33,6 +33,7 @@ tags:
 - **我的個人器材主線** → 看 [`my-equipment`](/post/table-tennis/my-equipment/)
 - **底板材料與結構本身的差異** → 看這篇
 
+<a id="article-toc"></a>
 <details open>
 <summary><strong>文章目錄（點擊章節可直接跳轉，也可收合）</strong></summary>
 
@@ -60,6 +61,8 @@ tags:
 ---
 
 ## 一、先建立統一分析指標
+
+<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
 
 為了讓不同材料之間更容易做相對客觀的比較，
 下面所有段落盡量都會沿用這些指標。
@@ -111,6 +114,8 @@ tags:
 
 ## 二、先分清楚各結構位置在做什麼
 
+<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
+
 ### 1. 面材（Top Ply）
 最外層，直接接觸球。
 
@@ -152,6 +157,8 @@ tags:
 ---
 
 ## 三、面材分析：你第一時間摸到的是什麼世界
+
+<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
 
 面材是最容易被直接感覺到的層，
 也是最容易讓人一上手就覺得「這支板喜不喜歡」的來源。
@@ -279,6 +286,8 @@ Hinoki（檜木）最迷人的地方不是單純的軟或快，
 
 ## 四、面材抗拉絲（拔絲）風險整理
 
+<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
+
 ### 大方向（由抗拉絲高 → 低）
 1. 黑檀木 / Ebony
 2. 玫瑰木 / Rosewood
@@ -306,6 +315,8 @@ Hinoki（檜木）最迷人的地方不是單純的軟或快，
 ---
 
 ## 五、力材分析：很多人忽略，但它常決定板子的靈魂
+
+<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
 
 力材在面材下面，通常不會像面材那樣一上手就被感覺到，
 但它很常決定：
@@ -357,6 +368,8 @@ Ayous 是非常萬用的材料。
 ---
 
 ## 六、纖維分析：甜區、穩定度與現代感的主要來源
+
+<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
 
 纖維層不是只有「快」而已。
 它真正帶來的是：
@@ -418,6 +431,8 @@ Ayous 是非常萬用的材料。
 
 ## 七、大芯分析：底勁、重量與深吃球的來源
 
+<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
+
 大芯通常是最厚的一層，
 對整支板的「基底個性」影響很大。
 
@@ -477,6 +492,8 @@ Balsa 非常有個性。
 
 ## 八、怎麼把材料判讀落回實戰選板？
 
+<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
+
 不要只看一個名詞。
 
 ### 至少要一起看四件事：
@@ -488,6 +505,8 @@ Balsa 非常有個性。
 ---
 
 ## 九、快速選板方向（白話版）
+
+<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
 
 ### 想要柔和、持球、弧圈感
 看：
@@ -520,6 +539,8 @@ Balsa 非常有個性。
 ---
 
 ## 十、常見經典底板結構對照表
+
+<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
 
 前面講的是材料與結構位置的理論。
 
@@ -698,6 +719,8 @@ Balsa 非常有個性。
 
 ## 十一、怎麼從商品頁規格表，快速反推這支底板的個性？
 
+<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
+
 大多數人真正接觸到底板材料，不是在工廠，也不是在木材表，
 而是在商品頁上看到一排規格：
 
@@ -868,6 +891,8 @@ Balsa 非常有個性。
 ---
 
 ## 十二、常見實際底板型號對照表
+
+<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
 
 前面已經把：
 - 材料
@@ -1143,6 +1168,8 @@ Balsa 非常有個性。
 
 ## 十三、推薦閱讀路線：如果你現在用的是某一類，下一步可以看哪裡？
 
+<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
+
 這一段不是在幫你直接選拍，
 而是幫你快速決定：
 **如果你已經知道自己喜歡哪一種手感，那下一步該往哪條線看。**
@@ -1233,6 +1260,8 @@ Balsa 非常有個性。
 ---
 
 ## 十四、常見迷思澄清
+
+<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
 
 ### 迷思 1：ZLC 一定比 ALC 更好
 
@@ -1349,6 +1378,8 @@ ZLC 常常是：
 
 ## 十五、快速選板流程圖（文字版）
 
+<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
+
 如果你不想把整篇重讀一遍，
 可以直接照這個順序想。
 
@@ -1434,6 +1465,8 @@ ZLC 常常是：
 
 ## 十六、快速比較矩陣（超濃縮版）
 
+<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
+
 ### 1. 面材矩陣
 
 | 面材 | 柔和度 | 直接感 | 吃球 | 抗拔絲 | 白話印象 |
@@ -1472,12 +1505,16 @@ ZLC 常常是：
 
 ## 十七、延伸閱讀
 
+<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
+
 - [常見乒乓球底板型號完全對照表：結構、手感、定位與適合打法](/post/table-tennis/blade-model-comparison/)
 - [我的器材主線與階段定位](/post/table-tennis/my-equipment/)
 
 ---
 
 ## 十八、最後總結
+
+<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
 
 ### 最核心的觀念只有三句：
 
