@@ -1,0 +1,23 @@
+<section class="article-content">
+    {{- $content := .Content -}}
+    {{- $h2Matches := findRESubmatch `(?s)<h2 id="([^"]+)">(.*?)</h2>` $content -}}
+    {{- $longArticle := and (ge (len .RawContent) 5000) (ge (len $h2Matches) 5) -}}
+    {{- $tocAllowed := not (eq .Params.toc false) -}}
+    {{- $hasStandardToc := in .RawContent `id="article-toc"` -}}
+    {{- $hasBackButtons := in .RawContent `article-back-to-toc` -}}
+    {{- $useInlineNavigation := and $longArticle $tocAllowed -}}
+
+    {{- if and $useInlineNavigation (not $hasStandardToc) -}}
+        {{- $inlineToc := partial "article/components/inline-toc.html" (dict "Matches" $h2Matches) -}}
+        {{- $content = replaceRE `(<h2 id="[^"]+">)` (printf "%s${1}" $inlineToc) $content 1 -}}
+    {{- end -}}
+
+    {{- if and $useInlineNavigation (not $hasBackButtons) -}}
+        {{- $backButton := `<div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>` -}}
+        {{- $content = replaceRE `(</h2>)` (printf "${1}%s" $backButton) $content -}}
+    {{- end -}}
+
+    <!-- Refer to https://discourse.gohugo.io/t/responsive-tables-in-markdown/10639/5 -->
+    {{- $wrappedTable := printf "<div class=\"table-wrapper\">${1}</div>" -}}
+    {{- $content | replaceRE "(<table>(?:.|\n)+?</table>)" $wrappedTable | safeHTML -}}
+</section>

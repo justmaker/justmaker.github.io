@@ -1,0 +1,9 @@
+<a id="article-toc"></a>
+<details class="article-inline-toc" open>
+    <summary><strong>文章目錄（點擊章節可直接跳轉，也可收合）</strong></summary>
+    <ol>
+        {{- range .Matches }}
+        <li><a href="#{{ index . 1 }}">{{ index . 2 | plainify }}</a></li>
+        {{- end }}
+    </ol>
+</details>

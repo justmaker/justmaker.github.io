@@ -172,6 +172,22 @@
 }
 
 /* Compact in-article navigation button used by long reference posts */
+.article-content .article-inline-toc {
+    margin: 1.5rem 0 2rem;
+    padding: 0.8rem 1rem;
+    border: 1px solid var(--card-separator-color, rgba(128, 128, 128, 0.25));
+    border-radius: var(--card-border-radius, 10px);
+    background: var(--card-background-selected, rgba(0, 0, 0, 0.03));
+
+    summary {
+        cursor: pointer;
+    }
+
+    ol {
+        margin-bottom: 0;
+    }
+}
+
 .article-content .article-back-to-toc {
     margin: -0.6rem 0 1.2rem;
     text-align: right;
