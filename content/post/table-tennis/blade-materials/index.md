@@ -1028,11 +1028,11 @@ Balsa 非常有個性。
 |---|---|---|---:|
 | **Butterfly Viscaria（VIS，外置基準）** | Koto 面材 → ALC → Limba 力材 → **Kiri 大芯** → Limba 力材 → ALC → Koto 面材 |  | 台灣通路約 **NT$3,850～4,999** |
 | **紅雙喜 W968（內置基準）** | Limba 面材 → Ayous 力材 → 藍芳碳（AC）→ **Ayous 大芯** → 藍芳碳（AC）→ Ayous 力材 → Limba 面材 |  | 市場版約 **NT$4,850**；字母版約 **NT$6,999**；官方數字版約 **NT$10,500** |
-| **銀河 PRO-12S** | Limba 面材 → Ayous 力材 → KLC → **Ayous 大芯** → Ayous 力材 → ALC → Koto 面材 |  | 中國官淘 **RMB 299**（約 NT$1,260，未含跨境費用） |
-| **銀河 PRO-13S** | 染色 Koto 面材 → Ayous 力材 → KLC → **Ayous 大芯** → Ayous 力材 → ALC → Koto 面材 |  | 中國零售 **RMB 298**（約 NT$1,250，未含跨境費用） |
-| **銀河 PRO-11S** | 黃雲杉面材 → Ayous 力材 → PLC → **Ayous 大芯** → Ayous 力材 → ALC → Koto 面材 |  | 中國零售 **RMB 288**（約 NT$1,210，未含跨境費用） |
-| **Tibhar Darko Jorgic Infinity Carbon** | Limba 面材 → Ayous 力材 → Carbon → **Kiri 大芯** → Ayous 力材 → Carbon → Limba 面材 |  | 台灣現貨 **NT$4,400**；TT11 **€139.27**；德國定價 **€169.90** |
-| **雙魚 異碳王** | 未公開木種面材 → 未公開木種力材 → 芳碳（內置）→ **Ayous 大芯** → 未公開木種力材 → 芳碳（外置）→ 未公開木種面材 |  | 中國零售 **RMB 351**（約 NT$1,475，未含跨境費用） |
+| **銀河 PRO-12S** | Limba 面材 → Ayous 力材 → KLC → **Ayous 大芯** → Ayous 力材 → ALC → Koto 面材 | **最直接符合**。銀河官方直接用「像龍 5 / 像 VIS」定位；第三方拆解與試打也稱為「龍 5X + VIS 結合體」 | 中國官淘 **RMB 299**（約 NT$1,260，未含跨境費用） |
+| **銀河 PRO-13S** | 染色 Koto 面材 → Ayous 力材 → KLC → **Ayous 大芯** → Ayous 力材 → ALC → Koto 面材 | 纖維位置符合；內置面更接近銀河 970XX-K / 301X 方向，不是標準 Limba 龍 5 面 | 中國零售 **RMB 298**（約 NT$1,250，未含跨境費用） |
+| **銀河 PRO-11S** | 黃雲杉面材 → Ayous 力材 → PLC → **Ayous 大芯** → Ayous 力材 → ALC → Koto 面材 | 纖維位置符合，但內置面的面材與纖維並非典型龍 5 / W968 配方，屬廣義 inner + outer 異質板 | 中國零售 **RMB 288**（約 NT$1,210，未含跨境費用） |
+| **Tibhar Darko Jorgic Infinity Carbon** | Limba 面材 → Ayous 力材 → Carbon → **Kiri 大芯** → Ayous 力材 → Carbon → Limba 面材 | **結構概念符合**；官方未公開到足以證明兩面分別等同 VIS 與龍 5 的完整木材 / 複材配方 | 台灣現貨 **NT$4,400**；TT11 **€139.27**；德國定價 **€169.90** |
+| **雙魚 異碳王** | 未公開木種面材 → 未公開木種力材 → 芳碳（內置）→ **Ayous 大芯** → 未公開木種力材 → 芳碳（外置）→ 未公開木種面材 | **結構概念符合**；公開商品資料未把完整層次直接對應到 VIS / 龍 5，先列為「同路線」而非同結構複刻 | 中國零售 **RMB 351**（約 NT$1,475，未含跨境費用） |
 
 價格是查價當下的頁面標價，不含運費、關稅、刷卡匯差、選重費與套膠；促銷也可能使實付金額改變。人民幣換算暫以 **RMB 1 ≈ NT$4.2** 粗估，只方便比較級距。
 
