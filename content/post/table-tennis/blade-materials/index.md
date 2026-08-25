@@ -1020,19 +1020,23 @@ Balsa 非常有個性。
 
 > **調查結論（截至 2026-08-25）**：11 個品牌中，確認有量產商品的是 **銀河、Tibhar（挺拔）與雙魚**。其中銀河 PRO-12S 的官方描述最直接，明寫「正手內置（像龍 5）、反手外置（像蝴蝶 VIS）」；其他型號雖確認一面內置、一面外置，但不一定公開完整木材與纖維規格，因此應理解成**功能與結構路線相近**，不是把 VIS 與 W968 原樣黏在一起。
 
-#### 已確認的型號與價格
+#### 已確認的型號、完整層次與價格
 
-| 品牌 / 型號 | 兩面結構 | 與 VIS + 龍 5 / W968 的接近程度 | 2026-08-25 裸板價格 |
+下表統一由**內置面的面材**一路寫到**外置面的面材**；VIS 與 W968 是對稱基準板，因此以任一面寫到另一面。每個箭頭代表進入下一層，**大芯也單獨列出**。未有可靠公開資料的木種直接標「未公開」，不以外觀或同類產品猜測。
+
+| 品牌 / 型號 | 完整層次（內置面 → 外置面） | 與 VIS + 龍 5 / W968 的接近程度 | 2026-08-25 裸板價格 |
 |---|---|---|---:|
-| **銀河 PRO-12S** | 內置面：Limba + KLC；外置面：Koto + ALC | **最直接符合**。銀河官方直接用「像龍 5 / 像 VIS」定位；第三方拆解與試打也稱為「龍 5X + VIS 結合體」 | 中國官淘 **RMB 299**（約 NT$1,260，未含跨境費用） |
-| **銀河 PRO-13S** | 內置面：染色 Koto + KLC；外置面：Koto + ALC | 纖維位置符合；內置面更接近銀河 970XX-K / 301X 方向，不是標準 Limba 龍 5 面 | 中國零售 **RMB 298**（約 NT$1,250，未含跨境費用） |
-| **銀河 PRO-11S** | 內置面：黃雲杉面材 + PLC；外置面：Koto + ALC | 纖維位置符合，但內置面的面材與纖維並非典型龍 5 / W968 配方，屬廣義 inner + outer 異質板 | 中國零售 **RMB 288**（約 NT$1,210，未含跨境費用） |
-| **Tibhar Darko Jorgic Infinity Carbon** | 官方明載一面 inner carbon、一面 outer carbon，5+2、85 ± 5 g | **結構概念符合**；官方未公開到足以證明兩面分別等同 VIS 與龍 5 的完整木材 / 複材配方 | 台灣現貨 **NT$4,400**；TT11 **€139.27**；德國定價 **€169.90** |
-| **雙魚 異碳王** | 5+2、Ayous 大芯；一面內置、一面外置，宣傳為黃 / 黑芳碳雙面異質 | **結構概念符合**；公開商品資料未把完整層次直接對應到 VIS / 龍 5，先列為「同路線」而非同結構複刻 | 中國零售 **RMB 351**（約 NT$1,475，未含跨境費用） |
+| **Butterfly Viscaria（VIS，外置基準）** | Koto 面材 → ALC → Limba 力材 → **Kiri 大芯** → Limba 力材 → ALC → Koto 面材 |  | 台灣通路約 **NT$3,850～4,999** |
+| **紅雙喜 W968（內置基準）** | Limba 面材 → Ayous 力材 → 藍芳碳（AC）→ **Ayous 大芯** → 藍芳碳（AC）→ Ayous 力材 → Limba 面材 |  | 市場版約 **NT$4,850**；字母版約 **NT$6,999**；官方數字版約 **NT$10,500** |
+| **銀河 PRO-12S** | Limba 面材 → Ayous 力材 → KLC → **Ayous 大芯** → Ayous 力材 → ALC → Koto 面材 |  | 中國官淘 **RMB 299**（約 NT$1,260，未含跨境費用） |
+| **銀河 PRO-13S** | 染色 Koto 面材 → Ayous 力材 → KLC → **Ayous 大芯** → Ayous 力材 → ALC → Koto 面材 |  | 中國零售 **RMB 298**（約 NT$1,250，未含跨境費用） |
+| **銀河 PRO-11S** | 黃雲杉面材 → Ayous 力材 → PLC → **Ayous 大芯** → Ayous 力材 → ALC → Koto 面材 |  | 中國零售 **RMB 288**（約 NT$1,210，未含跨境費用） |
+| **Tibhar Darko Jorgic Infinity Carbon** | Limba 面材 → Ayous 力材 → Carbon → **Kiri 大芯** → Ayous 力材 → Carbon → Limba 面材 |  | 台灣現貨 **NT$4,400**；TT11 **€139.27**；德國定價 **€169.90** |
+| **雙魚 異碳王** | 未公開木種面材 → 未公開木種力材 → 芳碳（內置）→ **Ayous 大芯** → 未公開木種力材 → 芳碳（外置）→ 未公開木種面材 |  | 中國零售 **RMB 351**（約 NT$1,475，未含跨境費用） |
 
 價格是查價當下的頁面標價，不含運費、關稅、刷卡匯差、選重費與套膠；促銷也可能使實付金額改變。人民幣換算暫以 **RMB 1 ≈ NT$4.2** 粗估，只方便比較級距。
 
-結構查證來源：[銀河 PRO-12 官方產品頁](http://www.yinhe1986.cn/prod_view.aspx?TypeId=666&Id=676&FId=t3:666:3)、[銀河 PRO-13 官方產品頁](http://www.yinhe1986.cn/prod_view.aspx?TypeId=666&Id=677&FId=t3:666:3)、[銀河三款異質板結構與試打整理](https://www.ttline.cn/ppqc/13222.html)、[Tibhar 官方產品頁](https://tibhar.info/en/shop/darko-jorgic-infinity-carbon/)、[雙魚異碳王京東商品頁](https://item.jd.com/10224343165964.html)、[雙魚官方宣傳影片](https://www.douyin.com/video/7673502141113273642)。價格來源：[銀河 PRO-11S](https://www.taobao.com/list/item/VnZtczdxUkxub3NMYXJjbUJ3ZXNpdz09.htm)、[銀河 PRO-12S 官淘](https://www.taobao.com/list/item/bGFzK2ZaMC9vUTd6QnErcGM4UW94dz09.htm)、[銀河 PRO-13S](https://www.taobao.com/list/item/VjFnOU83dDh2LzdWMzFwWkl2cHVJQT09.htm)、[Tibhar 台灣現貨](https://www.ruten.com.tw/item/22632351492122/)、[TT11 Tibhar 品牌頁](https://tabletennis11.com/tw/brand/tibhar)、[Tibhar 德國售價](https://www.tt-shop.de/de/tischtennis-hoelzer/tibhar-hoelzer.html/)、[雙魚異碳王](https://www.taobao.com/list/item/SFExRk43OGkwczR0NWVLVkpkcTRrUT09.htm)。
+結構查證來源：[Butterfly VIS 官方產品頁](https://www.butterfly-global.com/en/products/detail/30041.html)、[VIS 完整層次資料](https://tabletennis.ph/blade-composition/viscaria-composition/)、[TT11 W968 結構分析](https://tabletennis11.com/en/blog/post/dhs-w-968)、[銀河 PRO-11S 完整層次](http://www.sunnywise.com.hk/yinhe_Pro_11.htm)、[銀河 PRO-12 官方產品頁](http://www.yinhe1986.cn/prod_view.aspx?TypeId=666&Id=676&FId=t3:666:3)、[銀河 PRO-13S 完整層次](http://www.sunnywise.com.hk/yinhe_Pro_13.htm)、[銀河三款異質板結構與試打整理](https://www.ttline.cn/ppqc/13222.html)、[Tibhar 官方產品頁](https://tibhar.info/en/shop/darko-jorgic-infinity-carbon/)、[Tibhar 完整層次資料](https://rubbermetrics.com/blades/tibhar/darko-jorgic-infinity-carbon)、[雙魚異碳王京東商品頁](https://item.jd.com/10224343165964.html)、[雙魚官方宣傳影片](https://www.douyin.com/video/7673502141113273642)。價格來源：[VIS 台灣比價](https://biggo.com.tw/s/Butterfly%20%E6%A1%8C%E7%90%83Viscaria/)、[W968 台灣通路](https://liangxin-tw.gogoshopapp.com/categories/%E7%B4%85%E9%9B%99%E5%96%9C?order=price_desc)、[銀河 PRO-11S](https://www.taobao.com/list/item/VnZtczdxUkxub3NMYXJjbUJ3ZXNpdz09.htm)、[銀河 PRO-12S 官淘](https://www.taobao.com/list/item/bGFzK2ZaMC9vUTd6QnErcGM4UW94dz09.htm)、[銀河 PRO-13S](https://www.taobao.com/list/item/VjFnOU83dDh2LzdWMzFwWkl2cHVJQT09.htm)、[Tibhar 台灣現貨](https://www.ruten.com.tw/item/22632351492122/)、[TT11 Tibhar 品牌頁](https://tabletennis11.com/tw/brand/tibhar)、[Tibhar 德國售價](https://www.tt-shop.de/de/tischtennis-hoelzer/tibhar-hoelzer.html/)、[雙魚異碳王](https://www.taobao.com/list/item/SFExRk43OGkwczR0NWVLVkpkcTRrUT09.htm)。
 
 #### 11 個品牌逐一掃描結果
 
