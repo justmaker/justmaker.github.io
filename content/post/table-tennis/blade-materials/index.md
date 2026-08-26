@@ -1023,31 +1023,16 @@ Balsa 非常有個性。
 ### 3.1 三維、銀河的 Viscaria / W968 同結構候選
 
 > 這裡的「仿」是指採用相近的木材層次、纖維位置與設計方向，不代表重量、膠合、木材篩選、形變曲線或實際手感能完整複製原板。
->
-> **價格口徑（2026-08 查價）**：以下以裸板為主，優先列台灣通路常見售價；跨境商品另標原幣價格。促銷、柄型、選重、運費與關稅都會讓實付金額變動。
 
-#### Viscaria 路線：Koto 面材 + 外置芳碳
+完整層次與價格統一看本章開頭的**具體底板型號總表**；這裡只保留路線定位，避免同一筆規格維護兩次。
 
-- **銀河 PRO-01**（裸板約 **NT$1,200～2,100**）：最明確、也最常見的銀河 VIS 平替。採 5+2 外置藍芳碳架構，結構方向為 Koto 面材、Ayous 力材與 Kiri 大芯；小力量出球直接，適合近台快弧與兩面銜接。
-- **銀河 V14 Pro**（裸板約 **NT$1,200～1,700**）：同屬外置芳碳 / VIS 世界觀，但實際調校通常比 PRO-01 更軟彈、偏弧圈，不宜只因結構相近就視為完全同手感。
-- **三維 75 ALC**（裸板約 **NT$1,050～2,000**）：價格較低的經典 5+2 外置 ALC 候選，適合作為入門 VIS 結構體驗板。
-- **三維 Froster Pro**（海外零售約 **US$95，約 NT$2,900，未含運**）：較高階的 5+2 外置 PLC 芳碳板；三維官方直接以 Viscaria alternative 定位，但纖維與整體調校仍有自己的取向。
+#### 路線歸類
 
-#### W968 / 龍 5 路線：Limba 面材 + 內置芳碳
+- **Viscaria / 外置快弧線**：三維 75 ALC → 銀河 V14 Pro / PRO-01 → 三維 Froster Pro。前兩者偏低價體驗，PRO-01 的近台節奏較成熟，Froster Pro 則往更高輸出與做工前進。
+- **W968 / 龍 5 內置弧圈線**：銀河 PRO-05 → PRO-05X → PRO-05X Max，支撐、底勁與發力門檻逐步提高；970XX-K 是較早期、木感不同的分支。
+- **三維直接對標 968 的分支**：SP 968 強調形變與蓄能方向，但不能因型號名稱就視為 W968 的等價品。
 
-- **銀河 PRO-05 系列**：PRO-05（裸板約 **NT$1,360～2,130**）、PRO-05X（台灣通路約 **NT$2,480**）、PRO-05X Max（中國通路約 **RMB 350，未含跨境運費**）均為內置 KLC 黃芳碳方向，是銀河對應龍 5 / W968 世界觀的主力系列。一般版較容易使用，X 與 Max 逐步提高支撐、底勁與發力門檻。
-- **銀河 970XX-K**（裸板約 **NT$1,260～2,630**）：較早期的內置 KLC 黃芳碳候選，也屬龍 5 / W968 類結構方向，但調校與 PRO-05 系列不同。
-- **三維 SP 968**（中國通路裸板約 **RMB 299**；台灣跨境賣場約 **NT$1,795**）：名稱與產品定位都直接指向 W968，採 5+2 內置 ALC，強調 W968 3D 結構的形變與蓄能方向。
-
-價格查詢來源：[BigGo 台灣比價（銀河 PRO-01）](https://biggo.com.tw/s/%E9%8A%80%E6%B2%B3%20PRO-01/)、[BigGo 台灣比價（銀河 PRO-05）](https://biggo.com.tw/s/%E9%8A%80%E6%B2%B3%20PRO-05/)、[BigGo 台灣比價（三維 75）](https://biggo.com.tw/s/%E4%B8%89%E7%B6%AD75%E7%90%83%E6%8B%8D/)、[BigGo 台灣比價（三維 SP-968）](https://biggo.com.tw/s/%E4%B8%89%E7%B6%AD%20SP-968/)、[Megaspin（三維 Froster Pro）](https://www.megaspin.net/store/default.asp?pid=sanwei-froster-pro)。
-
-#### 快速選擇
-
-- 低價體驗 VIS 結構 → **三維 75 ALC**
-- 成熟、常見的 VIS 平替 → **銀河 PRO-01**
-- 較高階的三維 VIS 路線 → **三維 Froster Pro**
-- 較容易入手的龍 5 / 968 路線 → **銀河 PRO-05 / PRO-05X**
-- 三維直接對標 968 的型號 → **三維 SP 968**
+結構與價格來源集中列在總表及本章末的來源清單，包括：[BigGo 台灣比價（銀河 PRO-01）](https://biggo.com.tw/s/%E9%8A%80%E6%B2%B3%20PRO-01/)、[BigGo 台灣比價（銀河 PRO-05）](https://biggo.com.tw/s/%E9%8A%80%E6%B2%B3%20PRO-05/)、[BigGo 台灣比價（三維 75）](https://biggo.com.tw/s/%E4%B8%89%E7%B6%AD75%E7%90%83%E6%8B%8D/)、[BigGo 台灣比價（三維 SP-968）](https://biggo.com.tw/s/%E4%B8%89%E7%B6%AD%20SP-968/)、[Megaspin（三維 Froster Pro）](https://www.megaspin.net/store/default.asp?pid=sanwei-froster-pro)。
 
 真正的 W968 差異不只在「Limba + 內置芳碳」：木材篩選、膠合、大芯厚度與整板形變調校同樣關鍵。因此這些型號適合稱為**同結構候選或同路線平替**，不應直接理解成等同 W968。
 
@@ -1059,21 +1044,17 @@ Balsa 非常有個性。
 
 > **調查結論（截至 2026-08-25）**：11 個品牌中，確認有量產商品的是 **銀河、Tibhar（挺拔）與雙魚**。其中銀河 PRO-12S 的官方描述最直接，明寫「正手內置（像龍 5）、反手外置（像蝴蝶 VIS）」；其他型號雖確認一面內置、一面外置，但不一定公開完整木材與纖維規格，因此應理解成**功能與結構路線相近**，不是把 VIS 與 W968 原樣黏在一起。
 
-#### 已確認的型號、完整層次與價格
+#### 已確認型號的兩面角色
 
-下表統一由**內置面的面材**一路寫到**外置面的面材**；VIS 與 W968 是對稱基準板，因此以任一面寫到另一面。每個箭頭代表進入下一層，**大芯也單獨列出**。未有可靠公開資料的木種直接標「未公開」，不以外觀或同類產品猜測。
+完整逐層材料與價格已收進本章總表；這裡只比較每支異質板的**內置面、外置面與接近程度**。
 
-| 品牌 / 型號 | 完整層次（內置面 → 外置面） | 與 VIS + 龍 5 / W968 的接近程度 | 2026-08-25 裸板價格 |
-|---|---|---|---:|
-| **Butterfly Viscaria（VIS，外置基準）** | Koto 面材 → ALC → Limba 力材 → **Kiri 大芯** → Limba 力材 → ALC → Koto 面材 |  | 台灣通路約 **NT$3,850～4,999** |
-| **紅雙喜 W968（內置基準）** | Limba 面材 → Ayous 力材 → 藍芳碳（AC）→ **Ayous 大芯** → 藍芳碳（AC）→ Ayous 力材 → Limba 面材 |  | 市場版約 **NT$4,850**；字母版約 **NT$6,999**；官方數字版約 **NT$10,500** |
-| **銀河 PRO-12S** | Limba 面材 → Ayous 力材 → KLC → **Ayous 大芯** → Ayous 力材 → ALC → Koto 面材 | **最直接符合**。銀河官方直接用「像龍 5 / 像 VIS」定位；第三方拆解與試打也稱為「龍 5X + VIS 結合體」 | 中國官淘 **RMB 299**（約 NT$1,260，未含跨境費用） |
-| **銀河 PRO-13S** | 染色 Koto 面材 → Ayous 力材 → KLC → **Ayous 大芯** → Ayous 力材 → ALC → Koto 面材 | 纖維位置符合；內置面更接近銀河 970XX-K / 301X 方向，不是標準 Limba 龍 5 面 | 中國零售 **RMB 298**（約 NT$1,250，未含跨境費用） |
-| **銀河 PRO-11S** | 黃雲杉面材 → Ayous 力材 → PLC → **Ayous 大芯** → Ayous 力材 → ALC → Koto 面材 | 纖維位置符合，但內置面的面材與纖維並非典型龍 5 / W968 配方，屬廣義 inner + outer 異質板 | 中國零售 **RMB 288**（約 NT$1,210，未含跨境費用） |
-| **Tibhar Darko Jorgic Infinity Carbon** | Limba 面材 → Ayous 力材 → Carbon → **Kiri 大芯** → Ayous 力材 → Carbon → Limba 面材 | **結構概念符合**；官方未公開到足以證明兩面分別等同 VIS 與龍 5 的完整木材 / 複材配方 | 台灣現貨 **NT$4,400**；TT11 **€139.27**；德國定價 **€169.90** |
-| **雙魚 異碳王** | 未公開木種面材 → 未公開木種力材 → 芳碳（內置）→ **Ayous 大芯** → 未公開木種力材 → 芳碳（外置）→ 未公開木種面材 | **結構概念符合**；公開商品資料未把完整層次直接對應到 VIS / 龍 5，先列為「同路線」而非同結構複刻 | 中國零售 **RMB 351**（約 NT$1,475，未含跨境費用） |
-
-價格是查價當下的頁面標價，不含運費、關稅、刷卡匯差、選重費與套膠；促銷也可能使實付金額改變。人民幣換算暫以 **RMB 1 ≈ NT$4.2** 粗估，只方便比較級距。
+| 品牌 / 型號 | 內置面角色 | 外置面角色 | 與 VIS + 龍 5 / W968 的接近程度 |
+|---|---|---|---|
+| **銀河 PRO-12S** | Limba + KLC，偏龍 5 持球與控制 | Koto + ALC，偏 VIS 速度與反彈 | **最直接符合**；官方直接用「像龍 5 / 像 VIS」定位。 |
+| **銀河 PRO-13S** | 染色 Koto + KLC，較硬脆 | Koto + ALC，近台直接 | 纖維位置符合，但內置面不是典型 Limba 龍 5 配方。 |
+| **銀河 PRO-11S** | 黃雲杉 + PLC，木味與持球較明顯 | Koto + ALC，速度較直接 | 屬廣義 inner + outer；內置面的面材與纖維都不同於龍 5。 |
+| **Tibhar Darko Jorgic Infinity Carbon** | Limba 面控制、持球 | Limba 面速度、反彈 | **結構概念符合**；公開資料不足以證明兩面等同 VIS 與龍 5 配方。 |
+| **雙魚 異碳王** | 內置芳碳，偏控制與蓄能 | 外置芳碳，偏速度與借力 | **結構概念符合**；完整木種公開程度較低，先列為同路線。 |
 
 結構查證來源：[Butterfly VIS 官方產品頁](https://www.butterfly-global.com/en/products/detail/30041.html)、[VIS 完整層次資料](https://tabletennis.ph/blade-composition/viscaria-composition/)、[TT11 W968 結構分析](https://tabletennis11.com/en/blog/post/dhs-w-968)、[銀河 PRO-11S 完整層次](http://www.sunnywise.com.hk/yinhe_Pro_11.htm)、[銀河 PRO-12 官方產品頁](http://www.yinhe1986.cn/prod_view.aspx?TypeId=666&Id=676&FId=t3:666:3)、[銀河 PRO-13S 完整層次](http://www.sunnywise.com.hk/yinhe_Pro_13.htm)、[銀河三款異質板結構與試打整理](https://www.ttline.cn/ppqc/13222.html)、[Tibhar 官方產品頁](https://tibhar.info/en/shop/darko-jorgic-infinity-carbon/)、[Tibhar 完整層次資料](https://rubbermetrics.com/blades/tibhar/darko-jorgic-infinity-carbon)、[雙魚異碳王京東商品頁](https://item.jd.com/10224343165964.html)、[雙魚官方宣傳影片](https://www.douyin.com/video/7673502141113273642)。價格來源：[VIS 台灣比價](https://biggo.com.tw/s/Butterfly%20%E6%A1%8C%E7%90%83Viscaria/)、[W968 台灣通路](https://liangxin-tw.gogoshopapp.com/categories/%E7%B4%85%E9%9B%99%E5%96%9C?order=price_desc)、[銀河 PRO-11S](https://www.taobao.com/list/item/VnZtczdxUkxub3NMYXJjbUJ3ZXNpdz09.htm)、[銀河 PRO-12S 官淘](https://www.taobao.com/list/item/bGFzK2ZaMC9vUTd6QnErcGM4UW94dz09.htm)、[銀河 PRO-13S](https://www.taobao.com/list/item/VjFnOU83dDh2LzdWMzFwWkl2cHVJQT09.htm)、[Tibhar 台灣現貨](https://www.ruten.com.tw/item/22632351492122/)、[TT11 Tibhar 品牌頁](https://tabletennis11.com/tw/brand/tibhar)、[Tibhar 德國售價](https://www.tt-shop.de/de/tischtennis-hoelzer/tibhar-hoelzer.html/)、[雙魚異碳王](https://www.taobao.com/list/item/SFExRk43OGkwczR0NWVLVkpkcTRrUT09.htm)。
 
@@ -1111,42 +1092,39 @@ Balsa 非常有個性。
 
 #### 銀河 PRO-01：平價外置快弧基準
 
-- 官方規格是 **5.6～5.8mm 外置 ALC**，常見實測約 87～92g，個體差異不小。
 - 小力量就有纖維反彈，擋、撥、彈擊與近台兩面銜接容易建立速度；拍面不像高硬外置那麼頂，仍保留一定吃球時間。
 - 中遠台與大力量的絕對支撐不是它的強項。選到過輕個體時，正手重板和退台底勁更容易不足。
-- 適合想低成本體驗 VIS 路線、以近台快弧和反手銜接為主的人；不等於原版 Viscaria 的木材篩選與輸出上限。
+- 適合以近台快弧和反手銜接為主的人；不等於原版 Viscaria 的木材篩選與輸出上限。
 
 #### 銀河 PRO-05：較容易使用的龍 5 路線
 
-- 官方規格是 **5.9～6.2mm 內置 KLC 黃芳碳**，零售資料常見 **86±5g**。
 - 小力量有木感和持球，中等力量開始出現纖維支撐；起下旋、連續弧圈與落點控制比 PRO-01 寬容。
 - 相較傳統龍 5 世界觀，PRO-05 的反手不算拖，借力和快帶相對容易；但第一速、彈擊爽脆感仍不如外置。
 - 適合弧圈主導、想要旋轉與穩定，又不希望內置板小力量過於發空的人。
 
 #### 三維 75：外置與內置不能只看同一個型號數字
 
-- **75 外置**常見為約 6.0mm 的 VIS 結構方向。實測資料顯示纖維和力材較薄、大芯較厚，因此容易透板、彈性明顯，但高檔支撐與原版 VIS 不同。
-- **75 內置**把複合層移近大芯，弧線、持球與發力後吞吐感更好；近台第一速較慢，卻更適合起下旋和連續拉衝。
+- **75 外置**的實測層厚分配偏向薄纖維、薄力材與厚大芯，因此容易透板、彈性明顯，但高檔支撐與原版 VIS 不同。
+- **75 內置**的弧線、持球與發力後吞吐感更好；近台第一速較慢，卻更適合起下旋和連續拉衝。
 - 市場另有「超級 75」、S75IN、PBO / ZLC 等名稱。這些不一定與早期 75 ALC 使用同一纖維，不能把「75」三個字視為完整 SKU。
 - 外置適合借力、快撕與近台節奏；內置適合摩擦、弧圈與主動發力。兩者是打法分流，不是單純的高低階關係。
 
 #### 雷神 W81：先看 ARC / ADC / ZC / SZC，再看內外置
 
 - W81 是系列名，不是單一結構。公開市場資料至少可見外置 **ARC / ZC** 與內置 **ADC / SZC** 等版本；不同縮寫代表不同複合材料與調校。
-- 外置市場版實測約 **5.8mm / 87g**，特色是脆彈、穩定、線性，擋撥與借力速度好，屬於沒有明顯短板的水桶型外置。
+- 外置版的特色是脆彈、穩定、線性，擋撥與借力速度好，屬於沒有明顯短板的水桶型外置。
 - 內置版較持球，起下旋與中台弧圈的容錯更好，但需要更完整的主動發力；不同內置 SKU 的硬度、噴彈和反手表現可能明顯不同。
 - 商品頁若只寫「W81 內置」或「W81 外置」，卻不列 ARC / ADC / ZC / SZC 與厚度重量，資訊不足，不宜直接把它當成固定配方購買。
 
 #### 世奧得 VSEA：柔彈、清楚的低價內置
 
-- 常見實測約 **5.9～6.0mm / 86g**，採 Limba、Ayous 與內置 Vectran 複合纖維方向。
 - 小力量不容易發空，中等力量容易透板；持球、旋轉和指向性清楚，正反手轉換也比較自然。
 - 退台後的二跳和絕對力量仍不及高階 W968 類，但它的優勢本來就是低門檻、均衡與價格。
 - 適合第一次嘗試內置纖維、以近中台弧圈和控制為主的人；若追求一板爆衝與極限底勁，應往更高支撐的內置板看。
 
 #### VICTAS SWAT：七夾純木的控制與練功路線
 
-- 標準 SWAT 是約 **6.0mm / 85g 的七夾純木**，不要和 SWAT Carbon、SWAT Speed、SWAT Power 混為一談。
+- 標準 SWAT 不要和 SWAT Carbon、SWAT Speed、SWAT Power 混為一談。
 - SW 炭燒 / 乾燥工藝讓木材比一般軟七夾更清楚，但整體仍比 Clipper 輕柔，形變、持球和上台率是主要優勢。
 - 發力門檻低，適合建立摩擦、弧線與連續性；缺點是單板速度、遠台底勁和高強度對抗上限不如複合板或厚重七夾。
 - 適合初中階練功、重視手感和控制的人；若已經依賴纖維板反彈，換到 SWAT 會覺得出球慢一檔。
@@ -1161,7 +1139,7 @@ Balsa 非常有個性。
 
 新增型號查證來源：[銀河 PRO-01 官方頁](http://www.yinhe1986.cn/prod_view.aspx?TypeId=667&Id=597&FId=t3:667:3)、[銀河 PRO-05 官方頁](http://www.yinhe1986.cn/prod_view.aspx?TypeId=737&Id=810&FId=t3:737:3)、[PRO-01 實測與層厚比較](https://zhuanlan.zhihu.com/p/405613307)、[三維 75 與 VIS 實測比較](https://zhuanlan.zhihu.com/p/597061142)、[三維 75 內置評測](https://m.yoger.com.cn/info-33871.html)、[W81 外置實測](https://zhuanlan.zhihu.com/p/3371359948)、[W81 ARC / ADC 實測](https://post.smzdm.com/p/a95n556e/)、[W81 ZC / SZC 實測](https://post.smzdm.com/p/a6z6gn4o/)、[世奧得 VSEA 實測](https://www.yoger.com.cn/info-33851.html)、[VSEA 結構與 Vectran 說明](https://www.163.com/dy/article/I0OFP0Q405497FCZ.html)、[VICTAS SWAT 系列與炭燒工藝整理](https://zhuanlan.zhihu.com/p/423162529)。
 
-價格來源延續前節的台灣比價，並交叉參考各品牌中國零售頁；其中 W81、VSEA 與三維 75 內置以人民幣市場價表示，是為了避免把跨境運費混進裸板價格。促銷與不同纖維 SKU 可能使成交價超出表列區間。
+總表價格交叉參考台灣比價與各品牌中國零售頁；其中 W81、VSEA 與三維 75 內置以人民幣市場價表示，是為了避免把跨境運費混進裸板價格。促銷與不同纖維 SKU 可能使成交價超出表列區間。
 
 ---
 
