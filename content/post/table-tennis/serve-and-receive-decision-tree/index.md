@@ -4,6 +4,7 @@ draft = false
 title = '桌球發球與接發球決策樹：給 900–1000 分段選手的實戰筆記'
 categories = ['table-tennis']
 tags = ['桌球', '發球', '接發球', '決策樹', '積分賽', '戰術']
+aliases = ['/post/table-tennis-serve-and-receive-decision-tree/']
 +++
 
 這篇文章把目前最需要的兩件事整理在一起：

@@ -4,6 +4,7 @@ draft = false
 title = '側旋接發速查表：短球、長球、側上、側下，一張圖背後的實戰版口訣'
 categories = ['table-tennis']
 tags = ['桌球', '接發球', '側旋', '速查表', '實戰', '戰術']
+aliases = ['/post/table-tennis-sidespin-return-cheatsheet/']
 +++
 
 側旋接發最煩的地方，不是你完全不懂，而是：

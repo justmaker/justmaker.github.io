@@ -4,6 +4,7 @@ draft = false
 title = '長側旋接發 SOP：能拉就拉，不能拉怎麼辦'
 categories = ['table-tennis']
 tags = ['桌球', '接發球', '側旋', '長球', '拉球', '實戰']
+aliases = ['/post/table-tennis-long-sidespin-return-sop/']
 +++
 
 長側旋常常讓人覺得很煩。

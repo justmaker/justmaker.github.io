@@ -4,6 +4,7 @@ draft = false
 title = '短球擰拉：什麼球可以擰，什麼球別硬擰，以及不擰時怎麼處理'
 categories = ['table-tennis']
 tags = ['桌球', '接發球', '擰拉', '下旋', '短球', '實戰']
+aliases = ['/post/table-tennis-when-to-flick-and-when-not-to/']
 +++
 
 短球擰拉很好用，但它不是萬用解。

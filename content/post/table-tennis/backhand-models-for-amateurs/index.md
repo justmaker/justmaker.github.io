@@ -4,6 +4,7 @@ draft = false
 title = '反手體系該模仿誰？格林卡、樊振東、馬龍、波爾、張本五種路線拆解'
 categories = ['table-tennis']
 tags = ['桌球', '反手', '打法', '模仿對象', '技術分析', '實戰']
+aliases = ['/post/table-tennis-backhand-models-for-amateurs/']
 +++
 
 如果你想建立自己的反手體系，很自然會遇到一個問題：

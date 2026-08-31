@@ -4,6 +4,7 @@ draft = false
 title = '從比賽名單與實戰影片，重新定位我的桌球積分、打法與成長路線'
 categories = ['table-tennis']
 tags = ['桌球', '積分賽', '戰術', '發球', '比賽準備']
+aliases = ['/post/table-tennis-rating-style-and-serve-strategy/']
 +++
 
 最近我一口氣做了三件事：
