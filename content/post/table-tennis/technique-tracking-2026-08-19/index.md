@@ -10,6 +10,17 @@ tags:
   - 比賽影片
   - 個人紀錄
   - XVT
+series:
+  - 技術缺陷追蹤日誌
+series_order: 9
+_build:
+  list: local
+  render: always
+---
+> 📓 這是**技術缺陷追蹤日誌**的其中一期。
+> 想看問題代碼總表、歷史趨勢與整體判讀標準，請看主文：[我的桌球技術缺陷追蹤記錄](/post/table-tennis/technique-tracking/)
+> 全部期數：[技術缺陷追蹤日誌系列](/series/%E6%8A%80%E8%A1%93%E7%BC%BA%E9%99%B7%E8%BF%BD%E8%B9%A4%E6%97%A5%E8%AA%8C/)
+
 ---
 > 📖 本文是「[我的桌球技術缺陷追蹤記錄](/post/table-tennis/technique-tracking/)」的延伸閱讀。
 

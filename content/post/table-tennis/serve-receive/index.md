@@ -13,6 +13,9 @@ tags:
   - 戰術
   - 索引
   - 導覽
+series:
+  - 發球與接發球
+series_order: 1
 ---
 
 # 桌球發接發 KB 總索引

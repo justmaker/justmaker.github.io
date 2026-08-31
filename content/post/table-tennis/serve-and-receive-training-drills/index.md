@@ -4,6 +4,8 @@ draft = false
 title = '桌球發球與接發球訓練菜單：把決策樹練進手上'
 categories = ['table-tennis']
 tags = ['桌球', '訓練菜單', '發球', '接發球', 'drill']
+series = ['發球與接發球']
+series_order = 3
 +++
 
 有了決策樹之後，下一步不是再讀更多理論，而是把它變成練習菜單。

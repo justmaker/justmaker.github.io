@@ -63,6 +63,11 @@ params:
           limit: 30
     page: []
 
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
 menu:
   main:
     - identifier: home
@@ -71,6 +76,20 @@ menu:
       weight: 1
       params:
         icon: home
+
+    - identifier: knowledge-maps
+      name: 知識地圖
+      url: /categories/
+      weight: 2
+      params:
+        icon: archives
+
+    - identifier: series
+      name: 系列文章
+      url: /series/
+      weight: 3
+      params:
+        icon: hash
 
   social:
     - identifier: github
