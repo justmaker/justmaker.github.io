@@ -22,7 +22,7 @@ params:
 
   sidebar:
     emoji: 🦖
-    subtitle: 虛擬化 · AI · 圍棋 · 鋼琴 · 桌球
+    subtitle: 虛擬化 · AI · 圍棋 · 鋼琴 · 桌球 · 小提琴
     avatar:
       enabled: true
       local: true
