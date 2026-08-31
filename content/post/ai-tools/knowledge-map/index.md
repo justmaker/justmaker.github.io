@@ -96,12 +96,30 @@ tags:
 
 ---
 
-## 六、怎麼用這個 KB 最有效？
+## 六、工作流：怎麼把 AI 真正整進開發流程
+
+### 主入口
+- [與 AI 協作的開發工作流](/post/ai-tools/ai-collab-workflow/)
+
+### 這篇在講什麼？
+- 專案骨架：AGENTS.md / docs/spec / .ai/prompts 怎麼放
+- 四段式開發：Spec → Plan → Diff → Verify
+- Debug 流程：把 AI 當假設產生器而非答案產生器
+- 雙軌 Code Review、規格防腐、前端視覺驗證迴路
+
+### 適合什麼時候看？
+- 工具都選好了，但產出品質不穩定時
+- 想把 AI 從「補全工具」升級成「協作流程」時
+
+---
+
+## 七、怎麼用這個 KB 最有效？
 
 ### 情境 1：剛要開始用 AI 寫 code
 1. [AI Native IDE 全景報告](/post/ai-tools/ai-native-ide-landscape-2025/) — 先知道有哪些選項
 2. [Claude Code vs Copilot](/post/ai-tools/claude-code-vs-github-copilot/) — 從主流兩個挑一個
 3. [使用技巧與避坑](/post/ai-tools/ai-tips-and-pitfalls/) — 少走冤枉路
+4. [協作工作流](/post/ai-tools/ai-collab-workflow/) — 建立穩定的產出流程
 
 ### 情境 2：現成工具不夠用，想自訂
 1. [自訂 Agent 平台調研](/post/ai-tools/custom-agent-platforms-2026/) — 選平台
@@ -109,6 +127,9 @@ tags:
 
 ### 情境 3：只想知道別人怎麼用
 直接看 [使用技巧與避坑指南](/post/ai-tools/ai-tips-and-pitfalls/)
+
+### 情境 4：已經在用，但品質不穩、文件老是過期
+直接看 [與 AI 協作的開發工作流](/post/ai-tools/ai-collab-workflow/)
 
 ---
 
@@ -125,4 +146,4 @@ AI 工具生態變動極快。本區文章的調研時間點：
 
 ## 一句話總結
 
-## **想知道有哪些工具看 `ai-native-ide-landscape`，想自己寫 agent 看 `custom-agent-platforms`，在 Claude/Copilot 之間猶豫看 `claude-vs-copilot`，要動手做助理看 `openclaw-getting-started`，用不順看 `ai-tips-and-pitfalls`。**
+## **想知道有哪些工具看 `ai-native-ide-landscape`，想自己寫 agent 看 `custom-agent-platforms`，在 Claude/Copilot 之間猶豫看 `claude-vs-copilot`，要動手做助理看 `openclaw-getting-started`，用不順看 `ai-tips-and-pitfalls`，要建立完整流程看 `ai-collab-workflow`。**
