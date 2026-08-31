@@ -72,7 +72,7 @@ tags:
 - [桌球器材升級路線圖：PH AK47 → XVT G-1 → ACH T 系列](/post/table-tennis/equipment-roadmap/)
 - [桌球底板材料分析：面材、內置/外置與複合纖維](/post/table-tennis/blade-materials/)
 - [底板拍型與握感：橫板、直板、異形拍面差異](/post/table-tennis/blade-shapes/)
-- [膠皮分析：反膠家族與常見方向](/post/table-tennis/rubber-analysis/)
+- [膠皮分析：反膠家族與常見方向](/post/table-tennis/rubber-types-and-counter-tactics/)
 - [反膠價格分析](/post/table-tennis/inverted-rubber-pricing/)
 
 ---

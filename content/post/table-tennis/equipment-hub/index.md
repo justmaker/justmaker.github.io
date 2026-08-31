@@ -74,7 +74,7 @@ tags:
 - [全面性的乒乓球膠皮分析：種類、指標、候選池與實戰定位](/post/table-tennis/rubber-research/)
 
 ### 2. 既有專題
-- [桌球膠皮種類分析與應對策略](/post/table-tennis/rubber-analysis/)
+- [桌球膠皮種類分析與應對策略](/post/table-tennis/rubber-types-and-counter-tactics/)
 - [桌球膠皮配置比較：AK47 vs G-1 / R7 Soft vs T05 / T19](/post/table-tennis/rubber-setup-comparison/)
 - [平面澀性膠皮價格區間分析](/post/table-tennis/inverted-rubber-pricing/)
 

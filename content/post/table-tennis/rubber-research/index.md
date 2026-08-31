@@ -56,6 +56,10 @@ tags:
 
 </details>
 
+> **這篇 vs [膠皮種類與對戰應對](/post/table-tennis/rubber-types-and-counter-tactics/) 差在哪？**
+> 這篇是**選膠工具** — 建立候選池，決定自己下一張買哪張。
+> 想知道各類膠皮（正膠/生膠/長膠/防弧）的性質與遇到時怎麼打，看[膠皮種類全解析與對戰應對策略](/post/table-tennis/rubber-types-and-counter-tactics/)。
+
 ## 一、這篇怎麼讀
 
 這篇分成四層：
@@ -689,7 +693,7 @@ tags:
 
 ## 十四、延伸閱讀
 
-- [桌球膠皮種類分析與應對策略](/post/table-tennis/rubber-analysis/)
+- [桌球膠皮種類分析與應對策略](/post/table-tennis/rubber-types-and-counter-tactics/)
 - [桌球膠皮配置比較：AK47 vs G-1 / R7 Soft vs T05 / T19](/post/table-tennis/rubber-setup-comparison/)
 - [平面澀性膠皮價格區間分析](/post/table-tennis/inverted-rubber-pricing/)
 - [全面性的乒乓球底板材料分析：面材、力材、纖維與大芯](/post/table-tennis/blade-materials/)

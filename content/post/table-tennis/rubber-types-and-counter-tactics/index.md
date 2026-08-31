@@ -1,8 +1,10 @@
 ---
-title: "桌球膠皮種類分析與應對策略"
-description: "了解不同桌球膠皮的特性，對於提升技術和制定對戰策略至關重要"
+title: "膠皮種類全解析與對戰應對策略：反膠、正膠、生膠、長膠、防弧"
+description: "各類膠皮（反膠/正膠/生膠/中顆/長膠/防弧）的特性與弱點對照，以及遇到不同膠皮對手時的實戰應對策略。"
 date: 2025-03-15
-slug: rubber-analysis
+slug: rubber-types-and-counter-tactics
+aliases:
+  - /post/table-tennis/rubber-types-and-counter-tactics/
 categories:
   - table-tennis
 tags:
@@ -12,6 +14,11 @@ tags:
 ---
 
 ### 桌球膠皮種類分析與應對策略
+
+> **這篇 vs [膠皮候選池分析](/post/table-tennis/rubber-research/) 差在哪？**
+> 這篇談的是**膠皮種類的世界觀與對戰應對** — 遇到長膠、生膠對手怎麼打。
+> 想挑「自己下一張要買哪張反膠」請看 [全面性的膠皮分析：候選池與實戰定位](/post/table-tennis/rubber-research/)。
+
 
 桌球膠皮的選擇是影響打法風格和戰術應用的關鍵因素。了解不同膠皮的特性，對於提升自己的技術和制定對戰策略至關重要。
 
