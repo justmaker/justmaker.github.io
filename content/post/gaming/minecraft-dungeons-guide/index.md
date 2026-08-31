@@ -142,6 +142,8 @@ Minecraft Dungeons 是一款基於 Minecraft 世界觀的合作動作 RPG。玩�
 
 ## 裝備系統
 
+> 完整的近戰武器、遠程武器（弓／弩）、盔甲圖鑑（含官方圖示與數值）請見另一篇：[Minecraft Dungeons 武器與盔甲圖鑑](/post/gaming/minecraft-dungeons-equipment-catalog/)
+
 裝備分四類：近戰武器、遠程武器、盔甲、法器。
 
 ### 近戰武器（力量、速度、攻擊範圍決定強度）
