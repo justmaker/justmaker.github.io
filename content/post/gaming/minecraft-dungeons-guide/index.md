@@ -148,9 +148,9 @@ Minecraft Dungeons 是一款基於 Minecraft 世界觀的合作動作 RPG。玩�
 優先選力量+攻擊範圍高的武器，如雙刃斧、船錨系（覆藤船錨）、武士刀系。
 
 > **速度與範圍的取捨：** 力量/攻擊範圍高的武器攻速通常較慢，前期（戰力 1–33，預設難易度）比較平衡的選擇：
-> - **雙刃斧**（力量9／速度2／攻擊範圍13，潮濕沼澤、潮濕洞穴可拿）：招式為旋轉攻擊，一擊可打中範圍內全部敵人，等於用範圍彌補攻速，清怪效率不輸快刀，是前期最推薦的主力近戰。
-> - **長矛**（力量6／速度2／攻擊範圍9，苦力怕森林起就有）：攻速中等、攻擊距離夠遠，可站樁輸出不被近戰怪貼臉。
-> - **彎刀**（力量4／速度3／攻擊範圍5，潮濕洞穴、仙人掌峽谷、烈焰鍛造廠可拿）：攻速最快、連段流暢，適合搭暴擊/旋渦附魔打快攻流，範圍換速度。
+> - ![雙刃斧](https://zh.minecraft.wiki/images/thumb/Double_Axe_%28MCD%29.png/50px-Double_Axe_%28MCD%29.png?1ac69) **雙刃斧**（力量9／速度2／攻擊範圍13，潮濕沼澤、潮濕洞穴可拿）：招式為旋轉攻擊，一擊可打中範圍內全部敵人，等於用範圍彌補攻速，清怪效率不輸快刀，是前期最推薦的主力近戰。
+> - ![長矛](https://zh.minecraft.wiki/images/thumb/Spear_%28MCD%29.png/50px-Spear_%28MCD%29.png?0c264) **長矛**（力量6／速度2／攻擊範圍9，苦力怕森林起就有）：攻速中等、攻擊距離夠遠，可站樁輸出不被近戰怪貼臉。
+> - ![彎刀](https://zh.minecraft.wiki/images/thumb/Cutlass_%28MCD%29.png/50px-Cutlass_%28MCD%29.png?0e7a5) **彎刀**（力量4／速度3／攻擊範圍5，潮濕洞穴、仙人掌峽谷、烈焰鍛造廠可拿）：攻速最快、連段流暢，適合搭暴擊/旋渦附魔打快攻流，範圍換速度。
 > - 闊劍、大錘、靈魂之刃、鎬等力量最高（10–12）但速度僅 1，且要到黑曜之巔（要塞後期）才拿得到，前期不建議強求。
 
 ### 遠程武器（力量、速度、彈藥上限決定強度）
@@ -162,12 +162,12 @@ Minecraft Dungeons 是一款基於 Minecraft 世界觀的合作動作 RPG。玩�
 ### 法器（Artifacts）
 分傷害、屬性、特殊箭矢、召喚、增益五類，推薦法器與能力如下：
 
-- **苦痛箭袋**（特殊箭矢）：裝備後普通箭矢會替換成特殊箭矢，優先於一般箭矢發射，可造成不同元素傷害；使用時 +1 靈魂收集，需要靈魂才能發動。
-- **弱化之鑼**（屬性）：使用後使半徑 7 個方塊內的敵人**虛弱**——降低敵人 25% 攻擊力，並讓牠們承受 2 倍傷害，時長依等級而定，冷卻 20 秒。清一群怪前開一發能大幅降低承受的反擊傷害。
-- **浮流之羽**（屬性）：使用後可在空中進行一次額外翻滾，並擊退、擊暈周圍敵人；若武器/盔甲附魔有「翻滾觸發」效果（如精力充沛、爆裂弓弦），使用浮流之羽也會一併觸發，等於免費多一次翻滾觸發機會，冷卻僅 3 秒。
-- **毒帽菇**（增益）：使用後進入「狂暴化」狀態，提升 **100% 攻擊速度**與 **20% 移動速度**，持續時間隨等級提升，冷卻 30 秒（可靠冷卻附魔大幅縮短）。是輸出爆發期最推薬的增益法器之一。
-- **鐵皮護身符**（增益）：使用後獲得「保護」狀態，**大幅提升防禦力，減免 50% 傷害**，持續時間隨等級提升，冷卻 25 秒。硬吃傷害前開一發能大幅提高生存率。
-- **暗影裝置**（增益，虛空迴響 DLC）：消耗 40 靈魂，使玩家進入類似暗影之釀的**暗影狀態**（隱身/免疫仇恨），且施放後 8 秒內可再次觸發手動解除，冷卻僅 5 秒；適合拉開距離、脫離包圍或繞後偷襲。
+- ![苦痛箭袋](https://zh.minecraft.wiki/images/thumb/Torment_Quiver_%28MCD%29.png/50px-Torment_Quiver_%28MCD%29.png?9934e) **苦痛箭袋**（特殊箭矢）：裝備後普通箭矢會替換成特殊箭矢，優先於一般箭矢發射，可造成不同元素傷害；使用時 +1 靈魂收集，需要靈魂才能發動。
+- ![弱化之鑼](https://zh.minecraft.wiki/images/thumb/Gong_of_Weakening_%28MCD%29.png/50px-Gong_of_Weakening_%28MCD%29.png?1080e) **弱化之鑼**（屬性）：使用後使半徑 7 個方塊內的敵人**虛弱**——降低敵人 25% 攻擊力，並讓牠們承受 2 倍傷害，時長依等級而定，冷卻 20 秒。清一群怪前開一發能大幅降低承受的反擊傷害。
+- ![浮流之羽](https://zh.minecraft.wiki/images/thumb/Light_Feather_%28MCD%29.png/50px-Light_Feather_%28MCD%29.png?55d5d) **浮流之羽**（屬性）：使用後可在空中進行一次額外翻滾，並擊退、擊暈周圍敵人；若武器/盔甲附魔有「翻滾觸發」效果（如精力充沛、爆裂弓弦），使用浮流之羽也會一併觸發，等於免費多一次翻滾觸發機會，冷卻僅 3 秒。
+- ![毒帽菇](https://zh.minecraft.wiki/images/thumb/Death_Cap_Mushroom_%28MCD%29.png/50px-Death_Cap_Mushroom_%28MCD%29.png?393d2) **毒帽菇**（增益）：使用後進入「狂暴化」狀態，提升 **100% 攻擊速度**與 **20% 移動速度**，持續時間隨等級提升，冷卻 30 秒（可靠冷卻附魔大幅縮短）。是輸出爆發期最推薦的增益法器之一。
+- ![鐵皮護身符](https://zh.minecraft.wiki/images/thumb/Iron_Hide_Amulet_%28Dungeons%29.png/50px-Iron_Hide_Amulet_%28Dungeons%29.png?e5db4) **鐵皮護身符**（增益）：使用後獲得「保護」狀態，**大幅提升防禦力，減免 50% 傷害**，持續時間隨等級提升，冷卻 25 秒。硬吃傷害前開一發能大幅提高生存率。
+- ![暗影裝置](https://zh.minecraft.wiki/images/thumb/Shadow_Shifter_%28MCD%29.png/50px-Shadow_Shifter_%28MCD%29.png?28aab) **暗影裝置**（增益，虛空迴響 DLC）：消耗 40 靈魂，使玩家進入類似暗影之釀的**暗影狀態**（隱身/免疫仇恨），且施放後 8 秒內可再次觸發手動解除，冷卻僅 5 秒；適合拉開距離、脫離包圍或繞後偷襲。
 
 > 資料來源：[中文 Minecraft Wiki - Dungeons:法器](https://zh.minecraft.wiki/w/Dungeons:%E6%B3%95%E5%99%A8?variant=zh-tw)
 
@@ -177,9 +177,9 @@ Minecraft Dungeons 是一款基於 Minecraft 世界觀的合作動作 RPG。玩�
 
 需要快速穿越地圖、閃避、跑酷時，這幾個法器是首選：
 
-- **加速之靴子**（增益）：使用後獲得加速效果，提升移動速度，持續時間依等級而定（約 2.5～4.0 秒），冷卻僅 5 秒，CD 短、隨時可用，是最單純的跑速法器。
-- **幽靈戰袍**（增益）：使用後進入「幽靈形態」，小幅提升移動速度，並可**直接穿越敵人**，同時獲得 50% 傷害減免，非常適合穿越大批敵人或逃脫包圍；但一旦攻擊或射擊會立即解除，冷卻 6 秒。
-- **浮流之羽**（屬性，前面已提過）：額外空中翻滾 + 擊暈敵人，也可用於跳躍時多一次位移，冷卻僅 3 秒。
+- ![加速之靴子](https://zh.minecraft.wiki/images/thumb/Boots_of_Swiftness_%28MCD%29.png/50px-Boots_of_Swiftness_%28MCD%29.png?05982) **加速之靴子**（增益）：使用後獲得加速效果，提升移動速度，持續時間依等級而定（約 2.5～4.0 秒），冷卻僅 5 秒，CD 短、隨時可用，是最單純的跑速法器。
+- ![幽靈戰袍](https://zh.minecraft.wiki/images/thumb/Ghost_Cloak_%28MCD%29.png/50px-Ghost_Cloak_%28MCD%29.png?75ff8) **幽靈戰袍**（增益）：使用後進入「幽靈形態」，小幅提升移動速度，並可**直接穿越敵人**，同時獲得 50% 傷害減免，非常適合穿越大批敵人或逃脫包圍；但一旦攻擊或射擊會立即解除，冷卻 6 秒。
+- ![浮流之羽](https://zh.minecraft.wiki/images/thumb/Light_Feather_%28MCD%29.png/50px-Light_Feather_%28MCD%29.png?55d5d) **浮流之羽**（屬性，前面已提過）：額外空中翻滾 + 擊暈敵人，也可用於跳躍時多一次位移，冷卻僅 3 秒。
 
 > 想要純粹跑酷貫穿人群：**幽靈戰袍**最強（能直接穿人）；想要單純提速、頻繁使用：**加速之靴子**冷卻最短。兩個法器機制不同，可依需求擇一或搭配隊友分工。
 
@@ -189,50 +189,50 @@ Minecraft Dungeons 是一款基於 Minecraft 世界觀的合作動作 RPG。玩�
 
 ### 近戰附魔 Tier List
 - **S 級：**
-  - **旋渦**：連擊的最後一式會變成狂風攻擊，對附近敵人造成傷害（I 1×／II 1.5×／III 2× 傷害）
-  - **暴擊**：有機會發出致命一擊，造成 3 倍傷害（I 10%／II 15%／III 20% 觸發機率）
-  - **精力充沛**：翻滾後提升下次攻擊傷害，多次翻滾可疊加（I 1×／II 1.6×／III 2.2× 傷害）
-  - **守衛攻擊**：擊敗生物會得到限時護盾，減免 50% 傷害（I 2 秒／II 3 秒／III 4 秒時長）
-  - **精神煥發**：擊敗生物可減少治療藥水冷卻時間（I 1.0 秒／II 2.0 秒／III 3.0 秒）
-  - **解除附魔**：提升對附魔敵人的傷害（I 50%／II 75%／III 100% 傷害加成）
-  - **虛空強襲**：攻擊目標會施加傷害倍數，倍數穩定上升至最大值後釋放（I +200%／II +400%／III +600% 最高傷害倍數）
+  - ![旋渦](https://zh.minecraft.wiki/images/thumb/T_Swirling_Icon.png/32px-T_Swirling_Icon.png?0c191) **旋渦**：連擊的最後一式會變成狂風攻擊，對附近敵人造成傷害（I 1×／II 1.5×／III 2× 傷害）
+  - ![暴擊](https://zh.minecraft.wiki/images/thumb/T_CriticalHit_Icon.png/32px-T_CriticalHit_Icon.png?5f167) **暴擊**：有機會發出致命一擊，造成 3 倍傷害（I 10%／II 15%／III 20% 觸發機率）
+  - ![精力充沛](https://zh.minecraft.wiki/images/thumb/Dynamo_Melee.png/32px-Dynamo_Melee.png?2226d) **精力充沛**：翻滾後提升下次攻擊傷害，多次翻滾可疊加（I 1×／II 1.6×／III 2.2× 傷害）
+  - ![守衛攻擊](https://zh.minecraft.wiki/images/thumb/T_GuardingStrike_Icon.png/32px-T_GuardingStrike_Icon.png?264c0) **守衛攻擊**：擊敗生物會得到限時護盾，減免 50% 傷害（I 2 秒／II 3 秒／III 4 秒時長）
+  - ![精神煥發](https://zh.minecraft.wiki/images/thumb/RefreshmentMelee.png/32px-RefreshmentMelee.png?842b8) **精神煥發**：擊敗生物可減少治療藥水冷卻時間（I 1.0 秒／II 2.0 秒／III 3.0 秒）
+  - ![解除附魔](https://zh.minecraft.wiki/images/thumb/Unchanting.png/32px-Unchanting.png?d295a) **解除附魔**：提升對附魔敵人的傷害（I 50%／II 75%／III 100% 傷害加成）
+  - ![虛空強襲](https://zh.minecraft.wiki/images/thumb/VoidStrikeMelee.png/32px-VoidStrikeMelee.png?86d1e) **虛空強襲**：攻擊目標會施加傷害倍數，倍數穩定上升至最大值後釋放（I +200%／II +400%／III +600% 最高傷害倍數）
 - **A 級：**
-  - **吸血**：吸取被擊殺生物最高生命值的一部分（I 5%／II 7%／III 9%）
-  - **進傷**：對生命值不滿的敵人造成更多傷害（I 0-50%／II 0-75%／III 0-100% 傷害加成）
-  - **鋒利**：讓武器更銳利，造成更多傷害（I 10%／II 21%／III 33% 傷害提升）
+  - ![吸血](https://zh.minecraft.wiki/images/thumb/T_Leeching_Icon.png/32px-T_Leeching_Icon.png?7a9c6) **吸血**：吸取被擊殺生物最高生命值的一部分（I 5%／II 7%／III 9%）
+  - ![進傷](https://zh.minecraft.wiki/images/thumb/Committed.png/32px-Committed.png?66c15) **進傷**：對生命值不滿的敵人造成更多傷害（I 0-50%／II 0-75%／III 0-100% 傷害加成）
+  - ![鋒利](https://zh.minecraft.wiki/images/thumb/T_Sharpness_Icon.png/32px-T_Sharpness_Icon.png?d50cf) **鋒利**：讓武器更銳利，造成更多傷害（I 10%／II 21%／III 33% 傷害提升）
 - **B 級：**
-  - **燃燒**：使生物受到持續 3 秒的燃燒傷害（I 1×／II 1.25×／III 1.5× 每秒平均傷害）
-  - **毒霧**：30% 機率召喚持續 3 秒對敵人造成傷害的毒霧（I 1×／II 2×／III 3× 每秒平均傷害）
-  - **狂怒**：擊敗生物後有 10% 機率增加 50% 攻擊速度（I 5 秒／II 10 秒／III 15 秒時長）
+  - ![燃燒](https://zh.minecraft.wiki/images/thumb/Fire_Aspect.png/32px-Fire_Aspect.png?a6be8) **燃燒**：使生物受到持續 3 秒的燃燒傷害（I 1×／II 1.25×／III 1.5× 每秒平均傷害）
+  - ![毒霧](https://zh.minecraft.wiki/images/thumb/Poison_Cloud.png/32px-Poison_Cloud.png?09f85) **毒霧**：30% 機率召喚持續 3 秒對敵人造成傷害的毒霧（I 1×／II 2×／III 3× 每秒平均傷害）
+  - ![狂怒](https://zh.minecraft.wiki/images/thumb/Rampaging.png/32px-Rampaging.png?08625) **狂怒**：擊敗生物後有 10% 機率增加 50% 攻擊速度（I 5 秒／II 10 秒／III 15 秒時長）
 
 ### 遠程附魔 Tier List
 - **S 級：**
-  - **冷卻射擊**：進行蓄力射擊後減少法器冷卻時間（I 0.5 秒／II 1.0 秒／III 1.5 秒）
-  - **爆裂弓弦**：翻滾時射擊周圍敵人，每次翻滾消耗一支箭矢，造成蓄滿力射擊 40% 傷害（I 1 目標／II 2 目標／III 3 目標）
-  - **虛空強襲**：攻擊目標會施加傷害倍數，倍數穩定上升至最大值後釋放（I +100%／II +200%／III +300% 最高傷害倍數）
-  - **速度竊取**：偷取怪物的速度並給予自己，持續 4 秒（I 偷取 17%／II 33%／III 50% 速度）
+  - ![冷卻射擊](https://zh.minecraft.wiki/images/thumb/T_CooldownShot_Icon.png/32px-T_CooldownShot_Icon.png?5ef05) **冷卻射擊**：進行蓄力射擊後減少法器冷卻時間（I 0.5 秒／II 1.0 秒／III 1.5 秒）
+  - ![爆裂弓弦](https://zh.minecraft.wiki/images/thumb/Burst_Bowstring.png/32px-Burst_Bowstring.png?8853e) **爆裂弓弦**：翻滾時射擊周圍敵人，每次翻滾消耗一支箭矢，造成蓄滿力射擊 40% 傷害（I 1 目標／II 2 目標／III 3 目標）
+  - ![虛空強襲](https://zh.minecraft.wiki/images/thumb/VoidStrikeRanged.png/32px-VoidStrikeRanged.png?30e07) **虛空強襲**：攻擊目標會施加傷害倍數，倍數穩定上升至最大值後釋放（I +100%／II +200%／III +300% 最高傷害倍數）
+  - ![速度竊取](https://zh.minecraft.wiki/images/thumb/Tempo_Theft.png/32px-Tempo_Theft.png?73323) **速度竊取**：偷取怪物的速度並給予自己，持續 4 秒（I 偷取 17%／II 33%／III 50% 速度）
 - **A 級：**
-  - **引力**：將一定範圍內的敵人引向武器命中處（I 1.0 秒／II 1.5 秒／III 2.0 秒時長）
-  - **多級蓄力**：長按遠程攻擊鍵為弓蓄力 2 倍、3 倍甚至 4 倍傷害（I 蓄力 2 倍／II 3 倍／III 4 倍傷害）
-  - **無限**：射擊有機率不消耗箭矢（I 16%／II 32%／III 48% 觸發機率）
+  - ![引力](https://zh.minecraft.wiki/images/thumb/Gravity.png/32px-Gravity.png?efb9a) **引力**：將一定範圍內的敵人引向武器命中處（I 1.0 秒／II 1.5 秒／III 2.0 秒時長）
+  - ![多級蓄力](https://zh.minecraft.wiki/images/thumb/Overcharge.png/32px-Overcharge.png?ab846) **多級蓄力**：長按遠程攻擊鍵為弓蓄力 2 倍、3 倍甚至 4 倍傷害（I 蓄力 2 倍／II 3 倍／III 4 倍傷害）
+  - ![無限](https://zh.minecraft.wiki/images/thumb/Infinity.png/32px-Infinity.png?d8d2e) **無限**：射擊有機率不消耗箭矢（I 16%／II 32%／III 48% 觸發機率）
 - **B 級：**
-  - **加速**：連續射擊逐漸提高射擊速度，1 秒後重設（I 每次射擊 +8%／II +10%／III +12% 速度）
-  - **衝擊**：提升箭的擊退距離（I +200%／II +300%／III +400% 擊退距離）
+  - ![加速](https://zh.minecraft.wiki/images/thumb/Accelerate.png/32px-Accelerate.png?c1bcf) **加速**：連續射擊逐漸提高射擊速度，1 秒後重設（I 每次射擊 +8%／II +10%／III +12% 速度）
+  - ![衝擊](https://zh.minecraft.wiki/images/thumb/T_Punch_Icon.png/32px-T_Punch_Icon.png?a1d1c) **衝擊**：提升箭的擊退距離（I +200%／II +300%／III +400% 擊退距離）
 
 ### 盔甲附魔 Tier List
 - **S 級：**
-  - **藥水護盾**：使用治療藥水後觸發 -90% 的短時間傷害減免（I 5 秒／II 7 秒／III 9 秒時長）
-  - **冷卻**：降低法器的使用冷卻時間（I -18%／II -29%／III -38% 法器冷卻時間）
-  - **驚喜禮物**：使用治療藥水會獲得隨機消耗品（I 50%／II 100%／III 150% 觸發機率）
-  - **生命協同**：使用法器會順帶回復少許生命值（I 3%／II 4%／III 5% 生命值回復）
-  - **暗影之烈**：暗影狀態效果生效時擊殺生物會獲得更多靈魂（I 6 靈魂／II 12 靈魂／III 16 靈魂／每個生物）
+  - ![藥水護盾](https://zh.minecraft.wiki/images/thumb/T_PotionFortification_Icon.png/32px-T_PotionFortification_Icon.png?3033c) **藥水護盾**：使用治療藥水後觸發 -90% 的短時間傷害減免（I 5 秒／II 7 秒／III 9 秒時長）
+  - ![冷卻](https://zh.minecraft.wiki/images/thumb/Cool_Down.png/32px-Cool_Down.png?1a9f0) **冷卻**：降低法器的使用冷卻時間（I -18%／II -29%／III -38% 法器冷卻時間）
+  - ![驚喜禮物](https://zh.minecraft.wiki/images/thumb/Surprise_Gift.png/32px-Surprise_Gift.png?cb77c) **驚喜禮物**：使用治療藥水會獲得隨機消耗品（I 50%／II 100%／III 150% 觸發機率）
+  - ![生命協同](https://zh.minecraft.wiki/images/thumb/Health_Synergy.png/32px-Health_Synergy.png?dfb3e) **生命協同**：使用法器會順帶回復少許生命值（I 3%／II 4%／III 5% 生命值回復）
+  - ![暗影之烈](https://zh.minecraft.wiki/images/thumb/ShadowSurge.png/32px-ShadowSurge.png?728b3) **暗影之烈**：暗影狀態效果生效時擊殺生物會獲得更多靈魂（I 6 靈魂／II 12 靈魂／III 16 靈魂／每個生物）
 - **A 級：**
-  - **保護**：降低受到的傷害（I 6%／II 11%／III 15% 傷害減免）
-  - **多重翻滾**：獲得額外的翻滾次數（I +2 次／II +3 次／III +4 次）
-  - **幸運探險家**：探明每個方塊都有機率獲得綠寶石（I 1 個／II 3 個／III 5 個綠寶石）
+  - ![保護](https://zh.minecraft.wiki/images/thumb/Protection.png/32px-Protection.png?882a1) **保護**：降低受到的傷害（I 6%／II 11%／III 15% 傷害減免）
+  - ![多重翻滾](https://zh.minecraft.wiki/images/thumb/T_MultiDodge_Icon.png/32px-T_MultiDodge_Icon.png?0827e) **多重翻滾**：獲得額外的翻滾次數（I +2 次／II +3 次／III +4 次）
+  - ![幸運探險家](https://zh.minecraft.wiki/images/thumb/T_EmeraldDivination_Icon.png/32px-T_EmeraldDivination_Icon.png?a92d1) **幸運探險家**：探明每個方塊都有機率獲得綠寶石（I 1 個／II 3 個／III 5 個綠寶石）
 - **B 級：**
-  - **衝刺**：受到傷害後提升 1 秒移動速度（I +30%／II +60%／III +90% 移動速度）
-  - **食物儲備**：使用治療藥水會獲得隨機食物（I 1 個／II 2 個／III 3 個食物）
+  - ![衝刺](https://zh.minecraft.wiki/images/thumb/T_Flee_Icon.png/32px-T_Flee_Icon.png?56078) **衝刺**：受到傷害後提升 1 秒移動速度（I +30%／II +60%／III +90% 移動速度）
+  - ![食物儲備](https://zh.minecraft.wiki/images/thumb/Food_Reserves.png/32px-Food_Reserves.png?9a8f7) **食物儲備**：使用治療藥水會獲得隨機食物（I 1 個／II 2 個／III 3 個食物）
 
 > 資料來源：[中文 Minecraft Wiki - Dungeons:附魔](https://zh.minecraft.wiki/w/Dungeons:%E9%99%84%E9%AD%94?variant=zh-tw)
 
@@ -241,19 +241,19 @@ Minecraft Dungeons 是一款基於 Minecraft 世界觀的合作動作 RPG。玩�
 想把攻擊變成範圍打法，依「觸發機率」整理如下：
 
 **近戰 — 必定觸發（最穩）**
-- **旋渦**：連擊最後一式固定變成狂風攻擊，對附近敵人造成傷害（非機率觸發）
-- **衝擊波**：連擊最後一式固定產生衝擊波打周圍敵人（非機率觸發）
+- ![旋渦](https://zh.minecraft.wiki/images/thumb/T_Swirling_Icon.png/32px-T_Swirling_Icon.png?0c191) **旋渦**：連擊最後一式固定變成狂風攻擊，對附近敵人造成傷害（非機率觸發）
+- ![衝擊波](https://zh.minecraft.wiki/images/thumb/Shockwave.png/32px-Shockwave.png?bb164) **衝擊波**：連擊最後一式固定產生衝擊波打周圍敵人（非機率觸發）
 
 **近戰 — 機率觸發**
-- **喚雷**：30% 機率召喚落雷攻擊附近敵人（I 1×／II 2×／III 3× 傷害），機率較低，效果偏向額外傷害而非穩定清怪，自帶此附魔的武器：雷霆之錘
+- ![喚雷](https://zh.minecraft.wiki/images/thumb/T_Thundering_Icon.png/32px-T_Thundering_Icon.png?56b3b) **喚雷**：30% 機率召喚落雷攻擊附近敵人（I 1×／II 2×／III 3× 傷害），機率較低，效果偏向額外傷害而非穩定清怪，自帶此附魔的武器：雷霆之錘
 
 **遠程 — 必定觸發（最穩）**
-- **貫穿**：射出的箭有機率刺穿並命中多個敵人，III 級為「每次射擊」都貫穿（等於 100% 觸發），是遠程範圍攻擊最穩的選擇
+- ![貫穿](https://zh.minecraft.wiki/images/thumb/T_Piercing_Icon.png/32px-T_Piercing_Icon.png?abcc2) **貫穿**：射出的箭有機率刺穿並命中多個敵人，III 級為「每次射擊」都貫穿（等於 100% 觸發），是遠程範圍攻擊最穩的選擇
 
 **遠程 — 機率觸發**
-- **分裂箭矢**：有機率一次射出 5 支箭（I 20%／II 30%／III 40% 機率）
-- **連鎖反應**：擊中目標後有機率發射 5 隻朝各方向的箭（I 10%／II 20%／III 30% 機率）
-- **電網**：用雷電光束連接箭的擊中點，敵人碰到光束會受傷（最多 1~3 條光束，非傷害機率型，看地形與敵人密度）
+- ![分裂箭矢](https://zh.minecraft.wiki/images/thumb/Multi_Shot.png/32px-Multi_Shot.png?fb68d) **分裂箭矢**：有機率一次射出 5 支箭（I 20%／II 30%／III 40% 機率）
+- ![連鎖反應](https://zh.minecraft.wiki/images/thumb/Chain_Reaction.png/32px-Chain_Reaction.png?93858) **連鎖反應**：擊中目標後有機率發射 5 隻朝各方向的箭（I 10%／II 20%／III 30% 機率）
+- ![電網](https://zh.minecraft.wiki/images/thumb/T_ShockWeb_Icon.png/32px-T_ShockWeb_Icon.png?2f152) **電網**：用雷電光束連接箭的擊中點，敵人碰到光束會受傷（最多 1~3 條光束，非傷害機率型，看地形與敵人密度）
 
 > **結論：** 要範圍攻擊又要高機率／穩定觸發，近戰選 **旋渦** 或 **衝擊波**，遠程選 **貫穿**（點滿 III 級）；這三個已列在上方 S 級推薦中，是目前遊戲內範圍攻擊最可靠的附魔組合。
 
