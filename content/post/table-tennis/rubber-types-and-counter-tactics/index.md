@@ -4,7 +4,7 @@ description: "各類膠皮（反膠/正膠/生膠/中顆/長膠/防弧）的特�
 date: 2025-03-15
 slug: rubber-types-and-counter-tactics
 aliases:
-  - /post/table-tennis/rubber-types-and-counter-tactics/
+  - /post/table-tennis/rubber-analysis/
 categories:
   - table-tennis
 tags:
