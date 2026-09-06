@@ -1,14 +1,38 @@
 <section class="article-content">
     {{- $content := .Content -}}
-    {{- $h2Matches := findRESubmatch `(?s)<h2 id="([^"]+)">(.*?)</h2>` $content -}}
-    {{- $longArticle := and (ge (len .RawContent) 5000) (ge (len $h2Matches) 5) -}}
-    {{- $tocAllowed := not (eq .Params.toc false) -}}
-    {{- $hasStandardToc := in .RawContent `id="article-toc"` -}}
-    {{- $hasBackButtons := in .RawContent `article-back-to-toc` -}}
+    {{- $allHeadings := findRESubmatch `(?s)<(h2|h3) id="([^"]+)">(.*?)</(?:h2|h3)>` $content -}}
+    {{- $h2Count := 0 -}}
+    {{- range $allHeadings -}}
+        {{- if eq (index . 1) "h2" -}}{{- $h2Count = add $h2Count 1 -}}{{- end -}}
+    {{- end -}}
+    {{- $longArticle := and (ge (len $.RawContent) 5000) (ge $h2Count 5) -}}
+    {{- $tocAllowed := not (eq $.Params.toc false) -}}
+    {{- $hasStandardToc := in $.RawContent `id="article-toc"` -}}
+    {{- $hasBackButtons := in $.RawContent `article-back-to-toc` -}}
     {{- $useInlineNavigation := and $longArticle $tocAllowed -}}
 
     {{- if and $useInlineNavigation (not $hasStandardToc) -}}
-        {{- $inlineToc := partial "article/components/inline-toc.html" (dict "Matches" $h2Matches) -}}
+        {{- $items := slice -}}
+        {{- $curItem := dict -}}
+        {{- range $allHeadings -}}
+            {{- $level := index . 1 -}}
+            {{- $id := index . 2 -}}
+            {{- $title := index . 3 -}}
+            {{- if eq $level "h2" -}}
+                {{- if isset $curItem "id" -}}
+                    {{- $items = $items | append $curItem -}}
+                {{- end -}}
+                {{- $curItem = dict "id" $id "title" $title "children" slice -}}
+            {{- else -}}
+                {{- if isset $curItem "id" -}}
+                    {{- $curItem = merge $curItem (dict "children" ($curItem.children | append (dict "id" $id "title" $title))) -}}
+                {{- end -}}
+            {{- end -}}
+        {{- end -}}
+        {{- if isset $curItem "id" -}}
+            {{- $items = $items | append $curItem -}}
+        {{- end -}}
+        {{- $inlineToc := partial "article/components/inline-toc.html" (dict "Items" $items) -}}
         {{- $content = replaceRE `(<h2 id="[^"]+">)` (printf "%s${1}" $inlineToc) $content 1 -}}
     {{- end -}}
 
