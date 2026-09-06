@@ -11,7 +11,7 @@ tags: ["Minecraft Dungeons", "高塔", "Tower", "攻略"]
 
 ## 各週攻略連結
 
-- [9/8 週高塔攻略（第 202 輪，啟示錄難易度）](/post/gaming/minecraft-dungeons-tower-week-202/) — 影片來源：<https://www.youtube.com/watch?v=rAGl71upXB8>
-- [9/1 週高塔攻略（第 201 輪，啟示錄／冒險難易度）](/post/gaming/minecraft-dungeons-tower-week-201/) — 影片來源：<https://www.youtube.com/watch?v=U2wKx7Qktuw>
+- [9/6 週高塔攻略（第 202 輪，啟示錄難易度）](/post/gaming/minecraft-dungeons-tower-week-202/) — 影片來源：<https://www.youtube.com/watch?v=rAGl71upXB8>
+- [8/30 週高塔攻略（第 201 輪，啟示錄／冒險難易度）](/post/gaming/minecraft-dungeons-tower-week-201/) — 影片來源：<https://www.youtube.com/watch?v=U2wKx7Qktuw>
 
 > 每週日晚上會自動抓取當週新影片並產生新文章，此列表會持續更新。
