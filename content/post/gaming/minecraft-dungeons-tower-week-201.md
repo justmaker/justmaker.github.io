@@ -1,24 +1,24 @@
 ---
-title: "Minecraft Dungeons：本週高塔攻略（第 201 輪，啟示錄／冒險難易度）"
+title: "Minecraft Dungeons：9/1 週高塔攻略（第 201 輪，啟示錄／冒險難易度）"
 date: 2026-09-05T17:30:00+08:00
 draft: false
 tags: ["Minecraft Dungeons", "高塔", "Tower", "攻略"]
 ---
 
-高塔（Tower）每週二會更新重置，本篇記錄的是**第 201 輪**啟示錄（Apocalypse）與冒險（Adventure）難易度的實際獎勵清單，僅對應這一次的輪替內容。
+高塔（Tower）每週二會更新重置，本篇記錄的是 **9/1 週（第 201 輪）** 啟示錄（Apocalypse）與冒險（Adventure）難易度的實際獎勵清單，僅對應這一次的輪替內容。
 
 完整的高塔機制、裝備、附魔等背景知識，請參考主文章：[Minecraft Dungeons 全攻略指南](/post/gaming/minecraft-dungeons-complete-guide/#%e9%ab%98%e5%a1%94)。
 
-下一週更新請見：[第 202 輪高塔攻略](/post/gaming/minecraft-dungeons-tower-week-202/)
+9/8 週更新請見：[9/8 週高塔攻略（第 202 輪）](/post/gaming/minecraft-dungeons-tower-week-202/)
 
 ## 影片來源
 
-本週資料整理自以下官方頻道影片說明文字：
+9/1 週資料整理自以下官方頻道影片說明文字：
 
 - 標題：`The Tower 201 Apocalypse Full Climb, Guide & Strategy, Minecraft Dungeons Fauna Faire`
 - 連結：<https://www.youtube.com/watch?v=U2wKx7Qktuw>
 
-## 本週高塔（第 201 輪，啟示錄難易度，總計 27 層，26 層提供獎勵選擇）實際獎勵清單
+## 9/1 週高塔（第 201 輪，啟示錄難易度，總計 27 層，26 層提供獎勵選擇）實際獎勵清單
 
 - **高塔守衛：** 1 位 @ 15 樓
 - **關底獎勵清單：** 啟示錄等級劍［喚雷 1］
@@ -48,7 +48,7 @@ tags: ["Minecraft Dungeons", "高塔", "Tower", "攻略"]
 - **第25層：** 遠程武器 齒輪十字弓
 - **第26層：** 防具 海龜盔甲［橫衝直撞 3］、遠程武器 齒輪十字弓［燃燒 2］［毒霧 1］［貫穿 1］
 
-## 本週高塔（第 201 輪，冒險難易度）實際獎勵清單
+## 9/1 週高塔（第 201 輪，冒險難易度）實際獎勵清單
 
 - **開局裝備：** 僱傭兵盔甲［跑速蜂１］
 - **第1層：** 收割者
@@ -75,4 +75,4 @@ tags: ["Minecraft Dungeons", "高塔", "Tower", "攻略"]
 - **第25層：** 僱傭兵盔甲［藥水護盾１］
 - **第26層：** 靈魂之刃［吸血３］［喚雷３］［暴擊３］、僱傭兵盔甲［橫衝直撞３］［藥水護盾３］
 
-> 注意：本清單僅對應該次特定輪次，下週二大洗牌後即失效，僅供對照高塔「選裝邏輯」參考。
+> 注意：本清單僅對應 9/1 週（第 201 輪）特定輪次，9/8 週大洗牌後即失效，僅供對照高塔「選裝邏輯」參考。
