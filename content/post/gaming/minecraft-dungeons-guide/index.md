@@ -521,6 +521,54 @@ Minecraft Dungeons 是一款基於 Minecraft 世界觀的合作動作 RPG。玩�
 
 > 參考資料：[中文 Minecraft Wiki - Dungeons:遠古狩獵](https://minecraft.wiki/w/Dungeons:Ancient_Hunt)
 
+### 獻祭規則（如何召喚指定遠古生物）
+
+進入遠古狩獵前會先進入「獻祭選單」，需要拿裝備來獻祭：
+
+- 每次可獻祭 **最多 1 件近戰武器 + 1 件遠程武器 + 1 件護甲 + 1 件法器**，四標字可以同時獻祭
+- 每件裝備上都有一組「邑人符文圖標」（Illageralt Runes），不同遠古生物需要特定的符文組合才會被召唤出來
+- **可以同時召喚多隻遠古生物**：只要你獻祭的四件裝備組合起來滿足多個遠古生物各自的符文需求，它們會一起出現在本輪遠古狩獵中（同一隻也可重複召喚）
+- 若獻祭的裝備來自未擁有的 DLC，對應的遠古生物仍會顯示但上鎖（需有該 DLC 或透過高塔獲得的同款裝備才能打）
+
+**效率建議：**
+1. 固定留一套「獻祭專用裝備」（每種存一件已識別符文的近戰/遠程/護甲/法器），避免每次都要回去找對的裝備
+2. 優先獻祭能**同時滿足多隻目標遠古生物符文的裝備組合**，一輪就能同時掉多種鍍金裝備
+3. 想掉特定裝備時，只需滍真那一隻遠古生物對應符文，不需要獻祭其他三標（一標也能嘆召，不一定要四標都雪）
+4. 遠古地窗（Ancient Dungeon）內會有一群小怪隱藏在競技場中，提升附魔點投資會提高遇到遠古地窗而非黃金寶藏門的機率
+
+### 遠古生物對應掉落裝備（部分重要小性）
+
+| 遠古生物 | 小怪東滁型 | 掉落學名（範例） |
+|------|------|------|
+| ????? | 25 菇牛 | 雙弐弶、拳套、奇房之弁、鬼魅盔甲、弙刃刀 |
+| Abominable Weaver | 8 苦力怕 | 雙手斧、斧頭旋風、狼甲、黑狼甲 |
+| Abyssal Eye | 3 沈溺己靈 | 珊瑚刃、蟒那海蟉甲、鬆魈弓弦 |
+| Ancient Terror | 9 蜘蛛 | 冒險的冒險家奧秘裝備、爆炎弙 |
+| Barrage | 20 骸髂 | 弓、骨骨弓、雙弓、獵人盔甲 |
+| Cursed Presence | 15 小屠屍 | 彎刃、無名之刃、幽靈甲 |
+| First Enchanter | 10 腐屍 | 巨剑、大剑、魂黏鎤、高地甲 |
+| Frostwarden | 7 冰備師 | 雪甲、霜華甲、雪弓 |
+| Grim Guardian | 6 必恩法師 | 漫胀之玥、黑暗甲、黏地剑 |
+| Haunted Caller | 6 骸髂騎士 | 長弓、小蜛蜟之刀、探險甲 |
+| Oozing Menace | 12 大型史莱姆 | 戰魔岰、短弓、傭兵甲 |
+| Pestilent Conjurer | 4 必恩法師 | 長柍、重型弙、長矛 |
+| Scuttling Torment | 15 骸髂 | 黑曜岩巨剑、虛空弙、传送魔衿 |
+| Solemn Giant | 4 末人 | 破裂弙、守衛甲、細剑 |
+| The Seeking Flame | 3 唤雨者 | 斧頭、召喚之服、魂之刃 |
+| The Swarm | 16 末蟲 | 背後一刺、壳那甲、陰影弙 |
+| The Tiny Scourge | 2 紅石高人 | 雙刃匀刃、盜賊甲、蜘蛛甲 |
+| The Tower | 12 雞雞騎士 | 蜜翼甲、狩獵弓、金剛石鏏 |
+| The Unending | 8 莯己靈弓手 | 骨棒、迦靈甲、藤蜟弓 |
+| Thundering Growth | 6 既存者 | 野猫甲、藤蟒、鱳鱴甲 |
+| Unbreakable One | 8 皧衛 | 巨剑、重錬、全金屬甲 |
+| Unstoppable Tusk | 20 豬布林猎人 | 電鍔、龋輪弙、芽芽甲 |
+| Vengeful Mariner | 20 小沈溺者 | 锚、泡泡弓、龜殻甲 |
+| Vigilant Scoundrel | 15 掷撃手 | 弙、鎖鏏、堅固甲 |
+| Watcher of the End | 6 爆裂牌 | 芸人服裝、陰影弙、虛空觸碰刀 |
+| Windbeard | 20 登山家 | 爬山裝備、風暴刃、風弓 |
+
+> 完整符文組合與全部掉落清單見：[英文 Minecraft Wiki - Dungeons:Ancient](https://minecraft.wiki/w/Dungeons:Ancient)、[Dungeons:Ancient Offering](https://minecraft.wiki/w/Dungeons:Ancient_Offering)
+
 ---
 
 ## 新手 Tips
