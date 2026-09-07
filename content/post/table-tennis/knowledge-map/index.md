@@ -112,6 +112,7 @@ tags:
 ### 功能型裝備 / 其他
 - [桌球運動服裝材質比較](/post/table-tennis/sportswear-materials/)
 - [桌球訓練器材整理](/post/table-tennis/training-equipment/)
+- [AKKADI TW 2700-08 桌球發球機：功能、規格與訓練應用](/post/table-tennis/akkadi-tw2700-08/)
 
 ---
 

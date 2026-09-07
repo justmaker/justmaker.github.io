@@ -49,11 +49,14 @@ menu:
 ### 9. [反膠價格整理](/post/table-tennis/inverted-rubber-pricing/)
 把常見反膠價格做成一份方便對照的筆記。
 
+### 10. [AKKADI TW 2700-08 桌球發球機整理](/post/table-tennis/akkadi-tw2700-08/)
+整理雙輪發球機的球路模式、原廠規格與實際訓練菜單。
+
 ---
 
 ## 四、技術單點
 
-### 10. [反手挑打 / 擰拉筆記](/post/table-tennis/backhand-flick/)
+### 11. [反手挑打 / 擰拉筆記](/post/table-tennis/backhand-flick/)
 針對反手挑打與擰拉相關內容的整理。
 
 ---
