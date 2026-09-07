@@ -111,6 +111,8 @@ image: ""
 
 如果目標是後期完成整套 Build，可搭配閱讀：[封頂之路：高塔與遠古狩獵怎麼選](/post/gaming/minecraft-dungeons-endgame-progression/)。
 
+如果遠古狩獵的小怪或遠古生物房間太難，可參考：[降低難度、生存配裝與遠程打法](/post/gaming/minecraft-dungeons-ancient-hunt-survival/)。
+
 ## 參考工具
 
 - [Minecraft Wiki：Ancient Hunt](https://minecraft.wiki/w/Dungeons:Ancient_Hunt)
