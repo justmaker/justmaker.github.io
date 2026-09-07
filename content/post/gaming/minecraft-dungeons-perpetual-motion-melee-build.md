@@ -30,7 +30,7 @@ tags: ["Minecraft Dungeons", "Build", "普攻流", "永動機"]
     *   **生命竊取光環 (Life Steal Aura)：** 少數護甲會有這個特性，直接提供生命竊取。
 
 *   **推薦護甲及附魔：**
-    *   **舞者護甲 (Dancer's Armor) / 神聖護甲 (Wither Armor)：** 這些通常會有冷卻時間減少或生命竊取光環，非常適合普攻流。
+    *   **舞者護甲 (Dancer's Armor) / 凋零盔甲 (Wither Armor)：** 這些通常會有冷卻時間減少或生命竊取光環，非常適合普攻流。
     *   **關鍵附魔 (Enchantments)：**
         *   **藥水屏障 (Potion Barrier)：** 使用藥水後獲得短暫的巨大傷害減免，在危急時刻保命。
         *   **偏轉 (Deflect)：** 有機率偏轉遠程攻擊，大幅提升對遠程怪物的生存能力。

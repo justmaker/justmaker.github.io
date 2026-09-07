@@ -1,6 +1,6 @@
 ---
 title: "Minecraft Dungeons 遠古狩獵：核心裝備符文與精準獻祭組合"
-description: "Minecraft Dungeons 遠古狩獵符文攻略，整理背叛者盔甲、萎靈盔甲、詛咒之斧與暗夜之弓對應的遠古生物、符文需求及獻祭裝備組合。"
+description: "Minecraft Dungeons 遠古狩獵符文攻略，整理背叛者盔甲、凋零盔甲、詛咒之斧與暗夜之弓對應的遠古生物、符文需求及獻祭裝備組合。"
 date: 2026-09-06T00:30:00+08:00
 lastmod: 2026-09-07T21:24:00+08:00
 draft: false
@@ -43,7 +43,7 @@ image: ""
 - 彎刀（Cutlass）：C
 - 劍（Sword）：C
 
-## 萎靈盔甲（Wither Armor）
+## 凋零盔甲（Wither Armor）
 
 - **適用流派**：靈魂／法器流
 - **目標遠古生物**：冷酷的浪人（Grim Guardian）
