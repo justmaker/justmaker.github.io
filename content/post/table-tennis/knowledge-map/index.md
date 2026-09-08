@@ -106,6 +106,10 @@ tags:
 ### 正手主線
 - [正手動力傳導：從手上爆發到全身連動](/post/table-tennis/forehand-power-transfer/)
 
+### 反手主線
+- [反手容易揮空怎麼辦？原因判斷與訓練方法](/post/table-tennis/backhand-whiff-fix/)
+- [反手體系該模仿誰？五種路線拆解](/post/table-tennis/backhand-models-for-amateurs/)
+
 ### 還原與站位
 - [打完球之後要站哪？桌球還原站位動態原則](/post/table-tennis/recovery-position/)
 
