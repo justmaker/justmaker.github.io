@@ -170,19 +170,19 @@ Minecraft Dungeons 是一款基於 Minecraft 世界觀的合作動作 RPG。玩�
 
 > 完整的近戰武器、遠程武器（弓／弩）、盔甲圖鑑（含官方圖示與數值）請見另一篇：[Minecraft Dungeons 武器與盔甲圖鑑](/post/gaming/minecraft-dungeons-equipment-catalog/)
 
-裝備分四類：近戰武器、遠程武器、盔甲、法器。
+裝備分四類：近戰武器（Melee Weapons）、遠程武器（Ranged Weapons）、盔甲（Armor）、法器（Artifacts）。
 
 ### 近戰武器（力量、速度、攻擊範圍決定強度）
-優先選力量+攻擊範圍高的武器，如雙刃斧、船錨系（覆藤船錨）、武士刀系。
+優先選力量+攻擊範圍高的武器，如雙刃斧（Double Axe）、船錨（Anchor）系列（如覆藤船錨（Encrusted Anchor））、武士刀（Katana）系列。
 
 > **速度與範圍的取捨：** 力量/攻擊範圍高的武器攻速通常較慢，前期（戰力 1–33，預設難易度）比較平衡的選擇：
-> - ![雙刃斧](https://zh.minecraft.wiki/images/thumb/Double_Axe_%28MCD%29.png/50px-Double_Axe_%28MCD%29.png?1ac69) **雙刃斧**（力量9／速度2／攻擊範圍13，潮濕沼澤、潮濕洞穴可拿）：招式為旋轉攻擊，一擊可打中範圍內全部敵人，等於用範圍彌補攻速，清怪效率不輸快刀，是前期最推薦的主力近戰。
-> - ![長矛](https://zh.minecraft.wiki/images/thumb/Spear_%28MCD%29.png/50px-Spear_%28MCD%29.png?0c264) **長矛**（力量6／速度2／攻擊範圍9，苦力怕森林起就有）：攻速中等、攻擊距離夠遠，可站樁輸出不被近戰怪貼臉。
-> - ![彎刀](https://zh.minecraft.wiki/images/thumb/Cutlass_%28MCD%29.png/50px-Cutlass_%28MCD%29.png?0e7a5) **彎刀**（力量4／速度3／攻擊範圍5，潮濕洞穴、仙人掌峽谷、烈焰鍛造廠可拿）：攻速最快、連段流暢，適合搭暴擊（Critical Hit）/旋渦（Swirling）附魔打快攻流，範圍換速度。
-> - 闊劍、大錘、靈魂之刃、鎬等力量最高（10–12）但速度僅 1，且要到黑曜之巔（要塞後期）才拿得到，前期不建議強求。
+> - ![雙刃斧](https://zh.minecraft.wiki/images/thumb/Double_Axe_%28MCD%29.png/50px-Double_Axe_%28MCD%29.png?1ac69) **雙刃斧（Double Axe）**（力量9／速度2／攻擊範圍13，潮濕沼澤、潮濕洞穴可拿）：招式為旋轉攻擊，一擊可打中範圍內全部敵人，等於用範圍彌補攻速，清怪效率不輸快刀，是前期最推薦的主力近戰。
+> - ![長矛](https://zh.minecraft.wiki/images/thumb/Spear_%28MCD%29.png/50px-Spear_%28MCD%29.png?0c264) **長矛（Spear）**（力量6／速度2／攻擊範圍9，苦力怕森林起就有）：攻速中等、攻擊距離夠遠，可站樁輸出不被近戰怪貼臉。
+> - ![彎刀](https://zh.minecraft.wiki/images/thumb/Cutlass_%28MCD%29.png/50px-Cutlass_%28MCD%29.png?0e7a5) **彎刀（Cutlass）**（力量4／速度3／攻擊範圍5，潮濕洞穴、仙人掌峽谷、烈焰鍛造廠可拿）：攻速最快、連段流暢，適合搭暴擊（Critical Hit）/旋渦（Swirling）附魔打快攻流，範圍換速度。
+> - 闊劍（Claymore）、大錘（Great Hammer）、靈魂之刃（Soul Knife）、鎬（Pickaxe）等力量最高（10–12）但速度僅 1，且要到黑曜之巔（要塞後期）才拿得到，前期不建議強求。
 
 ### 遠程武器（力量、速度、彈藥上限決定強度）
-弓通常優於弩，搭配「冷卻射擊（Cooldown Shot）」「爆裂弓弦（Burst Bowstring）」附魔，加上法器「浮流之羽」可幾乎無縫使用法器技能。
+弓（Bow）通常優於弩（Crossbow），搭配「冷卻射擊（Cooldown Shot）」「爆裂弓弦（Burst Bowstring）」附魔，加上法器「浮流之羽（Light Feather）」可幾乎無縫使用法器技能。
 
 ### 盔甲
 本身數值影響不大，但「藥水護盾（Potion Barrier）」附魔能提供高減傷。
@@ -190,26 +190,26 @@ Minecraft Dungeons 是一款基於 Minecraft 世界觀的合作動作 RPG。玩�
 ### 法器（Artifacts）
 分傷害、屬性、特殊箭矢、召喚、增益五類，推薦法器與能力如下：
 
-- ![苦痛箭袋](https://zh.minecraft.wiki/images/thumb/Torment_Quiver_%28MCD%29.png/50px-Torment_Quiver_%28MCD%29.png?9934e) **苦痛箭袋**（特殊箭矢）：裝備後普通箭矢會替換成特殊箭矢，優先於一般箭矢發射，可造成不同元素傷害；使用時 +1 靈魂收集，需要靈魂才能發動。
-- ![弱化之鑼](https://zh.minecraft.wiki/images/thumb/Gong_of_Weakening_%28MCD%29.png/50px-Gong_of_Weakening_%28MCD%29.png?1080e) **弱化之鑼**（屬性）：使用後使半徑 7 個方塊內的敵人**虛弱**——降低敵人 25% 攻擊力，並讓牠們承受 2 倍傷害，時長依等級而定，冷卻 20 秒。清一群怪前開一發能大幅降低承受的反擊傷害。
-- ![浮流之羽](https://zh.minecraft.wiki/images/thumb/Light_Feather_%28MCD%29.png/50px-Light_Feather_%28MCD%29.png?55d5d) **浮流之羽**（屬性）：使用後可在空中進行一次額外翻滾，並擊退、擊暈周圍敵人；若武器/盔甲附魔有「翻滾觸發」效果（如精力充沛（Dynamo）、爆裂弓弦（Burst Bowstring）），使用浮流之羽也會一併觸發，等於免費多一次翻滾觸發機會，冷卻僅 3 秒。
-- ![毒帽菇](https://zh.minecraft.wiki/images/thumb/Death_Cap_Mushroom_%28MCD%29.png/50px-Death_Cap_Mushroom_%28MCD%29.png?393d2) **毒帽菇**（增益）：使用後進入「狂暴化」狀態，提升 **100% 攻擊速度**與 **20% 移動速度**，持續時間隨等級提升，冷卻 30 秒（可靠冷卻附魔大幅縮短）。是輸出爆發期最推薦的增益法器之一。
-- ![鐵皮護身符](https://zh.minecraft.wiki/images/thumb/Iron_Hide_Amulet_%28Dungeons%29.png/50px-Iron_Hide_Amulet_%28Dungeons%29.png?e5db4) **鐵皮護身符**（增益）：使用後獲得「保護」狀態，**大幅提升防禦力，減免 50% 傷害**，持續時間隨等級提升，冷卻 25 秒。硬吃傷害前開一發能大幅提高生存率。
-- ![暗影裝置](https://zh.minecraft.wiki/images/thumb/Shadow_Shifter_%28MCD%29.png/50px-Shadow_Shifter_%28MCD%29.png?28aab) **暗影裝置**（增益，虛空迴響 DLC）：消耗 40 靈魂，使玩家進入類似暗影之釀的**暗影狀態**（隱身/免疫仇恨），且施放後 8 秒內可再次觸發手動解除，冷卻僅 5 秒；適合拉開距離、脫離包圍或繞後偷襲。
+- ![苦痛箭袋](https://zh.minecraft.wiki/images/thumb/Torment_Quiver_%28MCD%29.png/50px-Torment_Quiver_%28MCD%29.png?9934e) **苦痛箭袋（Torment Quiver）**（特殊箭矢）：裝備後普通箭矢會替換成特殊箭矢，優先於一般箭矢發射，可造成不同元素傷害；使用時 +1 靈魂收集，需要靈魂才能發動。
+- ![弱化之鑼](https://zh.minecraft.wiki/images/thumb/Gong_of_Weakening_%28MCD%29.png/50px-Gong_of_Weakening_%28MCD%29.png?1080e) **弱化之鑼（Gong of Weakening）**（屬性）：使用後使半徑 7 個方塊內的敵人**虛弱**——降低敵人 25% 攻擊力，並讓牠們承受 2 倍傷害，時長依等級而定，冷卻 20 秒。清一群怪前開一發能大幅降低承受的反擊傷害。
+- ![浮流之羽](https://zh.minecraft.wiki/images/thumb/Light_Feather_%28MCD%29.png/50px-Light_Feather_%28MCD%29.png?55d5d) **浮流之羽（Light Feather）**（屬性）：使用後可在空中進行一次額外翻滾，並擊退、擊暈周圍敵人；若武器/盔甲附魔有「翻滾觸發」效果（如精力充沛（Dynamo）、爆裂弓弦（Burst Bowstring）），使用浮流之羽（Light Feather）也會一併觸發，等於免費多一次翻滾觸發機會，冷卻僅 3 秒。
+- ![毒帽菇](https://zh.minecraft.wiki/images/thumb/Death_Cap_Mushroom_%28MCD%29.png/50px-Death_Cap_Mushroom_%28MCD%29.png?393d2) **毒帽菇（Death Cap Mushroom）**（增益）：使用後進入「狂暴化」狀態，提升 **100% 攻擊速度**與 **20% 移動速度**，持續時間隨等級提升，冷卻 30 秒（可靠冷卻附魔大幅縮短）。是輸出爆發期最推薦的增益法器之一。
+- ![鐵皮護身符](https://zh.minecraft.wiki/images/thumb/Iron_Hide_Amulet_%28Dungeons%29.png/50px-Iron_Hide_Amulet_%28Dungeons%29.png?e5db4) **鐵皮護身符（Iron Hide Amulet）**（增益）：使用後獲得「保護」狀態，**大幅提升防禦力，減免 50% 傷害**，持續時間隨等級提升，冷卻 25 秒。硬吃傷害前開一發能大幅提高生存率。
+- ![暗影裝置](https://zh.minecraft.wiki/images/thumb/Shadow_Shifter_%28MCD%29.png/50px-Shadow_Shifter_%28MCD%29.png?28aab) **暗影裝置（Shadow Shifter）**（增益，虛空迴響 DLC）：消耗 40 靈魂，使玩家進入類似暗影之釀的**暗影狀態**（隱身/免疫仇恨），且施放後 8 秒內可再次觸發手動解除，冷卻僅 5 秒；適合拉開距離、脫離包圍或繞後偷襲。
 
-> 資料來源：[中文 Minecraft Wiki - Dungeons:法器](https://zh.minecraft.wiki/w/Dungeons:%E6%B3%95%E5%99%A8?variant=zh-tw)
+> 資料來源：[中文 Minecraft Wiki - Dungeons:法器](https://zh.minecraft.wiki/w/Dungeons:%E6%B3%95%E5%99%A8?variant=zh-tw)、[Minecraft Wiki - Dungeons:Artifact](https://minecraft.wiki/w/Dungeons:Artifact)
 
-> **法器等級的影響：** 法器等級高低主要影響「效果能維持多久（持續時間）」，不影響「效果本身多強」。例如毒帽菇不管等級高低都是 +100% 攻速，鐵皮護身符都是 -50% 傷害，等級只讓這些效果撐更久。真正決定法器好不好用的是搭配的**冷卻（Cool Down）附魔**（能大幅縮短 CD、更常觸發）與法器機制本身，不用執著升級法器數值。
+> **法器等級的影響：** 法器等級高低主要影響「效果能維持多久（持續時間）」，不影響「效果本身多強」。例如毒帽菇（Death Cap Mushroom）不管等級高低都是 +100% 攻速，鐵皮護身符（Iron Hide Amulet）都是 -50% 傷害，等級只讓這些效果撐更久。真正決定法器好不好用的是搭配的**冷卻（Cool Down）附魔**（能大幅縮短 CD、更常觸發）與法器機制本身，不用執著升級法器數值。
 
 ### 跑酷 / 移動類法器
 
 需要快速穿越地圖、閃避、跑酷時，這幾個法器是首選：
 
-- ![加速之靴子](https://zh.minecraft.wiki/images/thumb/Boots_of_Swiftness_%28MCD%29.png/50px-Boots_of_Swiftness_%28MCD%29.png?05982) **加速之靴子**（增益）：使用後獲得加速效果，提升移動速度，持續時間依等級而定（約 2.5～4.0 秒），冷卻僅 5 秒，CD 短、隨時可用，是最單純的跑速法器。
-- ![幽靈戰袍](https://zh.minecraft.wiki/images/thumb/Ghost_Cloak_%28MCD%29.png/50px-Ghost_Cloak_%28MCD%29.png?75ff8) **幽靈戰袍**（增益）：使用後進入「幽靈形態」，小幅提升移動速度，並可**直接穿越敵人**，同時獲得 50% 傷害減免，非常適合穿越大批敵人或逃脫包圍；但一旦攻擊或射擊會立即解除，冷卻 6 秒。
-- ![浮流之羽](https://zh.minecraft.wiki/images/thumb/Light_Feather_%28MCD%29.png/50px-Light_Feather_%28MCD%29.png?55d5d) **浮流之羽**（屬性，前面已提過）：額外空中翻滾 + 擊暈敵人，也可用於跳躍時多一次位移，冷卻僅 3 秒。
+- ![加速之靴子](https://zh.minecraft.wiki/images/thumb/Boots_of_Swiftness_%28MCD%29.png/50px-Boots_of_Swiftness_%28MCD%29.png?05982) **加速之靴子（Boots of Swiftness）**（增益）：使用後獲得加速效果，提升移動速度，持續時間依等級而定（約 2.5～4.0 秒），冷卻僅 5 秒，CD 短、隨時可用，是最單純的跑速法器。
+- ![幽靈戰袍](https://zh.minecraft.wiki/images/thumb/Ghost_Cloak_%28MCD%29.png/50px-Ghost_Cloak_%28MCD%29.png?75ff8) **幽靈戰袍（Ghost Cloak）**（增益）：使用後進入「幽靈形態」，小幅提升移動速度，並可**直接穿越敵人**，同時獲得 50% 傷害減免，非常適合穿越大批敵人或逃脫包圍；但一旦攻擊或射擊會立即解除，冷卻 6 秒。
+- ![浮流之羽](https://zh.minecraft.wiki/images/thumb/Light_Feather_%28MCD%29.png/50px-Light_Feather_%28MCD%29.png?55d5d) **浮流之羽（Light Feather）**（屬性，前面已提過）：額外空中翻滾 + 擊暈敵人，也可用於跳躍時多一次位移，冷卻僅 3 秒。
 
-> 想要純粹跑酷貫穿人群：**幽靈戰袍**最強（能直接穿人）；想要單純提速、頻繁使用：**加速之靴子**冷卻最短。兩個法器機制不同，可依需求擇一或搭配隊友分工。
+> 想要純粹跑酷貫穿人群：**幽靈戰袍（Ghost Cloak）**最強（能直接穿人）；想要單純提速、頻繁使用：**加速之靴子（Boots of Swiftness）**冷卻最短。兩個法器機制不同，可依需求擇一或搭配隊友分工。
 
 ---
 
