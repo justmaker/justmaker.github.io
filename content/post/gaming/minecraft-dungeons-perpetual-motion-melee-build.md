@@ -2,7 +2,7 @@
 title: "Minecraft Dungeons 高打擊感速攻流：完整裝備、附魔與法器配置"
 description: "Minecraft Dungeons 快節奏近戰 Build，以鬥士護手、背叛者盔甲與內爆弩搭配毒帽菇、鐵皮護身符、弱化之鑼，兼顧連打手感、範圍輸出與生存容錯。"
 date: 2026-09-06T01:40:00+08:00
-lastmod: 2026-09-07T23:31:00+08:00
+lastmod: 2026-09-10T22:05:00+08:00
 draft: false
 categories:
   - gaming
@@ -116,6 +116,64 @@ image: ""
 - **多人遊戲**：光輝能同時治療隊友，站位盡量不要離隊伍太遠。
 
 ## 裝備取得與延伸閱讀
+
+### 掉落地圖速查
+
+以下是關卡的隨機掉落池，**不是通關必掉**。進關前可在任務選擇畫面檢查該關的裝備圖示；鬥士護手、背叛者盔甲、內爆弩與凋零盔甲屬於獨特裝備，通常要反覆刷其基礎裝備所在的掉落池。
+
+#### 鬥士護手（Fighter's Bindings）
+
+- **本體**：潮濕洞穴（Soggy Cave，冒險）、仙人掌峽谷（Cacti Canyon，冒險）、高塔（Tower）
+- **DLC**：潮濕叢林（Dingy Jungle，冒險）、珊瑚高地（Coral Rise）、要塞（The Stronghold，啟示錄）
+
+#### 背叛者盔甲（Renegade Armor）
+
+- **本體**：災厄港口（Arch Haven）、烈焰鍛造廠（Fiery Forge）、仙人掌峽谷（Cacti Canyon）、高塔（Tower）
+- **每日試煉限定掉落池**：潮濕沼澤（Soggy Swamp）
+- **DLC**：蔓生神殿（Overgrown Temple，冒險）、末地荒野（End Wilds）
+
+#### 內爆弩（Imploding Crossbow）／爆炸弩（Exploding Crossbow）
+
+兩者使用相同的關卡掉落池；內爆弩是爆炸弩的獨特變體。
+
+- **本體**：烈焰鍛造廠（Fiery Forge，冒險）、地下大廳（Underhalls，冒險）、？？？／蘑菇島（???，冒險）、樹頂迷蹤（Treetop Tangle，冒險）、高塔（Tower）
+- **DLC**：潮濕叢林（Dingy Jungle，冒險）、巨型壁壘（Colossal Rampart）、破碎堡壘（Broken Citadel，冒險）
+
+#### 毒帽菇（Death Cap Mushroom）
+
+- **本體**：苦力怕森林（Creeper Woods）、高墩大廳（Highblock Halls）
+- **DLC**：狂風山峰（Windswept Peaks）、扭曲森林（Warped Forest）、末地荒野（End Wilds）
+
+#### 鐵皮護身符（Iron Hide Amulet）
+
+- **本體**：烈焰鍛造廠（Fiery Forge）、地下大廳（Underhalls）、地下神殿（Lower Temple）、樹頂迷蹤（Treetop Tangle）
+- **DLC**：潮濕叢林（Dingy Jungle）、珊瑚高地（Coral Rise）
+
+#### 弱化之鑼（Gong of Weakening）
+
+- **本體**：沙漠神殿（Desert Temple，啟示錄）
+- **DLC**：深淵紀念碑（Abyssal Monument，冒險）
+
+#### 凋零盔甲（Wither Armor，生存替代品）
+
+- **本體**：沙漠神殿（Desert Temple）、地下神殿（Lower Temple）、黑曜之巔（Obsidian Pinnacle）、高塔（Tower）
+- **每日試煉限定掉落池**：仙人掌峽谷（Cacti Canyon）
+- **DLC**：靈魂沙谷（Soul Sand Valley，啟示錄）、破碎堡壘（Broken Citadel）
+
+> 村莊商人、神秘商人、豪華商人等也可能販售上述裝備；高塔獎勵則會隨輪替變更。若目標是鍍金版本，應刷對應遠古生物或使用豬布林商人，而不是只刷普通關卡。
+
+### 資料來源
+
+- [Minecraft Wiki：Fighter's Bindings](https://minecraft.wiki/w/Dungeons:Fighter%27s_Bindings)
+- [Minecraft Wiki：Renegade Armor](https://minecraft.wiki/w/Dungeons:Renegade_Armor)
+- [Minecraft Wiki：Imploding Crossbow](https://minecraft.wiki/w/Dungeons:Imploding_Crossbow)
+- [Minecraft Wiki：Exploding Crossbow](https://minecraft.wiki/w/Dungeons:Exploding_Crossbow)
+- [Minecraft Wiki：Death Cap Mushroom](https://minecraft.wiki/w/Dungeons:Death_Cap_Mushroom)
+- [Minecraft Wiki：Iron Hide Amulet](https://minecraft.wiki/w/Dungeons:Iron_Hide_Amulet)
+- [Minecraft Wiki：Gong of Weakening](https://minecraft.wiki/w/Dungeons:Gong_of_Weakening)
+- [Minecraft Wiki：Wither Armor](https://minecraft.wiki/w/Dungeons:Wither_Armor)
+
+### 延伸閱讀
 
 - [武器與盔甲圖鑑](/post/gaming/minecraft-dungeons-equipment-catalog/)
 - [遠古狩獵：四套六格 Build 與精準獻祭組合](/post/gaming/minecraft-dungeons-ancient-hunt-strategy/)
