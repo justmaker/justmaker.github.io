@@ -100,6 +100,7 @@ series_order: 1
 - [技術缺陷追蹤：2026-08-12 比賽影片分析（1hyMsxU5Hug）](/post/table-tennis/technique-tracking-2026-08-12/)
 - [技術缺陷追蹤：2026-08-19 對打影片分析（3oETKVYjjP4）](/post/table-tennis/technique-tracking-2026-08-19/)
 - [技術缺陷追蹤：2026-08-26 對打影片分析（B626QT2fXv4）](/post/table-tennis/technique-tracking-2026-08-26/)
+- [技術缺陷追蹤：2026-09-09 對打剪輯分析（gFH1ymChvKg）](/post/table-tennis/technique-tracking-2026-09-09/)
 - [我為什麼快球處理不好：只會舒服身前擊球、非支點腳前跨與還原變慢的連鎖問題](/post/table-tennis/close-contact-ball-handling-and-recovery/)
 
 ---
@@ -123,6 +124,7 @@ series_order: 1
 | 2026-08-12 | [比賽影片分析（1hyMsxU5Hug，橘色衣服，AKE）](/post/table-tennis/technique-tracking-2026-08-12/) | F01, F03, M01, M02, FH01, BH01, BH02, T01 | 正手極度主導（FH:BH≈8.89:1），反手比例過低 | 🔴 正手有爆發力但結構失衡，反手極低頻是最大問題 |
 | 2026-08-19 | [對打影片分析（3oETKVYjjP4，橘色衣服，XVT）](/post/table-tennis/technique-tracking-2026-08-19/) | F01, F03, M02, FH01, BH01, BH02 | 密集重分析後仍為正手主導（FH:BH≈10.75:1），但站位/正手/腳步明顯進步 | 🟡 換 XVT 後 F01/FH01/M02 進步明確，但 BH 仍是主要待補短板 |
 | 2026-08-26 | [對打影片分析（B626QT2fXv4，橘色衣服）](/post/table-tennis/technique-tracking-2026-08-26/) | F01, F03, M01, M02, FH01, BH01, BH02 | 重驗後 FH:BH 拉近到 2.65:1，反手使用量明顯提升；低位、壓力球正手與大角度到位仍會波動 | 🟡 可驗證的結構進步，先前 4:1 內目標已達成（發球統計也已全部人工重驗） |
+| 2026-09-09 | [對打剪輯分析（gFH1ymChvKg，橘色衣服）](/post/table-tennis/technique-tracking-2026-09-09/) | F01, F03, M01, M02, FH01, BH01, BH02 | 低位維持、被拉動時腳手次序、壓力球正手動力鏈 | 🟡 回位意識與正常球框架仍在，但主鏈尚未根治；BH 線未見反覆惡化，T01 證據不足 |
 
 > 2026-08-10、2026-08-12、2026-08-19、2026-08-26 四篇已完成 v2 密集重分析定版，主角一律以 **橘色衣服選手** 辨識，即使影片中換邊也不改變身份追蹤。
 
