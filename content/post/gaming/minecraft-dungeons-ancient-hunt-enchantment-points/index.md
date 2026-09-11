@@ -11,6 +11,8 @@ tags:
   - 附魔點數
 ---
 
+> 🧭 [回到 Minecraft Dungeons KB 總索引](/post/gaming/minecraft-dungeons-knowledge-map/)
+
 ## 結論
 
 - 遠古狩獵每次最多可投入 **9 點附魔點數**。
@@ -41,4 +43,3 @@ tags:
 - [Minecraft Wiki：Ancient Hunt](https://minecraft.wiki/w/Dungeons:Ancient_Hunt)
 - [Minecraft Wiki：Enchantment Point](https://minecraft.wiki/w/Dungeons:Enchantment_point)
 - [Steam 社群：Level downgrade?](https://steamcommunity.com/app/1672970/discussions/0/3942398662641035874/)
-

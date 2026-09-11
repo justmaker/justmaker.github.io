@@ -15,6 +15,8 @@ tags:
 image: ""
 ---
 
+> 🧭 [回到 Minecraft Dungeons KB 總索引](/post/gaming/minecraft-dungeons-knowledge-map/)
+
 這套 Build 追求連續命中、衝擊波與範圍傷害帶來的密集打擊感，同時保留治療、減傷與緊急保命能力。核心是用 **鬥士護手的高攻速** 頻繁觸發光輝，再以毒帽菇、背叛者盔甲與冷卻附魔維持高速戰鬥循環。
 
 ## 完整六格配置

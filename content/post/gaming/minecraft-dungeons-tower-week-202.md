@@ -2,8 +2,12 @@
 title: "Minecraft Dungeons：9/6 週高塔攻略（第 202 輪，啟示錄／冒險難易度）"
 date: 2026-09-06T21:30:00+08:00
 draft: false
+categories:
+  - gaming
 tags: ["Minecraft Dungeons", "高塔", "Tower", "攻略"]
 ---
+
+> 🧭 [回到 Minecraft Dungeons KB 總索引](/post/gaming/minecraft-dungeons-knowledge-map/)
 
 高塔（Tower）每週二會更新重置，本篇記錄的是 **9/6 週（第 202 輪）** 啟示錄（Apocalypse）與冒險（Adventure）難易度的實際獎勵清單，僅對應這一次的輪替內容，9/13 週會另開新文章更新。
 

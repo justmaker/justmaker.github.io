@@ -15,6 +15,8 @@ tags:
 image: ""
 ---
 
+> 🧭 [回到 Minecraft Dungeons KB 總索引](/post/gaming/minecraft-dungeons-knowledge-map/)
+
 在《Minecraft Dungeons》的遠古狩獵（Ancient Hunt）中，會出現哪些遠古生物，取決於獻祭裝備提供的 **符文組合（Runes）**。投入裝備後還能額外投入附魔點數，提高遠古生物房間的出現機率。
 
 以下整理四種主流核心裝備、每套流派的完整六格配置、對應掉落的遠古生物，以及能湊齊需求符文的簡易或標準獻祭組合。

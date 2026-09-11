@@ -14,6 +14,8 @@ tags:
 image: ""
 ---
 
+> 🧭 [回到 Minecraft Dungeons KB 總索引](/post/gaming/minecraft-dungeons-knowledge-map/)
+
 遠古狩獵（Ancient Hunt）中的小怪強度會隨啟示錄+（Apocalypse+）難度大幅提升。如果清理一般小怪已經很吃力，進入帶有整群附魔小怪的遠古生物房間後，很容易瞬間滅團。
 
 以下整理降低難度、生存配裝、法器控場與遠程打法，協助玩家穩定完成遠古狩獵。

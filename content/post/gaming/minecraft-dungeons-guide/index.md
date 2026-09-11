@@ -13,6 +13,8 @@ tags:
 image: ""
 ---
 
+> 🧭 [回到 Minecraft Dungeons KB 總索引](/post/gaming/minecraft-dungeons-knowledge-map/)
+
 > 本文物品、地點、附魔名稱均對照 Switch 版官方繁體中文（臺灣正體）翻譯，來源為中文 Minecraft Wiki（zh.minecraft.wiki，字詞轉換：臺灣正體）。
 
 ## 遊戲概覽

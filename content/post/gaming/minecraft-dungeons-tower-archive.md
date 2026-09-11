@@ -2,8 +2,12 @@
 title: "Minecraft Dungeons：高塔攻略總覽（每週更新紀錄）"
 date: 2026-09-06T21:40:00+08:00
 draft: false
+categories:
+  - gaming
 tags: ["Minecraft Dungeons", "高塔", "Tower", "攻略"]
 ---
+
+> 🧭 [回到 Minecraft Dungeons KB 總索引](/post/gaming/minecraft-dungeons-knowledge-map/)
 
 高塔（Tower）每週二會更新重置，本頁彙整**每週高塔攻略文章**的連結，方便查找歷史紀錄。每篇文章記載該週的實際獎勵清單（含影片來源），並回連主攻略文章。
 

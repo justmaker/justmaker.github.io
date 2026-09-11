@@ -1,6 +1,6 @@
 ---
-title: "Minecraft Dungeons 封頂之路：高塔與古代狩獵怎麼選"
-description: "Minecraft Dungeons 後期封頂攻略，比較高塔、古代狩獵、啟示錄+ 普通任務、豬靈商人與鐵匠的用途，規劃高戰力鍍金裝備與完整附魔 Build。"
+title: "Minecraft Dungeons 封頂之路：高塔與遠古狩獵怎麼選"
+description: "Minecraft Dungeons 後期封頂攻略，比較高塔、遠古狩獵、啟示錄+ 普通任務、豬靈商人與鐵匠的用途，規劃高戰力鍍金裝備與完整附魔 Build。"
 date: 2026-09-07T17:30:00+08:00
 draft: false
 categories:
@@ -13,6 +13,8 @@ tags:
   - 遠古狩獵
 image: ""
 ---
+
+> 🧭 [回到 Minecraft Dungeons KB 總索引](/post/gaming/minecraft-dungeons-knowledge-map/)
 
 《Minecraft Dungeons》進入後期後，目標會從單純提高力量等級，轉為取得適合主力 Build 的裝備、鍍金附魔與完整附魔組合。主要路線可分為 **高塔快速提升裝備力量** 與 **遠古狩獵定向農取鍍金裝備**。
 

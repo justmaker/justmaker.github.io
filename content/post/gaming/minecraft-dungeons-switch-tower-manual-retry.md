@@ -2,8 +2,12 @@
 title: "Minecraft Dungeons：Switch 關閉雲端自動上傳，手動存讀檔無限重試高塔"
 date: 2026-09-07T12:20:00+08:00
 draft: false
+categories:
+  - gaming
 tags: ["Minecraft Dungeons", "Switch", "存檔", "高塔", "Tower", "雲端備份"]
 ---
+
+> 🧭 [回到 Minecraft Dungeons KB 總索引](/post/gaming/minecraft-dungeons-knowledge-map/)
 
 高塔（Tower）挑戰性高，失敗就會重置進度。透過關閉 Nintendo Switch 的雲端**自動**備份，改用**手動**上傳/下載存檔，就能無限次重試高塔，直到滿意為止。
 

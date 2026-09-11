@@ -12,6 +12,8 @@ tags:
 image: ""
 ---
 
+> 🧭 [回到 Minecraft Dungeons KB 總索引](/post/gaming/minecraft-dungeons-knowledge-map/)
+
 > 本文為 [Minecraft Dungeons 完整攻略](/post/gaming/minecraft-dungeons-complete-guide/) 的裝備圖鑑附錄，收錄近戰武器、遠程武器（弓／弩）、盔甲的所有**基礎類型**（不含變體/傳奇版本），並附上官方圖示，方便快速辨認外觀。物品名稱對照 Switch 版官方繁體中文（臺灣正體）翻譯，資料來源為中文 Minecraft Wiki（zh.minecraft.wiki，字詞轉換：臺灣正體）。
 
 ## 目次

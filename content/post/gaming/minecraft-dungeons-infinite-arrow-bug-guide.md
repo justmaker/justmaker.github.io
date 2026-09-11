@@ -4,7 +4,7 @@ date: 2026-09-08T22:07:31+08:00
 lastmod: 2026-09-09T14:30:00+08:00
 draft: false
 categories:
-  - Gaming
+  - gaming
 tags:
   - Minecraft Dungeons
   - Bug
@@ -12,6 +12,8 @@ tags:
   - Arrow Duplication
   - Farming Guide
 ---
+
+> 🧭 [回到 Minecraft Dungeons KB 總索引](/post/gaming/minecraft-dungeons-knowledge-map/)
 
 這裡有兩種做法：
 
