@@ -24,6 +24,10 @@ image: ""
 
 完整攻略涵蓋 Switch 基本操作、難度、戰力成長、主線與隱藏關卡、附魔、Boss、DLC、遠古狩獵及高塔機制。第一次遊玩或想查完整流程時，從這篇開始。
 
+### Boss 攻略
+
+- [全 Boss 攻略：本篇、DLC 與迷你 Boss 打法](/post/gaming/minecraft-dungeons-boss-guide/)：20 種正式及迷你 Boss 的招式判讀、核心打法、配裝、多人注意事項與 30 秒速查。
+
 ## 裝備與 Build
 
 - [武器與盔甲圖鑑：近戰、遠程、盔甲全類型一覽](/post/gaming/minecraft-dungeons-equipment-catalog/)：依外觀與基礎數值查找裝備類型。
@@ -62,6 +66,7 @@ image: ""
 ## 依目前情境快速選文章
 
 - **剛開始玩、不知道下一關去哪**：看[完整攻略](/post/gaming/minecraft-dungeons-complete-guide/)。
+- **卡在關底或迷你 Boss**：看[全 Boss 攻略](/post/gaming/minecraft-dungeons-boss-guide/)。
 - **想快速提高戰力或準備封頂**：看[封頂之路](/post/gaming/minecraft-dungeons-endgame-progression/)。
 - **想查裝備外觀或基本類型**：看[武器與盔甲圖鑑](/post/gaming/minecraft-dungeons-equipment-catalog/)。
 - **想直接抄一套近戰 Build**：看[高打擊感速攻流](/post/gaming/minecraft-dungeons-perpetual-motion-melee-build/)。

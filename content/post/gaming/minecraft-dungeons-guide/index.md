@@ -92,6 +92,8 @@ Minecraft Dungeons 是一款基於 Minecraft 世界觀的合作動作 RPG。玩�
 
 ## 主線關卡流程
 
+> 魔王招式、配裝與單人／多人詳細打法，請見：[Minecraft Dungeons 全 Boss 攻略](/post/gaming/minecraft-dungeons-boss-guide/)。
+
 ### 1. 魷魚海岸 — 教學關（❌ 無大魔王）
 - 學會移動、攻擊、射箭、翻滾，撿取法器裝備
 - 完成後進入**營地**
