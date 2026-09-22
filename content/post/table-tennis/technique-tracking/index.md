@@ -102,6 +102,7 @@ series_order: 1
 - [技術缺陷追蹤：2026-08-26 對打影片分析（B626QT2fXv4）](/post/table-tennis/technique-tracking-2026-08-26/)
 - [技術缺陷追蹤：2026-09-09 對打剪輯分析（gFH1ymChvKg）](/post/table-tennis/technique-tracking-2026-09-09/)
 - [技術缺陷追蹤：2026-09-17 對打影片分析（ZCu0h-R4Ybw / wVJMcjPyl1I）](/post/table-tennis/technique-tracking-2026-09-17/)
+- [技術缺陷追蹤：2026-09-20 對打影片分析（0EqMCmpuyzM）](/post/table-tennis/technique-tracking-2026-09-20/)
 - [我為什麼快球處理不好：只會舒服身前擊球、非支點腳前跨與還原變慢的連鎖問題](/post/table-tennis/close-contact-ball-handling-and-recovery/)
 
 ---
@@ -127,6 +128,7 @@ series_order: 1
 | 2026-08-26 | [對打影片分析（B626QT2fXv4，橘色衣服）](/post/table-tennis/technique-tracking-2026-08-26/) | F01, F03, M01, M02, FH01, BH01, BH02 | 重驗後 FH:BH 拉近到 2.65:1，反手使用量明顯提升；低位、壓力球正手與大角度到位仍會波動 | 🟡 可驗證的結構進步，先前 4:1 內目標已達成（發球統計也已全部人工重驗） |
 | 2026-09-09 | [對打剪輯分析（gFH1ymChvKg，橘色衣服）](/post/table-tennis/technique-tracking-2026-09-09/) | F01, F03, M01, M02, FH01, BH01, BH02 | 低位維持、被拉動時腳手次序、壓力球正手動力鏈 | 🟡 回位意識與正常球框架仍在，但主鏈尚未根治；BH 線未見反覆惡化，T01 證據不足 |
 | 2026-09-17 | [兩段對打記錄分析（ZCu0h-R4Ybw / wVJMcjPyl1I，橘色衣服）](/post/table-tennis/technique-tracking-2026-09-17/) | F01, F03, M01, M02, M03, FH01 | 低位耐久、腳先到位、壓力球正手與第二拍承接 | 🟡 局部能力仍在，但相較 9/9 核心主鏈無足夠證據證明已改變；BH 與 T01 證據不足 |
+| 2026-09-20 | [五板以上對打剪輯分析（0EqMCmpuyzM，深藍上衣）](/post/table-tennis/technique-tracking-2026-09-20/) | F01, F03, M01, M02, M03, FH01 | 多板控制能維持，但低位、腳先到位、壓力球正手與第二拍承接仍是主鏈 | 🟡 相較 9/17，多板控制有正面證據；核心缺陷仍可重現，尚無足夠改善證據 |
 
 > 2026-08-10、2026-08-12、2026-08-19、2026-08-26 四篇已完成 v2 密集重分析定版，主角一律以 **橘色衣服選手** 辨識，即使影片中換邊也不改變身份追蹤。
 
