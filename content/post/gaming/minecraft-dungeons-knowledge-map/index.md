@@ -31,7 +31,7 @@ image: ""
 ## 裝備與 Build
 
 - [裝備圖鑑：近戰、遠程、盔甲與法器全類型一覽](/post/gaming/minecraft-dungeons-equipment-catalog/)：依外觀、基礎數值與效果查找裝備及 45 種法器。
-- [連發火箭吸血速攻流：豎琴弩、凋零盔甲與鬥士護手](/post/gaming/minecraft-dungeons-firework-lifesteal-speed-build/)：以煙火連發、近遠程吸血與高速拳擊為優先，含鍍金附魔、掉落地圖、遠古生物與錯誤資料核實。
+- [連發火箭雙流派：吸血速攻與火箭光束華麗流](/post/gaming/minecraft-dungeons-firework-lifesteal-speed-build/)：共用豎琴弩煙火核心，並列近遠程吸血高速拳擊與長距離多特效兩種畢業配置。
 - [高打擊感速攻流：完整裝備、附魔與法器配置](/post/gaming/minecraft-dungeons-perpetual-motion-melee-build/)：鬥士護手、背叛者盔甲與內爆弩的完整六格配置及掉落地圖。
 
 ## 後期成長與封頂
@@ -70,7 +70,7 @@ image: ""
 - **卡在關底或迷你 Boss**：看[全 Boss 攻略](/post/gaming/minecraft-dungeons-boss-guide/)。
 - **想快速提高戰力或準備封頂**：看[封頂之路](/post/gaming/minecraft-dungeons-endgame-progression/)。
 - **想查裝備外觀、基本類型或法器效果**：看[裝備與法器圖鑑](/post/gaming/minecraft-dungeons-equipment-catalog/)。
-- **想玩連發煙火、近遠程吸血與高速近戰**：看[連發火箭吸血速攻流](/post/gaming/minecraft-dungeons-firework-lifesteal-speed-build/)。
+- **想玩連發煙火、吸血速攻或遠距離華麗特效**：看[連發火箭雙流派](/post/gaming/minecraft-dungeons-firework-lifesteal-speed-build/)。
 - **想直接抄一套近戰 Build**：看[高打擊感速攻流](/post/gaming/minecraft-dungeons-perpetual-motion-melee-build/)。
 - **想刷指定鍍金裝備**：看[遠古狩獵精準獻祭組合](/post/gaming/minecraft-dungeons-ancient-hunt-strategy/)。
 - **遠古狩獵一直死亡**：看[生存配裝與遠程打法](/post/gaming/minecraft-dungeons-ancient-hunt-survival/)。
