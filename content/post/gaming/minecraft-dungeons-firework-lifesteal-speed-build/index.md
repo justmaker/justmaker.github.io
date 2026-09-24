@@ -2,7 +2,7 @@
 title: "Minecraft Dungeons 連發火箭雙流派：吸血速攻與火箭光束華麗流終極配置"
 description: "以豎琴弩連發煙火為共用核心，整理凋零盔甲吸血速攻流與喚魔長袍火箭光束華麗流的畢業附魔、法器、掉落地圖、遠古狩獵符文及錯誤核實。"
 date: 2026-09-24T11:21:00+08:00
-lastmod: 2026-09-24T11:59:00+08:00
+lastmod: 2026-09-24T20:44:00+08:00
 draft: false
 categories:
   - gaming
@@ -255,6 +255,28 @@ image: ""
 ## 鍍金版本：正確遠古生物與符文
 
 遠古狩獵的符文是「讓指定遠古生物有機會生成」的最低組合，並不保證每次地圖都出現；投入附魔點數可提高遠古生物房間的生成機率。
+
+### 符文圖示與字母代碼對照
+
+獻祭裝備右下角顯示的圖案屬於 Minecraft Dungeons 的 **Illageralt 符文**。本文使用 A、C、I 等字母，是為了把遊戲畫面中的符文轉寫成容易輸入與比對的代碼；它們沒有「Ark、Creator、Illusion」這類官方符文名稱。
+
+| 遊戲圖示 | 本文代碼 | 遊戲圖示 | 本文代碼 | 遊戲圖示 | 本文代碼 |
+|---|---:|---|---:|---|---:|
+| <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_A.png" width="40" height="40" style="image-rendering:pixelated" alt="Rune A"> | **A** | <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_C.png" width="40" height="40" style="image-rendering:pixelated" alt="Rune C"> | **C** | <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_I.png" width="40" height="40" style="image-rendering:pixelated" alt="Rune I"> | **I** |
+| <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_O.png" width="40" height="40" style="image-rendering:pixelated" alt="Rune O"> | **O** | <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_P.png" width="40" height="40" style="image-rendering:pixelated" alt="Rune P"> | **P** | <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_R.png" width="40" height="40" style="image-rendering:pixelated" alt="Rune R"> | **R** |
+| <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_Rune_S.png" width="40" height="40" style="image-rendering:pixelated" alt="Rune S"> | **S** | <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_Rune_T.png" width="40" height="40" style="image-rendering:pixelated" alt="Rune T"> | **T** | <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_Rune_U.png" width="40" height="40" style="image-rendering:pixelated" alt="Rune U"> | **U** |
+
+完整遠古獻祭符文只有上表九種。圖片與字母轉寫可由 [Minecraft Wiki：Illageralt／Ancient Offerings](https://minecraft.wiki/w/Dungeons:Illageralt#Ancient_Offerings) 核實；獻祭規則則見 [Minecraft Wiki：Ancient Offering](https://minecraft.wiki/w/Dungeons:Ancient_Offering)。
+
+本文出現的組合可直接這樣讀：
+
+- **IIA**：<img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_I.png" width="28" height="28" style="image-rendering:pixelated;vertical-align:middle" alt="Rune I"> ＋ <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_I.png" width="28" height="28" style="image-rendering:pixelated;vertical-align:middle" alt="Rune I"> ＋ <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_A.png" width="28" height="28" style="image-rendering:pixelated;vertical-align:middle" alt="Rune A">，召喚目標為 Grim Guardian。
+- **CRI**：<img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_C.png" width="28" height="28" style="image-rendering:pixelated;vertical-align:middle" alt="Rune C"> ＋ <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_R.png" width="28" height="28" style="image-rendering:pixelated;vertical-align:middle" alt="Rune R"> ＋ <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_I.png" width="28" height="28" style="image-rendering:pixelated;vertical-align:middle" alt="Rune I">，召喚目標為 Pestilent Conjurer。
+- **CIPA**：<img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_C.png" width="28" height="28" style="image-rendering:pixelated;vertical-align:middle" alt="Rune C"> ＋ <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_I.png" width="28" height="28" style="image-rendering:pixelated;vertical-align:middle" alt="Rune I"> ＋ <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_P.png" width="28" height="28" style="image-rendering:pixelated;vertical-align:middle" alt="Rune P"> ＋ <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_A.png" width="28" height="28" style="image-rendering:pixelated;vertical-align:middle" alt="Rune A">，召喚目標為 ?????（遠古蘑菇牛）。
+- **OO**：<img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_O.png" width="28" height="28" style="image-rendering:pixelated;vertical-align:middle" alt="Rune O"> ＋ <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_O.png" width="28" height="28" style="image-rendering:pixelated;vertical-align:middle" alt="Rune O">，召喚目標為 The Seeking Flame。
+- **STA**：<img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_Rune_S.png" width="28" height="28" style="image-rendering:pixelated;vertical-align:middle" alt="Rune S"> ＋ <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_Rune_T.png" width="28" height="28" style="image-rendering:pixelated;vertical-align:middle" alt="Rune T"> ＋ <img src="https://minecraft.wiki/images/DungeonsMiscellaneousSprite_A.png" width="28" height="28" style="image-rendering:pixelated;vertical-align:middle" alt="Rune A">，召喚目標為 Abominable Weaver。
+
+開始遠古狩獵時，不需要在單件裝備上湊齊整組符文；可在「一件近戰＋一件遠程＋一件盔甲＋一件法器」的獻祭上限內，把多件裝備提供的符文加總湊齊。例如 OO 可以由兩件各帶一個 O 的裝備組成。
 
 ### 凋零盔甲
 
