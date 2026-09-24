@@ -1,6 +1,6 @@
 ---
-title: "Minecraft Dungeons 武器與盔甲圖鑑：近戰、遠程、盔甲全類型一覽"
-description: "Minecraft Dungeons 近戰武器、遠程武器（弓／弩）、盔甲全部基礎類型圖鑑，附官方圖示、力量／速度／攻擊範圍數值與屬性說明（依 Switch 官方繁體中文譯名）"
+title: "Minecraft Dungeons 裝備圖鑑：近戰、遠程、盔甲與法器全類型一覽"
+description: "Minecraft Dungeons 近戰武器、遠程武器（弓／弩）、盔甲與法器完整圖鑑，整理力量／速度／攻擊範圍、固定屬性及 45 種法器效果（依 Switch 官方繁體中文譯名）"
 date: 2026-08-31
 slug: minecraft-dungeons-equipment-catalog
 categories:
@@ -14,13 +14,19 @@ image: ""
 
 > 🧭 [回到 Minecraft Dungeons KB 總索引](/post/gaming/minecraft-dungeons-knowledge-map/)
 
-> 本文為 [Minecraft Dungeons 完整攻略](/post/gaming/minecraft-dungeons-complete-guide/) 的裝備圖鑑附錄，收錄近戰武器、遠程武器（弓／弩）、盔甲的所有**基礎類型**（不含變體/傳奇版本），並附上官方圖示，方便快速辨認外觀。物品名稱對照 Switch 版官方繁體中文（臺灣正體）翻譯，資料來源為中文 Minecraft Wiki（zh.minecraft.wiki，字詞轉換：臺灣正體）。
+> 本文為 [Minecraft Dungeons 完整攻略](/post/gaming/minecraft-dungeons-complete-guide/) 的裝備圖鑑附錄，收錄近戰武器、遠程武器（弓／弩）、盔甲的所有**基礎類型**（不含變體／獨特版本），以及全部 45 種可取得法器（玩家也常稱「神器」）與效果。物品名稱對照 Switch 版官方繁體中文（臺灣正體）翻譯，資料來源為中文 Minecraft Wiki。
 
 ## 目次
 - [近戰武器](#近戰武器)
 - [遠程武器 — 弓](#遠程武器--弓)
 - [遠程武器 — 弩](#遠程武器--弩)
 - [盔甲](#盔甲)
+- [法器（神器）](#法器神器)
+  - [傷害法器](#傷害法器)
+  - [屬性與控場法器](#屬性與控場法器)
+  - [特殊箭矢法器](#特殊箭矢法器)
+  - [召喚法器](#召喚法器)
+  - [增益與支援法器](#增益與支援法器)
 
 ## 近戰武器
 
@@ -115,6 +121,84 @@ image: ""
 | ![界伏蚌盔甲](https://zh.minecraft.wiki/images/thumb/Shulker_Armor_%28MCD%29.png/80px-Shulker_Armor_%28MCD%29.png?efb2e) | **界伏蚌盔甲** | 吸引生物仇恨， 偏轉敵人投射物， 被包圍時降低所受傷害 |
 | ![傳送長袍](https://zh.minecraft.wiki/images/thumb/Teleportation_Robes_%28MCD%29.png/80px-Teleportation_Robes_%28MCD%29.png?a8985) | **傳送長袍** | 翻滾時傳送， +50% 靈魂收集 |
 
-> 資料來源：[中文 Minecraft Wiki - Dungeons:近戰武器](https://zh.minecraft.wiki/w/Dungeons:%E8%BF%91%E6%88%B0%E6%AD%A6%E5%99%A8?variant=zh-tw)、[Dungeons:遠程武器](https://zh.minecraft.wiki/w/Dungeons:%E9%81%A0%E7%A8%8B%E6%AD%A6%E5%99%A8?variant=zh-tw)、[Dungeons:盔甲](https://zh.minecraft.wiki/w/Dungeons:%E7%9B%94%E7%94%B2?variant=zh-tw)
+## 法器（神器）
+
+法器是裝在三個法器欄位、按鍵主動施放的物品；效果可分為直接傷害、控場、特殊箭矢、召喚與增益支援。表中的「需靈魂」表示使用時會消耗靈魂；DLC 欄為首次可取得該法器的內容包。法器的傷害、治療量、召喚物能力或持續時間可能隨力量等級改變，所以下表著重描述不隨數值變動的核心機制。
+
+### 傷害法器
+
+| 圖示 | 名稱 | 效果 | 取得條件 |
+|---|---|---|---|
+| ![腐化信標](https://zh.minecraft.wiki/w/Special:Redirect/file/Corrupted_Beacon_%28MCD%29.png?width=50) | **腐化信標** | 消耗靈魂持續射出高傷害光束；停止施放或靈魂耗盡時結束。自帶 +1 靈魂收集。 | 本體 |
+| ![收割者](https://zh.minecraft.wiki/w/Special:Redirect/file/Harvester_%28MCD%29.png?width=50) | **收割者** | 消耗靈魂，在自身周圍引爆靈魂能量並造成範圍傷害。自帶 +1 靈魂收集。 | 本體 |
+| ![雷霆法杖](https://zh.minecraft.wiki/w/Special:Redirect/file/Lightning_Rod_%28MCD%29.png?width=50) | **雷霆法杖** | 消耗靈魂，召喚雷擊轟擊指定位置。自帶 +1 靈魂收集。 | 本體 |
+| ![撒布地雷](https://zh.minecraft.wiki/w/Special:Redirect/file/Scatter_Mines_%28MCD%29.png?width=50) | **撒布地雷** | 在玩家周圍撒出三枚地雷；敵人接近時爆炸。 | 嚎風山巔 DLC |
+| ![鼓風之典](https://zh.minecraft.wiki/w/Special:Redirect/file/Updraft_Tome_%28MCD%29.png?width=50) | **鼓風之典** | 產生上升氣流，把附近敵人拋上空中並造成傷害與短暫控場。 | 嚎風山巔 DLC |
+| ![爆破菌](https://zh.minecraft.wiki/w/Special:Redirect/file/Blast_Fungus_%28MCD%29.png?width=50) | **爆破菌** | 放出數個向不同方向滾動的爆破菌，隨後爆炸造成傷害。 | 下界之焰 DLC |
+| ![回旋之刃](https://zh.minecraft.wiki/w/Special:Redirect/file/Spinblade_%28MCD%29.png?width=50) | **回旋之刃** | 射出會飛向敵人、再折返玩家身邊的刀刃，來回皆可造成傷害。 | 下界之焰 DLC |
+| ![守衛者之眼](https://zh.minecraft.wiki/w/Special:Redirect/file/Eye_of_the_Guardian_%28MCD%29.png?width=50) | **守衛者之眼** | 原地持續發射可轉向的能量光束，對路徑上的敵人造成傷害。 | 隱秘深淵 DLC |
+| ![腐化南瓜](https://zh.minecraft.wiki/w/Special:Redirect/file/Corrupted_Pumpkin_%28MCD%29.png?width=50) | **腐化南瓜** | 腐化信標的萬聖節外觀版本；同樣消耗靈魂發射持續光束。自帶 +1 靈魂收集。 | 驚悚深秋季節活動限定 |
+
+### 屬性與控場法器
+
+| 圖示 | 名稱 | 效果 | 取得條件 |
+|---|---|---|---|
+| ![釣魚竿](https://zh.minecraft.wiki/w/Special:Redirect/file/Fishing_Rod_%28MCD%29.png?width=50) | **釣魚竿** | 把範圍內最近的敵人拉到面前，並使其短暫暈眩。 | 本體 |
+| ![弱化之鑼](https://zh.minecraft.wiki/w/Special:Redirect/file/Gong_of_Weakening_%28MCD%29.png?width=50) | **弱化之鑼** | 弱化附近敵人，使其造成的傷害降低、受到的傷害提高。 | 本體 |
+| ![浮流之羽](https://zh.minecraft.wiki/w/Special:Redirect/file/Light_Feather_%28MCD%29.png?width=50) | **浮流之羽** | 向移動方向翻滾，擊退並暈眩沿途敵人；這次動作會觸發翻滾相關附魔。 | 本體 |
+| ![迷情掛墜](https://zh.minecraft.wiki/w/Special:Redirect/file/Love_Medallion_%28MCD%29.png?width=50) | **迷情掛墜** | 暫時魅惑最多三名敵人，使其替玩家作戰；效果結束後目標消失。 | 本體 |
+| ![休克粉末](https://zh.minecraft.wiki/w/Special:Redirect/file/Shock_Powder_%28MCD%29.png?width=50) | **休克粉末** | 暈眩玩家周圍的敵人。 | 本體 |
+| ![風之號角](https://zh.minecraft.wiki/w/Special:Redirect/file/Wind_Horn_%28MCD%29.png?width=50) | **風之號角** | 擊退周圍敵人並使其短暫減速。 | 本體 |
+| ![腐化種子](https://zh.minecraft.wiki/w/Special:Redirect/file/Corrupted_Seeds_%28MCD%29.png?width=50) | **腐化種子** | 用藤蔓束縛最多八名敵人，並施加持續毒傷。 | 覺醒叢林 DLC |
+| ![寒冰魔杖](https://zh.minecraft.wiki/w/Special:Redirect/file/Ice_Wand_%28MCD%29.png?width=50) | **寒冰魔杖** | 在目標上方生成冰塊，落下後造成傷害並暈眩敵人。 | 悚伏寒冬 DLC |
+| ![元素背袋](https://zh.minecraft.wiki/w/Special:Redirect/file/Satchel_of_Elements_%28MCD%29.png?width=50) | **元素背袋** | 隨機以雷擊、冰凍或燃燒效果攻擊附近最多七名敵人。 | 嚎風山巔 DLC |
+
+### 特殊箭矢法器
+
+使用後會把一定數量的特殊箭矢放入箭袋，遠程攻擊時優先消耗。特殊箭矢不吃「+50% 法器傷害」，但可受遠程傷害與武器傷害光環加成。
+
+| 圖示 | 名稱 | 效果 | 取得條件 |
+|---|---|---|---|
+| ![煙火之箭](https://zh.minecraft.wiki/w/Special:Redirect/file/Fireworks_Arrow_%28MCD%29.png?width=50) | **煙火之箭** | 下一發遠程射擊變成命中後大範圍爆炸的煙火箭。 | 本體 |
+| ![燃燒箭袋](https://zh.minecraft.wiki/w/Special:Redirect/file/Flaming_Quiver_%28MCD%29.png?width=50) | **燃燒箭袋** | 補充會使命中目標燃燒的箭矢。 | 本體 |
+| ![苦痛箭袋](https://zh.minecraft.wiki/w/Special:Redirect/file/Torment_Quiver_%28MCD%29.png?width=50) | **苦痛箭袋** | 消耗靈魂，補充可穿牆、穿透並強力擊退敵人的慢速箭矢。自帶 +1 靈魂收集。 | 本體 |
+| ![雷霆箭袋](https://zh.minecraft.wiki/w/Special:Redirect/file/Thundering_Quiver_%28MCD%29.png?width=50) | **雷霆箭袋** | 補充命中時觸發連鎖雷電的箭矢。 | 下界之焰 DLC |
+| ![漁叉箭袋](https://zh.minecraft.wiki/w/Special:Redirect/file/Harpoon_Quiver_%28MCD%29.png?width=50) | **漁叉箭袋** | 補充可穿透敵人的漁叉；在水下仍能正常飛行。 | 隱秘深淵 DLC |
+| ![虛空箭袋](https://zh.minecraft.wiki/w/Special:Redirect/file/Void_Quiver_%28MCD%29.png?width=50) | **虛空箭袋** | 補充會施加虛空強襲、讓後續傷害逐步放大的箭矢。 | 虛空回響 DLC |
+
+### 召喚法器
+
+| 圖示 | 名稱 | 效果 | 取得條件 |
+|---|---|---|---|
+| ![嗡嗡蜂巢](https://zh.minecraft.wiki/w/Special:Redirect/file/Buzzy_Nest_%28MCD%29.png?width=50) | **嗡嗡蜂巢** | 放置蜂巢並持續召喚蜜蜂協助作戰。 | 本體 |
+| ![附魔草](https://zh.minecraft.wiki/w/Special:Redirect/file/Enchanted_Grass_%28MCD%29.png?width=50) | **附魔草** | 隨機召喚一隻帶有不同能力的附魔羊協助作戰。 | 本體（季節性試煉加入） |
+| ![傀儡用具](https://zh.minecraft.wiki/w/Special:Redirect/file/Golem_Kit_%28MCD%29.png?width=50) | **傀儡用具** | 召喚一隻鐵傀儡持續協助作戰。 | 本體 |
+| ![靈魂燈籠](https://zh.minecraft.wiki/w/Special:Redirect/file/Soul_Lantern_%28MCD%29.png?width=50) | **靈魂燈籠** | 消耗靈魂，暫時召喚靈魂巫師協助作戰。自帶 +1 靈魂收集。 | 本體 |
+| ![美味骨肉](https://zh.minecraft.wiki/w/Special:Redirect/file/Tasty_Bone_%28MCD%29.png?width=50) | **美味骨肉** | 召喚一隻狼持續協助作戰。 | 本體 |
+| ![優質小麥](https://zh.minecraft.wiki/w/Special:Redirect/file/Wonderful_Wheat_%28MCD%29.png?width=50) | **優質小麥** | 召喚一隻羊駝持續協助作戰。 | 本體 |
+| ![惱鬼奏章](https://zh.minecraft.wiki/w/Special:Redirect/file/Vexing_Chant_%28MCD%29.png?width=50) | **惱鬼奏章** | 暫時召喚三隻惱鬼守衛協助作戰。 | 虛空回響 DLC |
+
+### 增益與支援法器
+
+| 圖示 | 名稱 | 效果 | 取得條件 |
+|---|---|---|---|
+| ![迅捷之靴](https://zh.minecraft.wiki/w/Special:Redirect/file/Boots_of_Swiftness_%28MCD%29.png?width=50) | **迅捷之靴** | 短時間提高移動速度。 | 本體 |
+| ![毒帽菇](https://zh.minecraft.wiki/w/Special:Redirect/file/Death_Cap_Mushroom_%28MCD%29.png?width=50) | **毒帽菇** | 短時間大幅提高攻擊速度，並提高移動速度。 | 本體 |
+| ![幽靈戰袍](https://zh.minecraft.wiki/w/Special:Redirect/file/Ghost_Cloak_%28MCD%29.png?width=50) | **幽靈戰袍** | 短暫進入幽靈形態，可穿過敵人並減少受到的傷害。 | 本體 |
+| ![鐵皮護身符](https://zh.minecraft.wiki/w/Special:Redirect/file/Iron_Hide_Amulet_%28Dungeons%29.png?width=50) | **鐵皮護身符** | 短時間大幅降低玩家與附近隊友受到的傷害。 | 本體 |
+| ![靈魂治療器](https://zh.minecraft.wiki/w/Special:Redirect/file/Soul_Healer_%28MCD%29.png?width=50) | **靈魂治療器** | 消耗靈魂，治療附近生命最低的盟友；也可能治療自己。自帶 +1 靈魂收集。 | 本體 |
+| ![再生圖騰](https://zh.minecraft.wiki/w/Special:Redirect/file/Totem_of_Regeneration_%28MCD%29.png?width=50) | **再生圖騰** | 放置治療光環，持續恢復範圍內玩家與盟友的生命。 | 本體 |
+| ![護盾圖騰](https://zh.minecraft.wiki/w/Special:Redirect/file/Totem_of_Shielding_%28MCD%29.png?width=50) | **護盾圖騰** | 放置可阻擋敵方投射物的防護罩。 | 本體 |
+| ![施法圖騰](https://zh.minecraft.wiki/w/Special:Redirect/file/Totem_of_Casting_%28MCD%29.png?width=50) | **施法圖騰** | 消耗靈魂，放置可縮短範圍內所有玩家法器冷卻的光環。自帶 +1 靈魂收集。 | 本體 |
+| ![附魔師之典](https://zh.minecraft.wiki/w/Special:Redirect/file/Enchanter%27s_Tome_%28MCD%29.png?width=50) | **附魔師之典** | 隨機強化最多兩名盟友，使其獲得快速、雙倍傷害或燃燒攻擊等效果。單人時需有召喚物。 | 嚎風山巔 DLC |
+| ![巨力沙錘](https://zh.minecraft.wiki/w/Special:Redirect/file/Powershaker_%28MCD%29.png?width=50) | **巨力沙錘** | 強化接下來數次近戰攻擊，使命中的敵人產生爆炸。 | 下界之焰 DLC |
+| ![藥水背袋](https://zh.minecraft.wiki/w/Special:Redirect/file/Satchel_of_Elixirs_%28MCD%29.png?width=50) | **藥水背袋** | 在地面生成兩瓶隨機藥水供玩家拾取。 | 隱秘深淵 DLC |
+| ![零食背袋](https://zh.minecraft.wiki/w/Special:Redirect/file/Satchel_of_Snacks_%28MCD%29.png?width=50) | **零食背袋** | 在地面生成一份隨機食物供玩家拾取。 | 隱秘深淵 DLC |
+| ![暗影裝置](https://zh.minecraft.wiki/w/Special:Redirect/file/Shadow_Shifter_%28MCD%29.png?width=50) | **暗影裝置** | 消耗靈魂使玩家進入暗影形態；攻擊後解除。自帶 +1 靈魂收集。 | 虛空回響 DLC |
+| ![複製之典](https://zh.minecraft.wiki/w/Special:Redirect/file/Tome_of_Duplication_%28MCD%29.png?width=50) | **複製之典** | 消耗靈魂，複製最近拾取的消耗品並掉在地上。自帶 +1 靈魂收集。 | 虛空回響 DLC |
+
+> **不可取得項目：** 遊戲資料中另有「衛魂圖騰（Totem of Soul Protection）」，但正式遊戲無法取得，因此未計入上述 45 種法器。
+
+> 資料來源：[中文 Minecraft Wiki - Dungeons:近戰武器](https://zh.minecraft.wiki/w/Dungeons:%E8%BF%91%E6%88%B0%E6%AD%A6%E5%99%A8?variant=zh-tw)、[Dungeons:遠程武器](https://zh.minecraft.wiki/w/Dungeons:%E9%81%A0%E7%A8%8B%E6%AD%A6%E5%99%A8?variant=zh-tw)、[Dungeons:盔甲](https://zh.minecraft.wiki/w/Dungeons:%E7%9B%94%E7%94%B2?variant=zh-tw)、[Dungeons:法器](https://zh.minecraft.wiki/w/Dungeons:%E6%B3%95%E5%99%A8?variant=zh-tw)
 
 返回：[Minecraft Dungeons 完整攻略](/post/gaming/minecraft-dungeons-complete-guide/)
