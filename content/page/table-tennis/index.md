@@ -54,14 +54,21 @@ menu:
 
 ---
 
-## 四、技術單點
+## 四、VR 桌球與數位訓練
 
-### 11. [反手挑打 / 擰拉筆記](/post/table-tennis/backhand-flick/)
+### 11. [台灣 VR 桌球建置指南：Meta Quest、Eleven Table Tennis、T3S 與採購清單](/post/table-tennis/vr-table-tennis-quest-eleven-t3s/)
+比較 Quest 3 / 3S、Eleven 與 T3S 的定位，並整理球拍轉接器、空間、網路、台灣採購連結與建議購買順序。
+
+---
+
+## 五、技術單點
+
+### 12. [反手挑打 / 擰拉筆記](/post/table-tennis/backhand-flick/)
 針對反手挑打與擰拉相關內容的整理。
 
 ---
 
-## 五、後續規劃
+## 六、後續規劃
 
 接下來如果持續整理，適合再往下長的主題有：
 
@@ -73,7 +80,7 @@ menu:
 
 ---
 
-## 六、閱讀順序建議
+## 七、閱讀順序建議
 
 如果第一次看這個專題，建議順序：
 
