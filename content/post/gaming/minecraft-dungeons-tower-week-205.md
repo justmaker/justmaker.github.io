@@ -22,18 +22,19 @@ tags: ["Minecraft Dungeons", "高塔", "Tower", "攻略", "釣魚竿"]
 
 ## 第一個頭目前能否取得釣魚竿
 
-**結論：影片未能證實第一個頭目前可以取得釣魚竿；嚴格判定為「證據不足」，而不是「不可以」。**
+**結論：不可以。影片完整展示啟示錄難易度在第一個頭目前的起始裝備、第 1～9 層獎勵與第 10 層工匠，均沒有釣魚竿。**
 
 - **第一個頭目樓層：** 第 11 層。
 - **頭目：** 幻術師（Illusioner）與喚魔者（Evoker）。
 - **頭目層開始時間：** [08:36](https://www.youtube.com/watch?v=jnHdCc2eNXs&t=516s)；旁白於約 08:35 說明將迎戰兩位頭目。
-- **頭目前已展示的獎勵：** 從第 1 層結束後到第 10 層商人樓層，畫面中可辨識的獎勵選項都沒有出現釣魚竿。
-- **第 10 層：** [08:20](https://www.youtube.com/watch?v=jnHdCc2eNXs&t=500s) 顯示下一層為商人樓層，影片隨後使用獨特裝備工匠；此工匠只把既有裝備升級為獨特版本，不會憑空提供釣魚竿。
-- **證據缺口：** 影片在 [06:42](https://www.youtube.com/watch?v=jnHdCc2eNXs&t=402s) 顯示「下一層：第 8 層」的獎勵畫面，約一秒後便剪接到「下一層：第 9 層」的裝備畫面；中間的關卡與獎勵選擇未完整展示。因此無法排除未顯示的獎勵選項中曾出現釣魚竿。
+- **起始裝備：** 開場可見近戰武器、護甲與遠程武器，法器欄為空，沒有釣魚竿。
+- **第 1～9 層獎勵：** 影片分別在 [01:00](https://www.youtube.com/watch?v=jnHdCc2eNXs&t=60s)、[01:28](https://www.youtube.com/watch?v=jnHdCc2eNXs&t=88s)、[02:20](https://www.youtube.com/watch?v=jnHdCc2eNXs&t=140s)、[03:30](https://www.youtube.com/watch?v=jnHdCc2eNXs&t=210s)、[04:20](https://www.youtube.com/watch?v=jnHdCc2eNXs&t=260s)、[05:06](https://www.youtube.com/watch?v=jnHdCc2eNXs&t=306s)、[06:39](https://www.youtube.com/watch?v=jnHdCc2eNXs&t=399s)、[07:24](https://www.youtube.com/watch?v=jnHdCc2eNXs&t=444s) 與 [08:20](https://www.youtube.com/watch?v=jnHdCc2eNXs&t=500s) 完整顯示「AVAILABLE REWARDS」，所有選項都沒有釣魚竿。
+- **第 10 層：** [08:20](https://www.youtube.com/watch?v=jnHdCc2eNXs&t=500s) 顯示下一層為商人樓層，隨後在 [08:30](https://www.youtube.com/watch?v=jnHdCc2eNXs&t=510s) 使用獨特裝備工匠；此工匠只把既有裝備升級為獨特版本，不會提供新的釣魚竿。
+- **影片完整性：** 從開場到第一個頭目層之間，相關獎勵畫面與唯一的商人／工匠來源皆有展示，沒有影響判定的剪接缺口。
 
 ### 難易度限制
 
-- **啟示錄：** 證據不足；已展示的選項沒有釣魚竿，但影片剪接造成一處關鍵畫面缺口。
+- **啟示錄：** 不可以；頭目前所有可取得來源皆已完整展示，且明確沒有釣魚竿。
 - **冒險／預設：** 本次來源只有啟示錄完整通關影片，未驗證其他難易度，不能直接套用啟示錄結論。
 
 若日後取得未剪輯影片、其他難易度完整影片，或官方逐層獎勵清單，應重新核對這項結論。
