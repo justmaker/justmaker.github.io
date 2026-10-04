@@ -15,6 +15,7 @@ tags: ["Minecraft Dungeons", "高塔", "Tower", "攻略"]
 
 ## 各週攻略連結
 
+- [10/4 週高塔釣魚竿驗證（第 206 輪，啟示錄難易度）](/post/gaming/minecraft-dungeons-tower-week-206/) — 影片來源：<https://www.youtube.com/watch?v=MUvuqlX2JFw>
 - [9/27 週高塔釣魚竿驗證（第 205 輪，啟示錄難易度）](/post/gaming/minecraft-dungeons-tower-week-205/) — 影片來源：<https://www.youtube.com/watch?v=jnHdCc2eNXs>
 - [9/20 週高塔攻略（第 204 輪，啟示錄／冒險／預設難易度）](/post/gaming/minecraft-dungeons-tower-week-204/) — 影片來源：<https://www.youtube.com/watch?v=F7xpseN0_LY>
 - [9/6 週高塔攻略（第 202 輪，啟示錄難易度）](/post/gaming/minecraft-dungeons-tower-week-202/) — 影片來源：<https://www.youtube.com/watch?v=rAGl71upXB8>
