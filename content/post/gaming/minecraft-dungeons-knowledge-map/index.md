@@ -16,6 +16,11 @@ image: ""
 
 這篇是整個 **Minecraft Dungeons KB 的總入口**。現有文章依用途分區整理；先選擇目前遇到的情境，再進入完整攻略、專題或每週紀錄。
 
+## Minecraft Dungeons II
+
+- [二代從零到畢業攻略](/post/gaming/minecraft-dungeons-ii-guide/)：開放世界推進、裝備成長、附魔與封頂刷裝迴圈。
+- [劇毒尖牙 × 砂輪秒王流](/post/gaming/minecraft-dungeons-ii-poison-grindstone-build/)：依實測影片還原 20 倍毒傷配置，包含武器、神器、防具、護符、重骰目標與全取得路線。
+
 ## 第一次玩：主線與系統入門
 
 ### 主入口

@@ -18,6 +18,8 @@ image: ""
 
 > 🧭 [回到 Minecraft Dungeons KB 總索引](/post/gaming/minecraft-dungeons-knowledge-map/)
 
+> ☠️ 準備做畢業 Build：看[劇毒尖牙 × 砂輪 20 倍毒傷秒王流](/post/gaming/minecraft-dungeons-ii-poison-grindstone-build/)。
+
 這是一份幫你整理的《Minecraft Dungeons II》**從零拓荒到畢業（Endgame）的最速通關指南**。二代機制因為改成了「開放世界」加上「12 格裝備系統」，養成思維跟一代有很大不同：
 
 ---
