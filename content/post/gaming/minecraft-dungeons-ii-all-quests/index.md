@@ -118,6 +118,81 @@ image: ""
 | 最終靈魂決戰：安可（The Final Souldown Encore） | The Final Souldown | **Boss 再戰**：The Supreme Evoker、Monstrous Opus | 2,750 |
 | 紅石巨獸再現（The Redstone Monstrosity Revived） | The Final Souldown | **Boss 再戰**：Redstone Monstrosity | 1,100 |
 
+## 全部魔王附圖
+
+以下收錄本文任務中會遇到的 **10 種魔王／大型敵人**。同一隻魔王若同時出現在主線和再戰支線，只列一張圖片，下面會標出所有相關任務。
+
+### Witch（女巫）
+
+![Minecraft Dungeons II Witch 女巫](images/bosses/witch.png)
+
+- 出現任務：`Corruption in the Woods`
+- 再戰任務：`The Witch Revived`
+
+### Warden（伏守者）
+
+![Minecraft Dungeons II Warden 伏守者](images/bosses/warden.png)
+
+- 出現任務：`Down into the Deep Dark`
+- 這隻是前段大型敵人；同一任務最後還要打 Twisted Warden。
+
+### Twisted Warden（扭曲伏守者）
+
+![Minecraft Dungeons II Twisted Warden 扭曲伏守者](images/bosses/twisted-warden.png)
+
+- 出現任務：`Down into the Deep Dark`
+- 再戰任務：`The Twisted Warden Revived`
+
+### Copper Monstrosity（銅巨獸）
+
+![Minecraft Dungeons II Copper Monstrosity 銅巨獸](images/bosses/copper-monstrosity.png)
+
+- 出現任務：`Wading Rainy Plains`
+- 再戰任務：`The Copper Monstrosity Revived`
+
+### The Prime Enchanter（首席附魔師）
+
+![Minecraft Dungeons II The Prime Enchanter 首席附魔師](images/bosses/prime-enchanter.png)
+
+- 出現任務：`Hiking Frozen Highlands`
+- 再戰任務：`The Prime Enchanter Revived`
+
+### Sculk Monstrosity（伏聆巨獸）
+
+![Minecraft Dungeons II Sculk Monstrosity 伏聆巨獸](images/bosses/sculk-monstrosity.png)
+
+- 出現任務：`A Monstrosity in the Meadow`
+- 支線 Boss 任務：`Illager Intelligence`
+- 再戰任務：`The Sculk Monstrosity Revived`
+
+### Monarch（君王）
+
+![Minecraft Dungeons II Monarch 君王](images/bosses/monarch.png)
+
+- 出現任務：`Wrath of the Sculkers`
+
+### Monstrous Opus（巨獸樂章）
+
+![Minecraft Dungeons II Monstrous Opus 巨獸樂章](images/bosses/monstrous-opus.png)
+
+- 出現任務：`The Final Souldown`
+- 再戰任務：`The Final Souldown Encore`
+
+### The Supreme Evoker（至尊喚魔者）
+
+![Minecraft Dungeons II The Supreme Evoker 至尊喚魔者](images/bosses/supreme-evoker.png)
+
+- 出現任務：`The Final Souldown`
+- 再戰任務：`The Final Souldown Encore`
+
+### Redstone Monstrosity（紅石巨獸）
+
+![Minecraft Dungeons II Redstone Monstrosity 紅石巨獸](images/bosses/redstone-monstrosity.png)
+
+- 再戰任務：`The Redstone Monstrosity Revived`
+
+> 圖片為 Mojang Studios 的遊戲角色 render，由各魔王的 [Minecraft Wiki](https://minecraft.wiki/w/Minecraft_Dungeons_II) 條目收錄；本站保存本地副本供任務辨識使用。
+
 ## 建議清任務順序
 
 1. **先推主線到新區域**：每到新區先開傳送點和商人功能。
