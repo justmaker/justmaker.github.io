@@ -174,14 +174,61 @@ image: ""
    - 血量降到一半時，Twisted Warden 會短暫跪地硬直，頭角也會改變形狀。
    - 在這段時間開啟增傷神器、近戰技能與高傷害攻擊，結束前主動拉開距離。
 
-#### 推薦配裝方向
+#### 首次主線戰可直接照抄的配裝
 
-- **移動／保命**：移動速度、翻滾冷卻、減傷或緊急護盾。
-- **續航**：回血、吸血或其他穩定恢復手段。
-- **輸出**：一把能安全磨血的遠程武器，加上倒地時使用的單體爆發裝備。
-- **清怪**：至少帶一個範圍攻擊神器，避免召喚物和王一起包圍角色。
+遊戲資料建議挑戰 Twisted Warden 時達到 **等級 16**。牠對 **近戰傷害減免 20%**、對 **靈魂傷害減免 50%**，所以核心應該是 Heavy Crossbow 的一般遠程傷害；不要把主輸出做成近戰或 soul build。
 
-如果旋轉攻擊一套就能擊倒角色，先別反覆硬試：回前面區域換上更高裝等的防具，優先提升生存與移動能力，再回來挑戰。純近戰卡關時，改成「遠程磨血＋倒地才貼身爆發」會穩定很多。
+| 欄位 | 指定裝備 | 在打王前怎麼取得 | 用途 |
+|---|---|---|---|
+| 近戰 | **Wolf Claws** | 完成 Howling Woods 支線 `Part of the Pack`，首通保證獎勵 | 清小怪；王倒地時才近身打一輪 |
+| 遠程 | **Heavy Crossbow** | 完成主線 `Corruption in the Woods`，首通保證獎勵 | 核心打王武器；平常保持距離射擊 |
+| 頭部 | **Mushroom Cap** | 完成支線 `The Cleric's Apprentice`，首通給完整 Mushroom 四件 | 優先選防禦效果較好的那件 |
+| 胸甲 | **Mushroom Robe** | 同上 | 同上 |
+| 腿部 | **Mushroom Leggings** | 同上 | 同上 |
+| 靴子 | **Mushroom Boots** | 同上 | 同上 |
+| 神器 1 | **Creeper Candle** | 完成 Honeycomb Fields 支線 `The Creeper Candle Conspiracy`，首通保證獎勵 | 王召喚小怪時快速清場；冷卻 5 秒、消耗 25 souls |
+| 神器 2 | **Honey Dipper** | 完成主線 `The Illagers from the Rift`，首通保證獎勵 | 控制小怪並叫蜜蜂協助；範圍 6 格、持續 8 秒 |
+| 神器 3 | **Death Cap Mushroom** | Howling Woods 的敵人與寶箱隨機掉落 | 增加移動與攻速；王旋轉時拿來拉開距離 |
+| 護符 1 | **Sigil of Beeswax** | 完成 `The Illagers from the Rift`，保證取得 | 最大生命增加 20%／25%／35%（護符等級 1／2／3） |
+| 護符 2 | **Tasty Bone** | 完成 `The Silence in Little Howl`，保證取得 | 召喚 Wolf 幫忙攻擊；死亡 30 秒後重生 |
+| 護符 3 | **現有最高等級護符** | 第一次打王前沒有第三個必拿的防禦護符 | 不必為了填滿欄位硬農後期護符 |
+
+> Mushroom 四件沒有隱藏套裝加成。若其他防具的裝等更高，或帶有 `Protection`、`Projectile Protection`、`Elemental Protection`、`Recovery`、`Regeneration`，可以混穿，不必為了外觀強制穿齊四件。
+
+#### 附魔與隨機效果怎麼選
+
+- **Heavy Crossbow**：先裝 `Training with the Enchantsmith` 保證取得的 **Piercing**，用來穿透王召喚的小怪。武器若隨機帶 `Critical Hit`、`Critical Edge`、`Impact` 或 `Point Blank`，優先使用。
+- **防具**：依序選 `Protection`／`Projectile Protection`／`Elemental Protection`，其次才是 `Recovery`／`Regeneration`。
+- **神器觸發附魔**：若已有 `Health Synergy`，每次使用神器可回血，最適合這場；`Springload` 可在使用神器後增加移速，也很適合躲旋轉。
+- 不要主堆 `Soulmancer` 或 soul damage；Twisted Warden 會減免一半靈魂傷害。
+
+#### 沒掉 Death Cap Mushroom 怎麼辦
+
+- 替代品：**Totem of Shielding**，同樣由 Howling Woods 的敵人或寶箱隨機掉落。
+- 它能擋追蹤靈魂彈，但 Twisted Warden 的 Sonic Boom 很快會打穿圖騰；看到音波仍要橫向跑。
+- Death Cap Mushroom 與 Totem of Shielding 都沒掉時，第三格直接放目前裝等最高的神器，不必卡在這裡刷到出貨才打王。
+
+#### 進王前最短準備路線
+
+1. `The Illagers from the Rift`：拿 **Honey Dipper＋Sigil of Beeswax**。
+2. `The Creeper Candle Conspiracy`：拿 **Creeper Candle**。
+3. `The Silence in Little Howl`：拿 **Tasty Bone**。
+4. `Training with the Enchantsmith`：拿 **Piercing** 附魔書並解鎖附魔功能。
+5. `Part of the Pack`：拿 **Wolf Claws**。
+6. `Corruption in the Woods`：拿 **Heavy Crossbow**。
+7. `The Cleric's Apprentice`：拿完整 **Mushroom 四件防具**。
+8. 在 Howling Woods 開寶箱、清怪，把角色升到約 **16 級**；途中若掉 **Death Cap Mushroom** 或 **Totem of Shielding** 就裝上。
+9. 進 `Down into the Deep Dark` 前先把 souls 補滿，再去打王。
+
+#### 實戰按鍵順序
+
+1. 平常繞著場地用 **Heavy Crossbow** 射擊，不用 Wolf Claws 貼身追王。
+2. 王叫小怪：先放 **Honey Dipper** 控場，再用 **Creeper Candle** 清怪。
+3. 王開始旋轉：開 **Death Cap Mushroom** 往外圈跑；若帶 Totem of Shielding，也不能站著硬吃旋轉或音波。
+4. 王旋轉結束倒地：先射 Heavy Crossbow；安全距離足夠才切 Wolf Claws 打一套，起身前立刻退開。
+5. 半血硬直時把兩個攻擊神器和遠程彈藥一次打完。
+
+如果照這套仍被旋轉一套擊倒，先提高四件防具的裝等；不要只升武器。多人模式的 Boss 血量會依人數倍增，兩人是單人血量的 2 倍、四人是 4 倍，隊友沒有穩定輸出時不一定比單人容易。
 
 ### Copper Monstrosity（銅巨獸）
 
@@ -248,6 +295,7 @@ image: ""
 ## 資料來源與口徑
 
 - [MetaBot：Minecraft Dungeons II 全 42 任務](https://metabot.gg/en/minecraft-dungeons-2/quests)：遊戲資料 build 1.1.1.0 的主線順序、區域、前置、XP、Boss 與獎勵。
+- [MetaBot：Twisted Warden 數值、抗性與掉落](https://metabot.gg/en/minecraft-dungeons-2/bosses/twisted-warden)：建議等級、招式傷害、近戰／靈魂抗性、多人血量倍率與任務獎勵。
 - [MetaBot：資料來源方法](https://metabot.gg/en/minecraft-dungeons-2/methodology)：說明遊戲資料擷取與版本口徑。
 - [Minecraft Wiki：Minecraft Dungeons II quests 分類](https://minecraft.wiki/w/Category:Minecraft_Dungeons_II_quests)：已建立的任務頁與官方展示內容。
 
