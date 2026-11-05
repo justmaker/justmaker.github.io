@@ -105,10 +105,12 @@ tags:
 
 ### 正手主線
 - [桌球找球不要用手追：正手用右髖與右肩，反手用肚臍與視線中軸](/post/table-tennis/body-aiming-for-ball/)
+- [台內球怎麼找球：反手擰拉、正手挑打與反手挑打的身體準星](/post/table-tennis/inside-table-body-aiming/)
 - [正手動力傳導：從手上爆發到全身連動](/post/table-tennis/forehand-power-transfer/)
 
 ### 反手主線
 - [桌球找球不要用手追：正手用右髖與右肩，反手用肚臍與視線中軸](/post/table-tennis/body-aiming-for-ball/)
+- [台內球怎麼找球：反手擰拉、正手挑打與反手挑打的身體準星](/post/table-tennis/inside-table-body-aiming/)
 - [反手容易揮空怎麼辦？原因判斷與訓練方法](/post/table-tennis/backhand-whiff-fix/)
 - [反手體系該模仿誰？五種路線拆解](/post/table-tennis/backhand-models-for-amateurs/)
 

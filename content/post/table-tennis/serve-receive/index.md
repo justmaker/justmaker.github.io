@@ -48,6 +48,7 @@ series_order: 1
 ### 短球
 - [短球擰拉：什麼球可以擰，什麼球別硬擰](/post/table-tennis/when-to-flick-and-when-not-to/) — 擰拉的適用邊界，以及不擰時怎麼處理
 - [反手擰拉（Chiquita）技術全解析](/post/table-tennis/backhand-flick/) — 動作本身怎麼練
+- [台內球怎麼找球](/post/table-tennis/inside-table-body-aiming/) — 擰拉與正反手挑打的入台、重心及身體準星
 
 ### 側旋
 - [側旋接發速查表](/post/table-tennis/sidespin-return-cheatsheet/) — 短球/長球/側上/側下的口訣與實戰 SOP

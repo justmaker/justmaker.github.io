@@ -66,8 +66,11 @@ menu:
 ### 12. [反手挑打 / 擰拉筆記](/post/table-tennis/backhand-flick/)
 針對反手挑打與擰拉相關內容的整理。
 
-### 12. [桌球找球不要用手追：正手用右髖與右肩，反手用肚臍與視線中軸](/post/table-tennis/body-aiming-for-ball/)
+### 13. [桌球找球不要用手追：正手用右髖與右肩，反手用肚臍與視線中軸](/post/table-tennis/body-aiming-for-ball/)
 用身體對位取代伸手追球，整理正手與反手的找球準星、常見錯誤和三組練習菜單。
+
+### 14. [台內球怎麼找球：反手擰拉、正手挑打與反手挑打的身體準星](/post/table-tennis/inside-table-body-aiming/)
+整理台內短球的跨步入台、重心移動，以及擰拉與挑打各自的身體定位提示。
 
 ---
 

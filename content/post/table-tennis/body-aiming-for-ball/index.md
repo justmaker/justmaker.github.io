@@ -156,6 +156,7 @@ tags = ['桌球', '找球', '正手', '反手', '步法', '擊球點', '揮空']
 
 ## 與既有文章的關係
 
+- [台內球怎麼找球：反手擰拉、正手挑打與反手挑打的身體準星](/post/table-tennis/inside-table-body-aiming/)：短球入台時的胸口、手肘、膝蓋與視線定位
 - [反手容易揮空怎麼辦？原因判斷與訓練方法](/post/table-tennis/backhand-whiff-fix/)：進一步判斷早、晚、拍子從球上方或下方穿過
 - [正手動力傳導：從手上爆發到全身連動](/post/table-tennis/forehand-power-transfer/)：理解右髖、軀幹與手臂如何形成動力鏈
 - [打完球之後要站哪？桌球還原站位動態原則](/post/table-tennis/recovery-position/)：把這一板的找球接到下一板的還原
