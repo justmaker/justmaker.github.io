@@ -173,6 +173,7 @@ XVT 的優勢不是單純比純碳軟，而是它有兩套機制共同工作：
 
 ## 延伸閱讀
 
+- [Fastarc G-1 為什麼被視為萬金油神膠？](/post/table-tennis/fastarc-g1-universal-benchmark-rubber/)
 - [我的桌球器材清單](/post/table-tennis/my-equipment/)
 - [桌球膠皮厚度怎麼選：G-1、Rakza 7、Rakza 7 Soft 與底板搭配](/post/table-tennis/rubber-sponge-thickness-g1-rakza7/)
 - [底板 × 膠皮搭配矩陣](/post/table-tennis/blade-rubber-matrix/)

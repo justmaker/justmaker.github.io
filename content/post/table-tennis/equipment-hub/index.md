@@ -74,6 +74,7 @@ tags:
 - [全面性的乒乓球膠皮分析：種類、指標、候選池與實戰定位](/post/table-tennis/rubber-research/)
 
 ### 2. 既有專題
+- [Fastarc G-1 為什麼被視為萬金油神膠？從 47.5° 支撐、線性回饋到底板適配](/post/table-tennis/fastarc-g1-universal-benchmark-rubber/)
 - [為什麼交換膠皮後兩支拍都變扎實？純碳、XVT、G-1、AU 金與藍鯨的匹配案例](/post/table-tennis/blade-rubber-impedance-matching-case/)
 - [桌球膠皮厚度怎麼選：Fastarc G-1、Rakza 7 與 Rakza 7 Soft 搭配底板指南](/post/table-tennis/rubber-sponge-thickness-g1-rakza7/)
 - [桌球膠皮種類分析與應對策略](/post/table-tennis/rubber-types-and-counter-tactics/)
