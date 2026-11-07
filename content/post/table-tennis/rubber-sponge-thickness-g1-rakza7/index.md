@@ -261,6 +261,7 @@ Soft 不是低階版，而是用較軟海綿換取啟動、持球與容錯。代
 
 ## 延伸閱讀
 
+- [底板與膠皮阻抗匹配案例：純碳、XVT、G-1、AU 金與藍鯨](/post/table-tennis/blade-rubber-impedance-matching-case/)
 - [全面性的乒乓球膠皮分析：種類、指標、候選池與實戰定位](/post/table-tennis/rubber-research/)
 - [底板 × 膠皮搭配矩陣：結構、重量、正反手分工與實戰組合](/post/table-tennis/blade-rubber-matrix/)
 - [桌球膠皮配置比較：AK47 vs G-1 / R7 Soft vs T05 / T19](/post/table-tennis/rubber-setup-comparison/)

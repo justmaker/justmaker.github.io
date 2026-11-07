@@ -68,6 +68,7 @@ tags:
 - 想避免亂跳器材時
 
 ### 延伸閱讀
+- [底板與膠皮阻抗匹配案例：純碳、XVT、G-1、AU 金與藍鯨](/post/table-tennis/blade-rubber-impedance-matching-case/)
 - [桌球膠皮配置比較：AK47 vs G-1 / R7 Soft vs T05 / T19](/post/table-tennis/rubber-setup-comparison/)
 - [桌球器材升級路線圖：PH AK47 → XVT G-1 → ACH T 系列](/post/table-tennis/equipment-roadmap/)
 - [桌球底板材料分析：面材、內置/外置與複合纖維](/post/table-tennis/blade-materials/)
