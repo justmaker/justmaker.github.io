@@ -52,6 +52,7 @@ tags:
 
 ### 2. 常見型號 / 家族對照
 - [常見乒乓球底板型號完全對照表：結構、手感、定位與適合打法](/post/table-tennis/blade-model-comparison/)
+- [VIS、樊振東 ALC、W968 怎麼選？三支經典底板的結構、手感與打法比較](/post/table-tennis/viscaria-fan-zhendong-alc-w968-comparison/)
 
 ### 3. 拍型與握感
 - [底板拍型與握感：橫板、直板、異形拍面差異](/post/table-tennis/blade-shapes/)
@@ -60,6 +61,7 @@ tags:
 - 理解面材、力材、纖維、大芯的差異
 - 理解 inner / outer、5 夾 / 7 夾 / 單檜等結構世界觀
 - 把 Viscaria、Innerforce、龍 5、Clipper、Acoustic、單檜等型號家族對照起來
+- 具體比較 VIS、樊振東 ALC 與 W968 的外置／內置路線與選擇條件
 
 ### 什麼時候看？
 - 想搞懂底板材料世界觀

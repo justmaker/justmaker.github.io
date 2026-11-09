@@ -30,6 +30,8 @@ tags:
 - 龍 5、Clipper、Acoustic、單檜，各自最核心的手感主題是什麼？
 - 如果我喜歡某一支，那下一步通常會往哪條線走？
 
+如果你要比較的是具體型號，可直接看：[VIS、樊振東 ALC、W968 怎麼選？三支經典底板的結構、手感與打法比較](/post/table-tennis/viscaria-fan-zhendong-alc-w968-comparison/)。
+
 ---
 
 ## 一、先看總表
