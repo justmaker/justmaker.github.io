@@ -68,6 +68,7 @@ tags:
 - 想避免亂跳器材時
 
 ### 延伸閱讀
+- [YEO 換 Viscaria 值得嗎？五夾純木到外置 ALC 的手感與打法調整](/post/table-tennis/yeo-to-viscaria-upgrade/)
 - [Fastarc G-1 萬金油神膠解析：47.5° 支撐、線性回饋與底板適配](/post/table-tennis/fastarc-g1-universal-benchmark-rubber/)
 - [底板與膠皮阻抗匹配案例：純碳、XVT、G-1、AU 金與藍鯨](/post/table-tennis/blade-rubber-impedance-matching-case/)
 - [桌球膠皮配置比較：AK47 vs G-1 / R7 Soft vs T05 / T19](/post/table-tennis/rubber-setup-comparison/)

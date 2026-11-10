@@ -202,6 +202,7 @@ W968 採 **Limba 面材 + 內置芳碳** 路線。纖維更靠近大芯，中小
 
 ## 延伸閱讀與資料來源
 
+- [YEO 換 Viscaria 值得嗎？從五夾純木到外置 ALC 的手感與打法調整](/post/table-tennis/yeo-to-viscaria-upgrade/)
 - [常見乒乓球底板型號完全對照表](/post/table-tennis/blade-model-comparison/)
 - [底板材料（4）：常見型號逐支對照與升級路線](/post/table-tennis/blade-model-reference/)
 - [底板 × 膠皮搭配矩陣](/post/table-tennis/blade-rubber-matrix/)
