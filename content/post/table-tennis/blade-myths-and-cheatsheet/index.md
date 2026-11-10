@@ -276,7 +276,7 @@ ZLC 常常是：
 
 <div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
 
-- [常見乒乓球底板型號完全對照表：結構、手感、定位與適合打法](/post/table-tennis/blade-model-comparison/)
+- [常見乒乓球底板家族速查：結構、手感與適合打法](/post/table-tennis/blade-model-comparison/)
 - [我的器材主線與階段定位](/post/table-tennis/my-equipment/)
 
 ---

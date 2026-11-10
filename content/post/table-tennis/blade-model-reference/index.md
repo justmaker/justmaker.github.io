@@ -2,6 +2,7 @@
 title: "底板材料 (4)：常見型號逐支對照與升級路線"
 description: "Viscaria、Innerforce ALC、狂飆龍 5、Clipper、Acoustic、單檜、Rosewood/Ebony、XVT 全碳等常見底板逐支結構解析，附「你現在用這類，下一步可以看哪裡」的升級路線。"
 date: 2026-08-10
+lastmod: 2026-11-10
 slug: blade-model-reference
 categories:
   - table-tennis
@@ -30,6 +31,8 @@ series_order: 5
 ---
 
 ## 十二、常見實際底板型號對照表
+
+> 本章是具體型號規格的單一資料源，集中維護逐層材料、結構、價格與版本差異；若只想先理解 Viscaria、龍 5、Clipper 等家族的手感方向，請看[底板家族速查](/post/table-tennis/blade-model-comparison/)。
 
 <div class="article-back-to-toc"><a href="#article-toc">↑ 回到目錄</a></div>
 

@@ -2,6 +2,7 @@
 title: "Fastarc G-1 為什麼被視為萬金油神膠？從 47.5° 支撐、線性回饋到底板適配"
 description: "分析 Nittaku Fastarc G-1 為何能橫跨純木、外置碳、內置纖維與高剛性純碳板，並說明它作為底板測試基準膠的優勢、限制與實際搭配。"
 date: 2026-11-07
+lastmod: 2026-11-10
 slug: fastarc-g1-universal-benchmark-rubber
 categories:
   - table-tennis
@@ -14,6 +15,8 @@ tags:
 ---
 
 # Fastarc G-1 為什麼被視為萬金油神膠？
+
+> **本文定位：** Fastarc G-1 單品專題，解釋它作為中硬基準膠的優勢與限制；不負責維護最新個人配置。
 
 在澀性內能反膠裡，Nittaku Fastarc G-1 經常被球友當成「萬金油」甚至「基準膠」：純木能打、外置碳能打、內置纖維能打，連配膠窗口很窄的高剛性純碳板，也可能靠 G-1 的支撐把手感救回來。
 

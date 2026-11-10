@@ -2,6 +2,7 @@
 title: "底板 × 膠皮搭配矩陣：結構、重量、正反手分工與實戰組合"
 description: "用系統化方式整理不同底板結構與膠皮類型的搭配關係，包含重量、正反手角色、底板相性、實戰風格與常見踩雷點。"
 date: 2026-08-20
+lastmod: 2026-11-10
 slug: blade-rubber-matrix
 categories:
   - table-tennis
@@ -13,6 +14,8 @@ tags:
 ---
 
 # 底板 × 膠皮搭配矩陣：結構、重量、正反手分工與實戰組合
+
+> **本文定位：** 只處理「底板類型 × 膠皮類型」的通用搭配原則；特定膠皮規格回到[膠皮研究候選池](/post/table-tennis/rubber-research/)，個人當前配置回到[我的桌球器材清單](/post/table-tennis/my-equipment/)。
 
 前面兩篇已經分別整理了：
 
@@ -344,5 +347,5 @@ tags:
 ## 七、延伸閱讀
 
 - [全面性的乒乓球底板材料分析：面材、力材、纖維與大芯](/post/table-tennis/blade-materials/)
-- [常見乒乓球底板型號完全對照表：結構、手感、定位與適合打法](/post/table-tennis/blade-model-comparison/)
+- [常見乒乓球底板家族速查：結構、手感與適合打法](/post/table-tennis/blade-model-comparison/)
 - [全面性的乒乓球膠皮分析：種類、指標、候選池與實戰定位](/post/table-tennis/rubber-research/)

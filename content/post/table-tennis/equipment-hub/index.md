@@ -1,7 +1,8 @@
 ---
-title: "桌球器材 KB 統合入口：底板、膠皮、搭配與升級路線"
-description: "把桌球器材相關知識整理成一個統合入口，包含我的器材主線、底板材料、型號對照、膠皮研究、底板 × 膠皮搭配與快速閱讀路線。"
+title: "桌球器材 KB 統合入口：底板、膠皮、搭配與個人配置"
+description: "桌球器材知識庫的單一入口，依底板、膠皮、整拍搭配、個人現況與周邊器材分流，並說明每篇文章的維護責任。"
 date: 2026-08-20
+lastmod: 2026-11-10
 slug: equipment-hub
 categories:
   - table-tennis
@@ -11,233 +12,91 @@ tags:
   - 器材
 ---
 
-# 桌球器材 KB 統合入口：底板、膠皮、搭配與升級路線
+# 桌球器材 KB 統合入口：底板、膠皮、搭配與個人配置
 
-這篇的用途很單純：
-
-## **把所有桌球器材相關文章收斂成一個專用入口。**
-
-因為器材文章一多之後，很容易出現一種狀況：
-- 明明已經有寫
-- 但分散在不同篇裡
-- 想找某個主題時要一直翻
-
-所以這篇不是新知識，
-而是把器材相關 KB 重新整理成一張地圖。
+這篇只做一件事：**依問題把讀者送到正確文章**。器材規格、價格、個人現況與實測案例各自維護，不在入口頁重複保存結論。
 
 ---
 
-## 一、如果你只想知道「我自己現在到底在用什麼」
+## 一、先看目前實際器材
 
-先看：
-- [我的桌球器材清單](/post/table-tennis/my-equipment/)
-- [桌球器材升級路線圖：PH AK47 → XVT G-1 → ACH T 系列](/post/table-tennis/equipment-roadmap/)
+- [我的桌球器材清單](/post/table-tennis/my-equipment/)：目前貼法、整拍重量、器材角色與下一次變更的唯一資料源。
+- [器材升級路線圖：從 PH 到 XVT 的規劃與目前修正版](/post/table-tennis/equipment-roadmap/)：保留升級方法、歷史規劃與修正原因。
 
-### 這區在做什麼？
-- 記錄我手上的板與膠
-- 記錄目前主戰 / 訓練 / 備用器材線
-- 管理器材升級順序，避免亂跳器材
-
-### 什麼時候看？
-- 想確認我現在的主線器材是什麼
-- 想看器材規劃是否清楚
-- 想避免買了又跳、跳了又後悔
+若其他文章的「目前配置」與器材清單衝突，以 `my-equipment` 的 `lastmod` 為準。
 
 ---
 
-## 二、如果你想研究底板本身（材料 / 結構 / 型號）
+## 二、研究底板
 
-### 1. 材料與結構總論
-- [全面性的乒乓球底板材料分析：面材、力材、纖維與大芯](/post/table-tennis/blade-materials/)
+### 材料與結構原理
 
-### 2. 常見型號 / 家族對照
-- [常見乒乓球底板型號完全對照表：結構、手感、定位與適合打法](/post/table-tennis/blade-model-comparison/)
-- [VIS、樊振東 ALC、W968 怎麼選？三支經典底板的結構、手感與打法比較](/post/table-tennis/viscaria-fan-zhendong-alc-w968-comparison/)
-- [YEO 換 Viscaria 值得嗎？從五夾純木到外置 ALC 的手感與打法調整](/post/table-tennis/yeo-to-viscaria-upgrade/)
+- [底板材料分析總覽與系列導讀](/post/table-tennis/blade-materials/)
+- [底板材料（1）：分析指標與面材](/post/table-tennis/blade-materials-top-ply/)
+- [底板材料（2）：力材、纖維與大芯](/post/table-tennis/blade-materials-inner-structure/)
+- [底板材料（3）：從規格表反推底板個性](/post/table-tennis/blade-selection-practice/)
+- [底板材料（5）：常見迷思與選板速查](/post/table-tennis/blade-myths-and-cheatsheet/)
 
-### 3. 拍型與握感
-- [底板拍型與握感：橫板、直板、異形拍面差異](/post/table-tennis/blade-shapes/)
+### 家族與具體型號
 
-### 這區在做什麼？
-- 理解面材、力材、纖維、大芯的差異
-- 理解 inner / outer、5 夾 / 7 夾 / 單檜等結構世界觀
-- 把 Viscaria、Innerforce、龍 5、Clipper、Acoustic、單檜等型號家族對照起來
-- 具體比較 VIS、樊振東 ALC 與 W968 的外置／內置路線與選擇條件
-- 理解從 YEO 五夾純木轉到 VIS 外置 ALC 時，反手、正手與台內控制要怎麼調整
-
-### 什麼時候看？
-- 想搞懂底板材料世界觀
-- 想比較某兩支板為什麼差那麼多
-- 想從商品頁規格表反推一支板的大致個性
+- [常見底板家族速查：結構、手感與打法](/post/table-tennis/blade-model-comparison/)：只比較家族世界觀。
+- [常見實際底板型號逐支對照與升級路線](/post/table-tennis/blade-model-reference/)：完整層次、版本、價格與型號差異的單一資料源。
+- [VIS、樊振東 ALC、W968 怎麼選？](/post/table-tennis/viscaria-fan-zhendong-alc-w968-comparison/)：特定三支高階板的比較。
+- [YEO 換 Viscaria 值得嗎？](/post/table-tennis/yeo-to-viscaria-upgrade/)：五夾純木轉外置 ALC 的動作調整。
+- [底板形狀：CyberShape 與傳統橢圓形](/post/table-tennis/blade-shapes/)
 
 ---
 
-## 三、如果你想研究膠皮（不是只看我買過的）
+## 三、研究膠皮
 
-### 1. 研究型主入口
-- [全面性的乒乓球膠皮分析：種類、指標、候選池與實戰定位](/post/table-tennis/rubber-research/)
-
-### 2. 既有專題
-- [Fastarc G-1 為什麼被視為萬金油神膠？從 47.5° 支撐、線性回饋到底板適配](/post/table-tennis/fastarc-g1-universal-benchmark-rubber/)
-- [為什麼交換膠皮後兩支拍都變扎實？純碳、XVT、G-1、AU 金與藍鯨的匹配案例](/post/table-tennis/blade-rubber-impedance-matching-case/)
-- [桌球膠皮厚度怎麼選：Fastarc G-1、Rakza 7 與 Rakza 7 Soft 搭配底板指南](/post/table-tennis/rubber-sponge-thickness-g1-rakza7/)
-- [桌球膠皮種類分析與應對策略](/post/table-tennis/rubber-types-and-counter-tactics/)
-- [桌球膠皮配置比較：AK47 vs G-1 / R7 Soft vs T05 / T19](/post/table-tennis/rubber-setup-comparison/)
-- [平面澀性膠皮價格區間分析](/post/table-tennis/inverted-rubber-pricing/)
-
-### 這區在做什麼？
-- 用一致指標建立膠皮候選池
-- 整理你有興趣的膠皮，而不只是已買過的
-- 比較正手 / 反手 / 重量 / 台內手感 / 容錯 / 壽命 / 適合底板
-
-### 什麼時候看？
-- 想研究某張膠皮值不值得買
-- 想看 T05 / T64 / T80 / T19 / R7 / G-1 / C-1 / D09c / K3 等差異
-- 想選正手或反手下一張膠
+- [全面性的膠皮研究候選池](/post/table-tennis/rubber-research/)：膠皮分類、規格、性能與適用情境。
+- [平面澀性膠皮價格區間分析](/post/table-tennis/inverted-rubber-pricing/)：價格、壽命與持有成本。
+- [膠皮配置比較：AK47、G-1／R7 Soft、T05／T19](/post/table-tennis/rubber-setup-comparison/)：三種固定情境，不代表目前貼法。
+- [膠皮厚度怎麼選：1.8、2.0 與 MAX](/post/table-tennis/rubber-sponge-thickness-g1-rakza7/)：厚度專題。
+- [Fastarc G-1 為什麼被視為基準膠？](/post/table-tennis/fastarc-g1-universal-benchmark-rubber/)：G-1 單品專題。
+- [膠皮種類與對戰應對](/post/table-tennis/rubber-types-and-counter-tactics/)：反膠、正膠、生膠、長膠與防弧的辨識和應對。
 
 ---
 
-## 四、如果你想看整拍搭配，而不是單看底板或膠皮
+## 四、研究整拍搭配
 
-先看：
-- [底板 × 膠皮搭配矩陣：結構、重量、正反手分工與實戰組合](/post/table-tennis/blade-rubber-matrix/)
+- [底板 × 膠皮搭配矩陣](/post/table-tennis/blade-rubber-matrix/)：通用結構、重量與正反手分工。
+- [純碳與 XVT 的膠皮阻抗匹配案例](/post/table-tennis/blade-rubber-impedance-matching-case/)：G-1、AU 金、藍鯨的交換實測，以及 XVT 從 187.6g 降到約 180g 的方案。
 
-### 這區在做什麼？
-- 看不同底板結構和膠皮類型怎麼搭
-- 看正手 / 反手角色分工
-- 看整拍重量與節奏怎麼失衡或平衡
-- 看常見踩雷點
-
-### 什麼時候看？
-- 你不是只想換膠，而是想看整拍會變成什麼樣
-- 想知道外置板是不是適合配混合套
-- 想知道單檜、內置、外置、純木各自該怎麼配膠
+先用矩陣理解一般原則，再用案例看同一張膠皮換到底板後為何會改變。
 
 ---
 
-## 五、快速閱讀路線（最實用）
+## 五、周邊與特殊裝備
 
-### 情境 1：我只是想知道我現在器材主線在哪
-先看：
-- [我的桌球器材清單](/post/table-tennis/my-equipment/)
-- [桌球器材升級路線圖：PH AK47 → XVT G-1 → ACH T 系列](/post/table-tennis/equipment-roadmap/)
-
-### 情境 2：我想理解底板材料世界觀
-先看：
-- [全面性的乒乓球底板材料分析：面材、力材、纖維與大芯](/post/table-tennis/blade-materials/)
-- [常見乒乓球底板型號完全對照表：結構、手感、定位與適合打法](/post/table-tennis/blade-model-comparison/)
-
-### 情境 3：我想研究我有興趣的膠皮，不只是已買過的
-先看：
-- [全面性的乒乓球膠皮分析：種類、指標、候選池與實戰定位](/post/table-tennis/rubber-research/)
-
-### 情境 4：我想配整拍，而不是只看單一器材
-先看：
-- [底板 × 膠皮搭配矩陣：結構、重量、正反手分工與實戰組合](/post/table-tennis/blade-rubber-matrix/)
-- [常見乒乓球底板型號完全對照表：結構、手感、定位與適合打法](/post/table-tennis/blade-model-comparison/)
-
-### 情境 5：我想快速查某個品牌 / 型號大概屬於哪條線
-先看：
-- [常見乒乓球底板型號完全對照表：結構、手感、定位與適合打法](/post/table-tennis/blade-model-comparison/)
-- [全面性的乒乓球膠皮分析：種類、指標、候選池與實戰定位](/post/table-tennis/rubber-research/)
+- [桌球訓練器材分析](/post/table-tennis/training-equipment/)
+- [AKKADI TW 2700-08 發球機](/post/table-tennis/akkadi-tw2700-08/)
+- [PUSUN Dora Smart Pro vs Mini Pro](/post/table-tennis/pusun-dora-smart-pro-vs-mini-pro/)
+- [桌球球衣材質比較](/post/table-tennis/sportswear-materials/)
+- [台灣 VR 桌球建置指南](/post/table-tennis/vr-table-tennis-quest-eleven-t3s/)
 
 ---
 
-## 六、如果你只想看一句話版
+## 六、最快閱讀路線
 
-- **我的器材主線** → `my-equipment`
-- **底板材料與結構世界觀** → `blade-materials`
-- **實際底板型號家族對照** → `blade-model-comparison`
-- **研究型膠皮候選池** → `rubber-research`
-- **整拍搭配與踩雷點** → `blade-rubber-matrix`
-
----
-
-## 七、快速比較表（器材入口版）
-
-| 我現在想做什麼 | 最該先看 |
-|----------------|-----------|
-| 看我現在手上的器材主線 | [我的桌球器材清單](/post/table-tennis/my-equipment/) |
-| 看器材升級順序 | [桌球器材升級路線圖：PH AK47 → XVT G-1 → ACH T 系列](/post/table-tennis/equipment-roadmap/) |
-| 研究底板材料與結構 | [全面性的乒乓球底板材料分析：面材、力材、纖維與大芯](/post/table-tennis/blade-materials/) |
-| 查某支底板家族大致定位 | [常見乒乓球底板型號完全對照表：結構、手感、定位與適合打法](/post/table-tennis/blade-model-comparison/) |
-| 研究我有興趣的膠皮 | [全面性的乒乓球膠皮分析：種類、指標、候選池與實戰定位](/post/table-tennis/rubber-research/) |
-| 看整拍怎麼配 | [底板 × 膠皮搭配矩陣：結構、重量、正反手分工與實戰組合](/post/table-tennis/blade-rubber-matrix/) |
+- **想知道自己現在用什麼：** `my-equipment`
+- **想理解一支底板屬於哪個家族：** `blade-model-comparison`
+- **要查某個具體型號的完整結構：** `blade-model-reference`
+- **要找某張膠皮：** `rubber-research`
+- **只在意價格與壽命：** `inverted-rubber-pricing`
+- **想配整拍：** `blade-rubber-matrix`
+- **想看 XVT 當前減重方案：** `blade-rubber-impedance-matching-case`
 
 ---
 
-## 八、器材 FAQ（第一版）
+## 七、維護規則
 
-### Q1：我應該先研究底板，還是先研究膠皮？
-如果你現在的問題是：
-- 反手借不到力
-- 台內太噴
-- 整拍太重
-- 正手和反手角色不清楚
-
-通常先看 **膠皮與搭配** 比較實用。
-
-如果你的問題是：
-- 手感世界觀完全不懂
-- 不知道 inner / outer 差在哪
-- 不知道 Limba / Koto / Hinoki 是什麼
-
-那就先看 **底板材料與型號對照**。
-
-### Q2：我該先從材料總論看，還是直接看型號對照？
-如果你想建立世界觀，先看：
-- `blade-materials`
-
-如果你只是想快速知道某支板大概屬於哪類，先看：
-- `blade-model-comparison`
-
-### Q3：我只是想知道某張膠皮適不適合我反手，哪篇最快？
-先看：
-- `rubber-research`
-
-因為那篇是用一致指標在看：
-- 重量
-- 反手友善度
-- 小力量表現
-- 擋 / 借力
-- 台內手感
-
-### Q4：我最常犯的器材研究錯誤是什麼？
-最常見是這三種：
-1. 只看單一名詞（例如只看 ALC / ZLC）
-2. 只看別人說猛不猛，不看自己缺什麼
-3. 不把整拍重量和平衡一起算進去
-
-### Q5：如果我只想從最 relevant 的地方開始讀？
-建議順序：
-1. `my-equipment`
-2. `rubber-research`
-3. `blade-rubber-matrix`
-4. `blade-materials`
-5. `blade-model-comparison`
+1. 個人最新狀態只寫在 `my-equipment`。
+2. 具體底板規格只寫在 `blade-model-reference`。
+3. 膠皮性能、價格、厚度與配置案例分開維護。
+4. 專題文可以引用結論，但不複製整張總表。
+5. 含有「目前、下一步、主線」的文章必須有 `lastmod` 或明確日期。
 
 ---
 
-## 九、你的個人快捷入口（目前最 relevant）
-
-### 如果你現在重點在 XVT / 單檜 / 反手膠選擇
-先看：
-- [我的桌球器材清單](/post/table-tennis/my-equipment/)
-- [全面性的乒乓球膠皮分析：種類、指標、候選池與實戰定位](/post/table-tennis/rubber-research/)
-- [底板 × 膠皮搭配矩陣：結構、重量、正反手分工與實戰組合](/post/table-tennis/blade-rubber-matrix/)
-
-### 如果你現在重點在底板世界觀
-先看：
-- [全面性的乒乓球底板材料分析：面材、力材、纖維與大芯](/post/table-tennis/blade-materials/)
-- [常見乒乓球底板型號完全對照表：結構、手感、定位與適合打法](/post/table-tennis/blade-model-comparison/)
-
-### 如果你現在重點在器材升級順序
-先看：
-- [桌球器材升級路線圖：PH AK47 → XVT G-1 → ACH T 系列](/post/table-tennis/equipment-roadmap/)
-- [我的桌球器材清單](/post/table-tennis/my-equipment/)
-
----
-
-## 十、延伸閱讀
-
-- [桌球 KB 總索引：技術、器材、發接發、對手準備](/post/table-tennis/knowledge-map/)
+- [回到桌球 KB 總索引](/post/table-tennis/knowledge-map/)

@@ -2,6 +2,7 @@
 title: "桌球膠皮厚度怎麼選：Fastarc G-1、Rakza 7 與 Rakza 7 Soft 搭配底板指南"
 description: "比較 1.8、2.0 與 MAX 海綿厚度的速度、旋轉、控制、重量與透板差異，並整理 Nittaku Fastarc G-1、Yasaka Rakza 7、Rakza 7 Soft 適合的底板類型。"
 date: 2026-11-06
+lastmod: 2026-11-10
 slug: rubber-sponge-thickness-g1-rakza7
 categories:
   - table-tennis
@@ -15,6 +16,8 @@ tags:
 ---
 
 # 桌球膠皮厚度怎麼選：G-1、Rakza 7、Rakza 7 Soft 與底板搭配
+
+> **本文定位：** 只處理 1.8、2.0 與 MAX 的厚度取捨；價格看[反膠價格分析](/post/table-tennis/inverted-rubber-pricing/)，目前配置看[我的桌球器材清單](/post/table-tennis/my-equipment/)。
 
 膠皮型號決定基本個性，**厚度則決定這個個性以多直接、多深、多重的方式出現**。同一張膠皮從 1.8 mm 換成 MAX，不只是「快一點」，還會一起改變透板感、吃球深度、發大力時的支撐、整拍重量與回中速度。
 
@@ -221,9 +224,9 @@ Soft 不是低階版，而是用較軟海綿換取啟動、持球與容錯。代
 | 內置纖維 | G-1 2.0～MAX、R7 2.0～MAX | G-1 2.0、R7 2.0、Soft 2.0 | 軟內置＋Soft MAX 過度陷球 |
 | 外置纖維 | G-1 1.8～2.0、R7 1.8～2.0 | R7 1.8～2.0、Soft 2.0～MAX | G-1 MAX 雙面，除非力量與回中已成熟 |
 
-## 九、套到目前器材主線
+## 九、套到 XVT 外置板的配置例
 
-依目前 KB 的器材規劃，XVT 外置纖維屬於較直接、速度較明顯的驗收線。這種底板不缺一速，真正需要的是控制整拍重量、台內品質與第二拍回中。
+以下是只用 G-1、Rakza 7 與 Rakza 7 Soft 三張膠皮時的厚度示例，不代表目前實際貼法；最新 XVT 配置與減重計畫以[我的桌球器材清單](/post/table-tennis/my-equipment/)為準。XVT 外置纖維本身不缺一速，真正需要的是控制整拍重量、台內品質與第二拍回中。
 
 因此較穩健的起點是：
 

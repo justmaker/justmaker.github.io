@@ -198,7 +198,6 @@ YEO 的中小力量輸出較線性，擺短、劈長與搓球時容易依靠手�
 
 - [VIS、樊振東 ALC、W968 怎麼選？三支經典底板的結構、手感與打法比較](/post/table-tennis/viscaria-fan-zhendong-alc-w968-comparison/)
 - [全面性的乒乓球底板材料分析：面材、力材、纖維與大芯](/post/table-tennis/blade-materials/)
-- [常見乒乓球底板型號完全對照表：結構、手感、定位與適合打法](/post/table-tennis/blade-model-comparison/)
+- [常見乒乓球底板家族速查：結構、手感與適合打法](/post/table-tennis/blade-model-comparison/)
 - [底板 × 膠皮搭配矩陣：結構、重量、正反手分工與實戰組合](/post/table-tennis/blade-rubber-matrix/)
 - [我的發球回合戰術與 YEO 出戰策略](/post/table-tennis/serve-tactics-yeo/)
-
